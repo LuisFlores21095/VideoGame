@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 3ca178ec5e22afa45a508c9caac14763
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 745810634644728773
+    second: king-of-dragons-arcade-aldo-cleric-final_0
+  - first:
+      213: 5614477314072630188
+    second: king-of-dragons-arcade-aldo-cleric-final_1
+  - first:
+      213: -7083090784251961609
+    second: king-of-dragons-arcade-aldo-cleric-final_2
+  - first:
+      213: 7089497791723332671
+    second: king-of-dragons-arcade-aldo-cleric-final_3
+  - first:
+      213: 3537128007880054200
+    second: king-of-dragons-arcade-aldo-cleric-final_4
+  - first:
+      213: -7997209301857155039
+    second: king-of-dragons-arcade-aldo-cleric-final_5
+  - first:
+      213: 3226291436016950359
+    second: king-of-dragons-arcade-aldo-cleric-final_6
+  - first:
+      213: 6429091136306898368
+    second: king-of-dragons-arcade-aldo-cleric-final_7
+  - first:
+      213: -8527809298977623023
+    second: king-of-dragons-arcade-aldo-cleric-final_8
+  - first:
+      213: 1496982654213947291
+    second: king-of-dragons-arcade-aldo-cleric-final_9
+  - first:
+      213: -1509801661343099433
+    second: king-of-dragons-arcade-aldo-cleric-final_10
+  - first:
+      213: 2348997403991719745
+    second: king-of-dragons-arcade-aldo-cleric-final_11
+  - first:
+      213: 2596286623465467763
+    second: king-of-dragons-arcade-aldo-cleric-final_12
+  - first:
+      213: 4925970425364266191
+    second: king-of-dragons-arcade-aldo-cleric-final_13
+  - first:
+      213: -2968866016503050780
+    second: king-of-dragons-arcade-aldo-cleric-final_14
+  - first:
+      213: -2355234839095540969
+    second: king-of-dragons-arcade-aldo-cleric-final_15
+  - first:
+      213: 2583016587451370661
+    second: king-of-dragons-arcade-aldo-cleric-final_16
+  - first:
+      213: 4113177381498711134
+    second: king-of-dragons-arcade-aldo-cleric-final_17
+  - first:
+      213: 4896137426478067235
+    second: king-of-dragons-arcade-aldo-cleric-final_18
+  - first:
+      213: 8712739054836151474
+    second: king-of-dragons-arcade-aldo-cleric-final_19
+  - first:
+      213: 2533248781572970731
+    second: king-of-dragons-arcade-aldo-cleric-final_20
+  - first:
+      213: 1471393472112145390
+    second: king-of-dragons-arcade-aldo-cleric-final_21
+  - first:
+      213: 7311719640148857884
+    second: king-of-dragons-arcade-aldo-cleric-final_22
+  - first:
+      213: 3346153036703833799
+    second: king-of-dragons-arcade-aldo-cleric-final_23
+  - first:
+      213: -7349406131664204584
+    second: king-of-dragons-arcade-aldo-cleric-final_24
+  - first:
+      213: -4029726826483104112
+    second: king-of-dragons-arcade-aldo-cleric-final_25
+  - first:
+      213: 2707244295109455845
+    second: king-of-dragons-arcade-aldo-cleric-final_26
+  - first:
+      213: 4465058184772859879
+    second: king-of-dragons-arcade-aldo-cleric-final_27
+  - first:
+      213: -6047763203661499798
+    second: king-of-dragons-arcade-aldo-cleric-final_28
+  - first:
+      213: 5481163036511643960
+    second: king-of-dragons-arcade-aldo-cleric-final_29
+  - first:
+      213: -322480335432265974
+    second: king-of-dragons-arcade-aldo-cleric-final_30
+  - first:
+      213: -6103648935565106434
+    second: king-of-dragons-arcade-aldo-cleric-final_31
+  - first:
+      213: -7707111002828377867
+    second: king-of-dragons-arcade-aldo-cleric-final_32
+  - first:
+      213: -5540079946753527324
+    second: king-of-dragons-arcade-aldo-cleric-final_33
+  - first:
+      213: 2482088050898383504
+    second: king-of-dragons-arcade-aldo-cleric-final_34
+  - first:
+      213: 7434180860466209563
+    second: king-of-dragons-arcade-aldo-cleric-final_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 875
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e3e6b646119444bc666ceaf9df4cd
+      internalID: 745810634644728773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 869
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c1aa22467624488d0b284d181ed6a
+      internalID: 5614477314072630188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 865
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228021409d3106b4eae61aa4360463ea
+      internalID: -7083090784251961609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 871
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c63eea2a70dc94985b5b1309dd2fa5
+      internalID: 7089497791723332671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 789
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcedcc55c00fde4489b408ce15516b3
+      internalID: 3537128007880054200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 787
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d39d3ac7a2d22d40a9ffd35a5241e05
+      internalID: -7997209301857155039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 786
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04474810837cc4d4abfce581017420c0
+      internalID: 3226291436016950359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 790
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e9c4846f9be334b9613f27baee9f8b
+      internalID: 6429091136306898368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 790
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d927ce42559f94d87ca977aa1729fa
+      internalID: -8527809298977623023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 793
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe2a5f2e38a87741b635d7b95da662d
+      internalID: 1496982654213947291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 792
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04fced21623d8d4b819a208ddc58a5f
+      internalID: -1509801661343099433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 791
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb5f68610107524a8cd891f281f5add
+      internalID: 2348997403991719745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 718
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba28fd916df41794a8cf6b2c7f1dcdef
+      internalID: 2596286623465467763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 718
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e74b438b282494cab548d9341d4bf8
+      internalID: 4925970425364266191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 721
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5eebaafb69e6e459da041ed8d32b02
+      internalID: -2968866016503050780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 727
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d39205fc9c9445bb323f0334dc405
+      internalID: -2355234839095540969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 720
+        width: 115
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb2ea410380eaf4b9282b04e110408b
+      internalID: 2583016587451370661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 583
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ad822dfa30a045a2eab0669d96f50
+      internalID: 4113177381498711134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 648
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4099094b2ae66dc4ba0cca8aaed57c69
+      internalID: 4896137426478067235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 671
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57942b0e339f39a4a8b5bd517769df56
+      internalID: 8712739054836151474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 582
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e04f25a46d37d64296a93736d89b8a0
+      internalID: 2533248781572970731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 638
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82948932962fd942840e23652c1d5e7
+      internalID: 1471393472112145390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 587
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e24013e52337e4784a9dcde2e7e048
+      internalID: 7311719640148857884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 623
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e09807167ea94a9516c5c8e4faaac
+      internalID: 3346153036703833799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 545
+        width: 30
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5fb1e989c1a3a43974a3ad6e4f5785
+      internalID: -7349406131664204584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 494
+        width: 102
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd135283d6880a47bbfc197e6fc5bd7
+      internalID: -4029726826483104112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 583
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd213363f4a8c7b4c904fd7aff258009
+      internalID: 2707244295109455845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 583
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e2be398c70c0942a10b5752b567784
+      internalID: 4465058184772859879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 524
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e674d9a4fcbcd7409dfa988d3212dc0
+      internalID: -6047763203661499798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 455
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0699e859195f7d947bceaaa14b36be47
+      internalID: 5481163036511643960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 456
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c624a1e57a459974698060e87e1f0ffa
+      internalID: -322480335432265974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 468
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347fa9895a6ec7a44896c3cb9d92f49f
+      internalID: -6103648935565106434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 398
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ab3cbf2ce180e478b3e618ea5bf7f6
+      internalID: -7707111002828377867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 397
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d84253a3a7b8429d270cd8a6225b8
+      internalID: -5540079946753527324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 395
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd765220a8941c4e95a0a13ace969b9
+      internalID: 2482088050898383504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king-of-dragons-arcade-aldo-cleric-final_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 399
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ae38d5f1b922541b535ee91abbc311
+      internalID: 7434180860466209563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 071fbcfcf42c3234ebe168816439fada
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
