@@ -1,0 +1,3468 @@
+fileFormatVersion: 2
+guid: a1ebd66aae2b6cc49839a181185e1120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6791526638672535705
+    second: KingoftheDragons_orcs_0
+  - first:
+      213: 8334819835735936506
+    second: KingoftheDragons_orcs_1
+  - first:
+      213: 5438413564644981957
+    second: KingoftheDragons_orcs_2
+  - first:
+      213: 5091876412628118064
+    second: KingoftheDragons_orcs_3
+  - first:
+      213: 5978904721483721491
+    second: KingoftheDragons_orcs_4
+  - first:
+      213: 2319358160196511609
+    second: KingoftheDragons_orcs_5
+  - first:
+      213: -4712066507553602623
+    second: KingoftheDragons_orcs_6
+  - first:
+      213: 6720502242287688833
+    second: KingoftheDragons_orcs_7
+  - first:
+      213: -8077344492287799263
+    second: KingoftheDragons_orcs_8
+  - first:
+      213: 5106416457521988205
+    second: KingoftheDragons_orcs_9
+  - first:
+      213: 7220830785493530268
+    second: KingoftheDragons_orcs_10
+  - first:
+      213: 3524049201167982146
+    second: KingoftheDragons_orcs_11
+  - first:
+      213: -5333166129473087306
+    second: KingoftheDragons_orcs_12
+  - first:
+      213: 4059743967598146365
+    second: KingoftheDragons_orcs_13
+  - first:
+      213: -6414963897114125095
+    second: KingoftheDragons_orcs_14
+  - first:
+      213: -5344346666127568066
+    second: KingoftheDragons_orcs_15
+  - first:
+      213: -4511579707012560068
+    second: KingoftheDragons_orcs_16
+  - first:
+      213: 3489765860519633130
+    second: KingoftheDragons_orcs_17
+  - first:
+      213: 264013894437472349
+    second: KingoftheDragons_orcs_18
+  - first:
+      213: -6856033927249304639
+    second: KingoftheDragons_orcs_19
+  - first:
+      213: 7599878649379912298
+    second: KingoftheDragons_orcs_20
+  - first:
+      213: -2530724977095983351
+    second: KingoftheDragons_orcs_21
+  - first:
+      213: -6428186131110351666
+    second: KingoftheDragons_orcs_22
+  - first:
+      213: 1171121217115680188
+    second: KingoftheDragons_orcs_23
+  - first:
+      213: 6901806576956056675
+    second: KingoftheDragons_orcs_24
+  - first:
+      213: 2402746179793693458
+    second: KingoftheDragons_orcs_25
+  - first:
+      213: 27476590339031878
+    second: KingoftheDragons_orcs_26
+  - first:
+      213: -7778244309758970014
+    second: KingoftheDragons_orcs_27
+  - first:
+      213: -4020733488883835674
+    second: KingoftheDragons_orcs_28
+  - first:
+      213: 3108381264741186776
+    second: KingoftheDragons_orcs_29
+  - first:
+      213: 4235038429959524396
+    second: KingoftheDragons_orcs_30
+  - first:
+      213: 7013847554873660271
+    second: KingoftheDragons_orcs_31
+  - first:
+      213: -6950248044364526231
+    second: KingoftheDragons_orcs_32
+  - first:
+      213: -3238791502141113562
+    second: KingoftheDragons_orcs_33
+  - first:
+      213: 5235988514362197667
+    second: KingoftheDragons_orcs_34
+  - first:
+      213: 2452318862685668212
+    second: KingoftheDragons_orcs_35
+  - first:
+      213: 2303682965673342578
+    second: KingoftheDragons_orcs_36
+  - first:
+      213: 154019993124774733
+    second: KingoftheDragons_orcs_37
+  - first:
+      213: -4214330462921197006
+    second: KingoftheDragons_orcs_38
+  - first:
+      213: 4277344465043672834
+    second: KingoftheDragons_orcs_39
+  - first:
+      213: 6263192852082200612
+    second: KingoftheDragons_orcs_40
+  - first:
+      213: -2633597654786737863
+    second: KingoftheDragons_orcs_41
+  - first:
+      213: -5388206099504945373
+    second: KingoftheDragons_orcs_42
+  - first:
+      213: -4377979840349842853
+    second: KingoftheDragons_orcs_43
+  - first:
+      213: -5149520861652630584
+    second: KingoftheDragons_orcs_44
+  - first:
+      213: 1507436587978429796
+    second: KingoftheDragons_orcs_45
+  - first:
+      213: 1739150222327507332
+    second: KingoftheDragons_orcs_46
+  - first:
+      213: 4049929290781517564
+    second: KingoftheDragons_orcs_47
+  - first:
+      213: -34116174339869226
+    second: KingoftheDragons_orcs_48
+  - first:
+      213: 3705787607345125947
+    second: KingoftheDragons_orcs_49
+  - first:
+      213: 8392239888146073694
+    second: KingoftheDragons_orcs_50
+  - first:
+      213: -4956677976960492544
+    second: KingoftheDragons_orcs_51
+  - first:
+      213: -1945306229135117843
+    second: KingoftheDragons_orcs_52
+  - first:
+      213: -213339556982013080
+    second: KingoftheDragons_orcs_53
+  - first:
+      213: 5892177293565881173
+    second: KingoftheDragons_orcs_54
+  - first:
+      213: 5946415908450855932
+    second: KingoftheDragons_orcs_55
+  - first:
+      213: -5189119909566290793
+    second: KingoftheDragons_orcs_56
+  - first:
+      213: 6465853306548710876
+    second: KingoftheDragons_orcs_57
+  - first:
+      213: -577086687542185866
+    second: KingoftheDragons_orcs_58
+  - first:
+      213: 4098570351926265939
+    second: KingoftheDragons_orcs_59
+  - first:
+      213: 2268665546310738431
+    second: KingoftheDragons_orcs_60
+  - first:
+      213: 8290485451689540300
+    second: KingoftheDragons_orcs_61
+  - first:
+      213: -7007097673288135212
+    second: KingoftheDragons_orcs_62
+  - first:
+      213: 3481300483913995611
+    second: KingoftheDragons_orcs_63
+  - first:
+      213: -7986011549333761583
+    second: KingoftheDragons_orcs_64
+  - first:
+      213: 8002628706850521479
+    second: KingoftheDragons_orcs_65
+  - first:
+      213: 2439732585386458025
+    second: KingoftheDragons_orcs_66
+  - first:
+      213: -6804086355766360651
+    second: KingoftheDragons_orcs_67
+  - first:
+      213: -7838439947365390197
+    second: KingoftheDragons_orcs_68
+  - first:
+      213: 2374344760922395236
+    second: KingoftheDragons_orcs_69
+  - first:
+      213: -6922637168611618356
+    second: KingoftheDragons_orcs_70
+  - first:
+      213: 8600493770672254450
+    second: KingoftheDragons_orcs_71
+  - first:
+      213: 7171671892692658249
+    second: KingoftheDragons_orcs_72
+  - first:
+      213: -5718820422015521352
+    second: KingoftheDragons_orcs_73
+  - first:
+      213: 4282127118080130319
+    second: KingoftheDragons_orcs_74
+  - first:
+      213: 2319724618452149811
+    second: KingoftheDragons_orcs_75
+  - first:
+      213: -7662778903187530275
+    second: KingoftheDragons_orcs_76
+  - first:
+      213: 7972145801106677714
+    second: KingoftheDragons_orcs_77
+  - first:
+      213: -7175331861178013375
+    second: KingoftheDragons_orcs_78
+  - first:
+      213: -6707375264795644156
+    second: KingoftheDragons_orcs_79
+  - first:
+      213: 8451474610539256526
+    second: KingoftheDragons_orcs_80
+  - first:
+      213: -4037066516652991423
+    second: KingoftheDragons_orcs_81
+  - first:
+      213: 5566546577952795724
+    second: KingoftheDragons_orcs_82
+  - first:
+      213: -6769888669408765359
+    second: KingoftheDragons_orcs_83
+  - first:
+      213: 3179764083504728655
+    second: KingoftheDragons_orcs_84
+  - first:
+      213: -6203988085894817972
+    second: KingoftheDragons_orcs_85
+  - first:
+      213: -4237233260690207643
+    second: KingoftheDragons_orcs_86
+  - first:
+      213: 3075956370114307132
+    second: KingoftheDragons_orcs_87
+  - first:
+      213: 2329626213842975
+    second: KingoftheDragons_orcs_88
+  - first:
+      213: 234663527402285089
+    second: KingoftheDragons_orcs_89
+  - first:
+      213: 1777744328938090634
+    second: KingoftheDragons_orcs_90
+  - first:
+      213: 3367842923933104726
+    second: KingoftheDragons_orcs_91
+  - first:
+      213: -4866508793302275939
+    second: KingoftheDragons_orcs_92
+  - first:
+      213: -1571010631551239822
+    second: KingoftheDragons_orcs_93
+  - first:
+      213: 6773563392033595324
+    second: KingoftheDragons_orcs_94
+  - first:
+      213: -2934368940225619816
+    second: KingoftheDragons_orcs_95
+  - first:
+      213: 6234279588841189670
+    second: KingoftheDragons_orcs_96
+  - first:
+      213: 3180450543827294922
+    second: KingoftheDragons_orcs_97
+  - first:
+      213: 4838774782532472033
+    second: KingoftheDragons_orcs_98
+  - first:
+      213: -5853102279994963888
+    second: KingoftheDragons_orcs_99
+  - first:
+      213: 631362666104986623
+    second: KingoftheDragons_orcs_100
+  - first:
+      213: -3306335179363621028
+    second: KingoftheDragons_orcs_101
+  - first:
+      213: -4881074188586771376
+    second: KingoftheDragons_orcs_102
+  - first:
+      213: -7369079920165802976
+    second: KingoftheDragons_orcs_103
+  - first:
+      213: -6845631685035078093
+    second: KingoftheDragons_orcs_104
+  - first:
+      213: 6704566083012888893
+    second: KingoftheDragons_orcs_105
+  - first:
+      213: -5943532011461999714
+    second: KingoftheDragons_orcs_106
+  - first:
+      213: -8684720838871270742
+    second: KingoftheDragons_orcs_107
+  - first:
+      213: 2091308300826481390
+    second: KingoftheDragons_orcs_108
+  - first:
+      213: -5196530756494859585
+    second: KingoftheDragons_orcs_109
+  - first:
+      213: -1557452773609190724
+    second: KingoftheDragons_orcs_110
+  - first:
+      213: -6244477026302979577
+    second: KingoftheDragons_orcs_111
+  - first:
+      213: 3406774515101313927
+    second: KingoftheDragons_orcs_112
+  - first:
+      213: 158326970184473978
+    second: KingoftheDragons_orcs_113
+  - first:
+      213: 4770977750916481434
+    second: KingoftheDragons_orcs_114
+  - first:
+      213: -2876290449701369096
+    second: KingoftheDragons_orcs_115
+  - first:
+      213: 919475719012901239
+    second: KingoftheDragons_orcs_116
+  - first:
+      213: -2104875282238785785
+    second: KingoftheDragons_orcs_117
+  - first:
+      213: 5119924286477566596
+    second: KingoftheDragons_orcs_118
+  - first:
+      213: -6616223800019940674
+    second: KingoftheDragons_orcs_119
+  - first:
+      213: 1034283932424024494
+    second: KingoftheDragons_orcs_120
+  - first:
+      213: -2636741225599058906
+    second: KingoftheDragons_orcs_121
+  - first:
+      213: 1681878600676312382
+    second: KingoftheDragons_orcs_122
+  - first:
+      213: -2285522450737564659
+    second: KingoftheDragons_orcs_123
+  - first:
+      213: -8839837134891525349
+    second: KingoftheDragons_orcs_124
+  - first:
+      213: -6850127922426532292
+    second: KingoftheDragons_orcs_125
+  - first:
+      213: -7705745204678305063
+    second: KingoftheDragons_orcs_126
+  - first:
+      213: -4942407543438576543
+    second: KingoftheDragons_orcs_127
+  - first:
+      213: -6777741646643310883
+    second: KingoftheDragons_orcs_128
+  - first:
+      213: 7923417375985894893
+    second: KingoftheDragons_orcs_129
+  - first:
+      213: -2438591526612492592
+    second: KingoftheDragons_orcs_130
+  - first:
+      213: -237743238175916475
+    second: KingoftheDragons_orcs_131
+  - first:
+      213: -4757964835581850439
+    second: KingoftheDragons_orcs_132
+  - first:
+      213: -6631718215788810327
+    second: KingoftheDragons_orcs_133
+  - first:
+      213: 877223630634990062
+    second: KingoftheDragons_orcs_134
+  - first:
+      213: -1268030053207474219
+    second: KingoftheDragons_orcs_135
+  - first:
+      213: -4322458390223034785
+    second: KingoftheDragons_orcs_136
+  - first:
+      213: 8285395754367399991
+    second: KingoftheDragons_orcs_137
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f69910eb9482064bafaff4df8b1fa45
+      internalID: -6791526638672535705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334e49520f7b0a4e93f4e1edcb1bf3c
+      internalID: 8334819835735936506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6979a14801d9c5945b1f1b5a110678e4
+      internalID: 5438413564644981957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98aafc0d4113674b92744e5c1f1e8a0
+      internalID: 5091876412628118064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c41555e3e1e8f54bac18dc66c13e469
+      internalID: 5978904721483721491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728579345b042ec41b024603a30b1dd6
+      internalID: 2319358160196511609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3670096e769451f439ec74449cf73be3
+      internalID: -4712066507553602623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b099fc15137c44930124934d11b35
+      internalID: 6720502242287688833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 732
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0e28d03a4c724293df0b74b19947e
+      internalID: -8077344492287799263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d73b6a18a0d541b979ff967ab6488
+      internalID: 5106416457521988205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee6274e42789842bed97e940373c01
+      internalID: 7220830785493530268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f884532622ada4ea08003d91d50e39
+      internalID: 3524049201167982146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed199d39b6ccc644a467c7d38e5d4e4
+      internalID: -5333166129473087306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f768a70c9f91d469ff06ccb5c1c779
+      internalID: 4059743967598146365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bbb33f0d082ca489191b3027f8b163
+      internalID: -6414963897114125095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f8495925e5cc148ac0d4e891b08440
+      internalID: -5344346666127568066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f6ef9c125b5042902254db61a0eba
+      internalID: -4511579707012560068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76749815e49bb4b93b6912ed55d927
+      internalID: 3489765860519633130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b7131362d7834ba632ab0d02e838e
+      internalID: 264013894437472349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_19
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14cf81abe119044a8cc3d106e82138e
+      internalID: -6856033927249304639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2a7250579a564fb9eb768b38cd580
+      internalID: 7599878649379912298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ede0b2b536c54b92de85d11479f1d
+      internalID: -2530724977095983351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_22
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 669
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e740b1b94c71499f4870b2781d564
+      internalID: -6428186131110351666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1237c9a2385f844b9d08731a07f9fe7
+      internalID: 1171121217115680188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c46491ec7ae584ab1b50849280305e
+      internalID: 6901806576956056675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b46f7c38f3fbd4d9f3759f61b78a56
+      internalID: 2402746179793693458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf4e41a6fd9f334f9e89449242392b6
+      internalID: 27476590339031878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413035ab5d59a624a94f49f400150e59
+      internalID: -7778244309758970014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4fe9d47068f5d448a4f14c81ffac5f
+      internalID: -4020733488883835674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_29
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee62c37f7d571ac42843054991e33c27
+      internalID: 3108381264741186776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a68e2c37df3ffc42a0e6569b517aaf7
+      internalID: 4235038429959524396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa562b1eefa01d4429cde4d9cebfe333
+      internalID: 7013847554873660271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca2aced792ca648a789b6d9179e9fa
+      internalID: -6950248044364526231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_33
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46572d4f21c5954e9dc9ff6eb052d33
+      internalID: -3238791502141113562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_34
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2489c5ab223f58d43b3a370536fd374b
+      internalID: 5235988514362197667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b005a8664674404c943748f13eeb8c7
+      internalID: 2452318862685668212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3875a9aa21214c94694554eee25dbce7
+      internalID: 2303682965673342578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabaac92f1f95d341a9299d69897ec7a
+      internalID: 154019993124774733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091cfeeab33d67243a0467087476366f
+      internalID: -4214330462921197006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_39
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfa5228190fd9a428f6e00fca3f8d60
+      internalID: 4277344465043672834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2df43c3080d8c41a8d4fe409d12181
+      internalID: 6263192852082200612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_41
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e76c91832d69374790ef0c480a7bf4b
+      internalID: -2633597654786737863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_42
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f89d452156449440954a7d84bdf4b88
+      internalID: -5388206099504945373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_43
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbbfcf283fdde64c89b1b1a46d08735
+      internalID: -4377979840349842853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_44
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f931221b4eb63e5418cd045bf098052e
+      internalID: -5149520861652630584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_45
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af640ff7446ab8d479109a33acfb8f88
+      internalID: 1507436587978429796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_46
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 541
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08bebc87ccf4bf4b9f746429b00b4c3
+      internalID: 1739150222327507332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3a3d1cc58b0643a7c8918112873c0
+      internalID: 4049929290781517564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99eac59f91f044dba259dcc296824f
+      internalID: -34116174339869226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_49
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4ec6dab233e24b849da163f372082
+      internalID: 3705787607345125947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_50
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a20b2a381162f4390094f07346ea66
+      internalID: 8392239888146073694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45d15bf912625445b84bbf109f7273a
+      internalID: -4956677976960492544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a456394a24214459054aaedf5c0779
+      internalID: -1945306229135117843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_53
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cbce529a6aefd4a8cd26589d494d51
+      internalID: -213339556982013080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_54
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9963492aaf38fd459a27c1df7572aae
+      internalID: 5892177293565881173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_55
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a2b0dc95dea6d4b9d37b033464fc11
+      internalID: 5946415908450855932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_56
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271723c25a196924a9cfd0f7955d183d
+      internalID: -5189119909566290793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_57
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf933ba887b58c247946ca152f45c83e
+      internalID: 6465853306548710876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_58
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42043b577fb5e14fb303ec073cf3493
+      internalID: -577086687542185866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_59
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb3d0b4b52f1c4f8331a9beb7bd768
+      internalID: 4098570351926265939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6605108698c9f4388aef5dedd2884b
+      internalID: 2268665546310738431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e65340902f3324eb4c3003889a1d11
+      internalID: 8290485451689540300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_62
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837cd49e8b287f14c9ba9129376c61f5
+      internalID: -7007097673288135212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee6d43d2d176445ace34602820e000
+      internalID: 3481300483913995611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_64
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885702c42f371742af1fe937efaf569
+      internalID: -7986011549333761583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_65
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0229822c757c0f543a88d45da11c8c2d
+      internalID: 8002628706850521479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_66
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe339a4e6242e1745bba3eddd3dfc1f1
+      internalID: 2439732585386458025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_67
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbda36f366663004ab5c5c242ec2b47a
+      internalID: -6804086355766360651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_68
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfe0c1d7421a9c479c4db2b4e056a97
+      internalID: -7838439947365390197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_69
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9922b42a45b4443aab9f67337a6aa6
+      internalID: 2374344760922395236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_70
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 413
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549896fd6bb68c24fb7263f43971609a
+      internalID: -6922637168611618356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_71
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c804494945a514b81d22af8c28ff97
+      internalID: 8600493770672254450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_72
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d4c745f5547e45b414ef780453f8b
+      internalID: 7171671892692658249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_73
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f474a7e36a42f4c81f5580185d133b
+      internalID: -5718820422015521352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_74
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebd4b0da45cee9499e24c2d11077093
+      internalID: 4282127118080130319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_75
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbbd8002a02ec147b3ad0d76f71d835
+      internalID: 2319724618452149811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_76
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c3215a3a26e084a8810325b1324924
+      internalID: -7662778903187530275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_77
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c61465b877c341a18769d9ccaf46d
+      internalID: 7972145801106677714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_78
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26bef8bb560cd44babb5f1a08bb2e77
+      internalID: -7175331861178013375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_79
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884e218036ae8e243ae329c23b0009cd
+      internalID: -6707375264795644156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_80
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae076b08430694bb293bd5ffbf87c6
+      internalID: 8451474610539256526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_81
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 349
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21886b29da0f81c41928df7b894e979c
+      internalID: -4037066516652991423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_82
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698889a439f040845bf86e77f56f6408
+      internalID: 5566546577952795724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_83
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d2b5eae5408540958cb38b88fdbad
+      internalID: -6769888669408765359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_84
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868408576dfabf4f9733990aac5cf5b
+      internalID: 3179764083504728655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_85
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5f3c3610c470e40912a0c44ad6e890
+      internalID: -6203988085894817972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_86
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef57e6067393f441bdfbe3127f1e82c
+      internalID: -4237233260690207643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_87
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9b3bf5aa923164da3f030961cf077e
+      internalID: 3075956370114307132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_88
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36eb5518d8ea74fa53f107b5fc1832
+      internalID: 2329626213842975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_89
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560a31436cd5c040b0f85e09b8b65c8
+      internalID: 234663527402285089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_90
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c839c6acb4b4a0845bc8e50e7d26000d
+      internalID: 1777744328938090634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_91
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b1f5ce37fc4054e9768c697ae65325
+      internalID: 3367842923933104726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_92
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4869fed5f2cb72b4f8d9311beb9e1994
+      internalID: -4866508793302275939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_93
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 285
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312c55df426d4e4c84e820a692c54d0
+      internalID: -1571010631551239822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_94
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689b4ce84f11bcc4da9dc5b1a8f3835e
+      internalID: 6773563392033595324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_95
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec677be6120ba04eb375ed9b82438bd
+      internalID: -2934368940225619816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e9ec9f8478554eba005fb5eaf2344
+      internalID: 6234279588841189670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_97
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e568bc57b540641b6c71ce2fcac8c8
+      internalID: 3180450543827294922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_98
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b25536db3fd8747b5c75aab013b6d0
+      internalID: 4838774782532472033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_99
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24e21623952404fbc6f0f89cbdf13a
+      internalID: -5853102279994963888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_100
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5caa4b87827a14cba53e1a15dc15f0
+      internalID: 631362666104986623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_101
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a2c22857c6e742b6b131adc19c709
+      internalID: -3306335179363621028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_102
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e8ffa1f4139db4a9154bb947911b1d
+      internalID: -4881074188586771376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_103
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 221
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307875c1173040543a65cc0a0be849e6
+      internalID: -7369079920165802976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_104
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e580e48a1b4594c8035366ddab0525
+      internalID: -6845631685035078093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_105
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa8985450a6a04390cffa15417aea4
+      internalID: 6704566083012888893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_106
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c17b5dc3a00c04dba4d38c64b8578f
+      internalID: -5943532011461999714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_107
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9134eea9ab67b4f87551eb2a6f8cd7
+      internalID: -8684720838871270742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_108
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9518f8fe731590c49a2afed40fb26fba
+      internalID: 2091308300826481390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_109
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aa0223fea32744db656a9a2c87b819
+      internalID: -5196530756494859585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_110
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd0db533f081a42b1d0b8af435e85b
+      internalID: -1557452773609190724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_111
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0babfd1adbbe49a2cbe59d83e4c33
+      internalID: -6244477026302979577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_112
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c91393dc5bcc844be5629564ff4481
+      internalID: 3406774515101313927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_113
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 157
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d8b16d0763ab41b153123a0706c09
+      internalID: 158326970184473978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_114
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7def7a9dca15a4296ca1bd19726f0c
+      internalID: 4770977750916481434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_115
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542aedfca53f8749bec2b2c14028cef
+      internalID: -2876290449701369096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_116
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1b05e6079447646bd0015a8721fee9
+      internalID: 919475719012901239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_117
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e88af85991af64292fe49bb465eee5
+      internalID: -2104875282238785785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_118
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b9e187c8cc03348ae902552d939820
+      internalID: 5119924286477566596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_119
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4761fafb930f640b2475d84b2f33b9
+      internalID: -6616223800019940674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_120
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c96abeedde11934a8c9d71e78bef6df
+      internalID: 1034283932424024494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_121
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667e600993e868458a92338cdb04136
+      internalID: -2636741225599058906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_122
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d0d05c0f0e9d4482b1591063d2f73
+      internalID: 1681878600676312382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_123
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0d608faaaac694085b69a02c6c08c4
+      internalID: -2285522450737564659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_124
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb7e6746a30ce4c8912790a5a6b7d5
+      internalID: -8839837134891525349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_125
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 93
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c6013d961ded745875aedaa9a63e18
+      internalID: -6850127922426532292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_126
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b2faf3fecc514abd41c3d7c81f297
+      internalID: -7705745204678305063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_127
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d649d52240e0954eb3b9611db43b734
+      internalID: -4942407543438576543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_128
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25934148f580494fbf86fd6aa8fabf2
+      internalID: -6777741646643310883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_129
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75372533e5aeacc4da78102b4f57f87c
+      internalID: 7923417375985894893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_130
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef30e5574fe714d94dbb71de45ed59
+      internalID: -2438591526612492592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_131
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b396c6dc15834146b7f4a0e117e1403
+      internalID: -237743238175916475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_132
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196ed856f6fa0649a6eb611dc7a615e
+      internalID: -4757964835581850439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_133
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d015682bde0bf4682a74c71e864c37
+      internalID: -6631718215788810327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_134
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79eac41b0ce69d438cae014be7f77c3
+      internalID: 877223630634990062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_135
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148cf91331d2213408dbdbcf6eb9955e
+      internalID: -1268030053207474219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_136
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96b495176ca09047882ce04a470e004
+      internalID: -4322458390223034785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingoftheDragons_orcs_137
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf88a5d3a066644485708e60fc039ef
+      internalID: 8285395754367399991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5dc5b17c3c10f9f4b9cdce331f2c7934
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -29,7 +29,7 @@ public class playerControls : MonoBehaviour
     float moveSpeed;
     float jumpForce;
 
-    Vector3 pos;
+    Vector2 pos;
 
     // Start is called before the first frame update
     void Start()
