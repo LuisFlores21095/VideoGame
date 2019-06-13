@@ -6,27 +6,25 @@ public class playerControls : MonoBehaviour
 {
     Rigidbody2D rb;
     Vector2 jump;
+    Collider2D coll;
 
     public float attackTimer = 0;
-    public float attackCooldown = 0.3f;
+    public float attackCooldown = 0.5f;
 
     public LayerMask groundLayer;
     public Transform groundedEnd;
     public Transform crouchCeilingEnd;
     public Animator animator;
+    public Animator attackAnimator;
 
-    public Collider2D attackTriggerLeft;
-    public Collider2D attackTriggerRight;
-    public Collider2D attackTriggerUp;
-    public Collider2D attackTriggerDown;
-
-    public Collider2D standCollider;
+    public Collider2D attackTriggerFront;
 
     float distDown;
 
     bool isGrounded = true;
     bool attack = false;
     bool crouch = false;
+    bool facingRight = true;
 
     float moveSpeed;
     float jumpForce;
@@ -37,17 +35,13 @@ public class playerControls : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        coll = GetComponent<Collider2D>();
         distDown = GetComponent<Collider2D>().bounds.extents.y;
 
-        attackTriggerLeft.enabled = false;
-        attackTriggerRight.enabled = false;
-        attackTriggerUp.enabled = false;
-        attackTriggerDown.enabled = false;
+        attackTriggerFront.enabled = false;
 
-        standCollider.enabled = true;
-
-        moveSpeed = 8.0f;
-        jumpForce = 4.0f;
+        moveSpeed = 4.0f;
+        jumpForce = 8.0f;
     }
 
     // Update is called once per frame
@@ -58,6 +52,9 @@ public class playerControls : MonoBehaviour
         jump = new Vector2(0.0f, jumpForce);
         animator.SetFloat("Speed", Mathf.Abs(Input.GetAxisRaw("Horizontal")*moveSpeed));
         animator.SetBool("Ground", isGrounded);
+
+        float horizontal = Input.GetAxis("Horizontal");
+        flipSprite(horizontal);
 
         //Player Controls
         if (Input.GetKey(KeyCode.A)) // move left
@@ -83,33 +80,21 @@ public class playerControls : MonoBehaviour
             crouch = true;
         }
 
-        if(Input.GetKey(KeyCode.RightArrow) && !attack)
+        if(Input.GetKey(KeyCode.Space) && !attack)
         {
             attack = true;
+            animator.SetTrigger("Attack");
+            attackAnimator.SetTrigger("Attack");
             attackTimer = attackCooldown;
-            attackTriggerRight.enabled = true;
-        }
-        if (Input.GetKey(KeyCode.LeftArrow) && !attack)
-        {
-            attack = true;
-            attackTimer = attackCooldown;
-            attackTriggerLeft.enabled = true;
-        }
-        if (Input.GetKey(KeyCode.UpArrow) && !attack)
-        {
-            attack = true;
-            attackTimer = attackCooldown;
-            attackTriggerUp.enabled = true;
-        }
-        if (Input.GetKey(KeyCode.DownArrow) && !attack)
-        {
-            attack = true;
-            attackTimer = attackCooldown;
-            attackTriggerDown.enabled = true;
+            attackTriggerFront.enabled = true;
         }
 
         if (attack)
         {
+            if(attackTimer < 0.3)
+            {
+                attackTriggerFront.enabled = false;
+            }
             if (attackTimer > 0)
             {
                 attackTimer -= Time.deltaTime;
@@ -117,37 +102,28 @@ public class playerControls : MonoBehaviour
             else
             {
                 attack = false;
-                attackTriggerLeft.enabled = false;
-                attackTriggerRight.enabled = false;
-                attackTriggerUp.enabled = false;
-                attackTriggerDown.enabled = false;
             }
-        }
-
-        if (crouch)
-        {
-            if (!Input.GetKey(KeyCode.LeftControl))
-            {
-                if (Physics2D.Linecast(pos, crouchCeilingEnd.position, 1 << LayerMask.NameToLayer("Ground")))
-                {
-                    //can't stand up here
-                }
-                else
-                {
-                    crouch = false;
-                }
-            }
-            standCollider.enabled = false;
-            moveSpeed = 2.0f;
-            jumpForce = 4.0f;
-        }
-        else
-        {
-            standCollider.enabled = true;
-            moveSpeed = 4.0f;
-            jumpForce = 8.0f;
         }
 
         transform.position = pos; // update position
+    }
+
+    private void flipSprite(float horizontal)
+    {
+        if(horizontal > 0 && !facingRight || horizontal < 0 && facingRight)
+        {
+            facingRight = !facingRight;
+            Vector2 charScale = transform.localScale;
+            charScale.x *= -1;
+            transform.localScale = charScale;
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if(col.gameObject.CompareTag("Enemy"))
+        {
+            animator.SetTrigger("Hurt");
+        }
     }
 }
