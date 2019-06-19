@@ -1,0 +1,1912 @@
+fileFormatVersion: 2
+guid: c4ba481124c5a07479103832c12588ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5053316113739395474
+    second: DnD-OgreLeader_0
+  - first:
+      213: -5759345690685518372
+    second: DnD-OgreLeader_1
+  - first:
+      213: -2253121723773941826
+    second: DnD-OgreLeader_2
+  - first:
+      213: 5579620323842829658
+    second: DnD-OgreLeader_3
+  - first:
+      213: -2554551975551066008
+    second: DnD-OgreLeader_4
+  - first:
+      213: 4299999040656409140
+    second: DnD-OgreLeader_5
+  - first:
+      213: -9198559462676711325
+    second: DnD-OgreLeader_6
+  - first:
+      213: -8489369146949902146
+    second: DnD-OgreLeader_7
+  - first:
+      213: 270197245194622763
+    second: DnD-OgreLeader_8
+  - first:
+      213: -8792044856747542438
+    second: DnD-OgreLeader_9
+  - first:
+      213: 7880310906508479640
+    second: DnD-OgreLeader_10
+  - first:
+      213: 4015610920163273101
+    second: DnD-OgreLeader_11
+  - first:
+      213: -4696970288055369253
+    second: DnD-OgreLeader_12
+  - first:
+      213: -3063011254606459480
+    second: DnD-OgreLeader_13
+  - first:
+      213: 4219121179262737855
+    second: DnD-OgreLeader_14
+  - first:
+      213: 3408643756001779634
+    second: DnD-OgreLeader_15
+  - first:
+      213: -371225424848725207
+    second: DnD-OgreLeader_16
+  - first:
+      213: -8471933686423233423
+    second: DnD-OgreLeader_17
+  - first:
+      213: 2085539533642789557
+    second: DnD-OgreLeader_18
+  - first:
+      213: -9219342446509589476
+    second: DnD-OgreLeader_19
+  - first:
+      213: 2938828919374767026
+    second: DnD-OgreLeader_20
+  - first:
+      213: -2115864123765865149
+    second: DnD-OgreLeader_21
+  - first:
+      213: 2067875524666059026
+    second: DnD-OgreLeader_22
+  - first:
+      213: -5198592759627828957
+    second: DnD-OgreLeader_23
+  - first:
+      213: -4212191569379221403
+    second: DnD-OgreLeader_24
+  - first:
+      213: 5779533620623132085
+    second: DnD-OgreLeader_25
+  - first:
+      213: 7123548710690766675
+    second: DnD-OgreLeader_26
+  - first:
+      213: -7502956464551307828
+    second: DnD-OgreLeader_27
+  - first:
+      213: 6825142321514286087
+    second: DnD-OgreLeader_28
+  - first:
+      213: 1633124595858220710
+    second: DnD-OgreLeader_29
+  - first:
+      213: -4081450607453878544
+    second: DnD-OgreLeader_30
+  - first:
+      213: -3362457448505296782
+    second: DnD-OgreLeader_31
+  - first:
+      213: -2083569800952887040
+    second: DnD-OgreLeader_32
+  - first:
+      213: 1386366894786921711
+    second: DnD-OgreLeader_33
+  - first:
+      213: -154261057798464239
+    second: DnD-OgreLeader_34
+  - first:
+      213: 823950167376303631
+    second: DnD-OgreLeader_35
+  - first:
+      213: 878677101322805551
+    second: DnD-OgreLeader_36
+  - first:
+      213: -5316012851243052341
+    second: DnD-OgreLeader_37
+  - first:
+      213: -6604999060893659380
+    second: DnD-OgreLeader_38
+  - first:
+      213: 5024018061781404780
+    second: DnD-OgreLeader_39
+  - first:
+      213: 1116933874923404694
+    second: DnD-OgreLeader_40
+  - first:
+      213: -1400439223383161635
+    second: DnD-OgreLeader_41
+  - first:
+      213: -3523811804658433819
+    second: DnD-OgreLeader_42
+  - first:
+      213: 6257124788908508891
+    second: DnD-OgreLeader_43
+  - first:
+      213: 8965741604346040672
+    second: DnD-OgreLeader_44
+  - first:
+      213: 8183637005947667713
+    second: DnD-OgreLeader_45
+  - first:
+      213: -3031538928532535465
+    second: DnD-OgreLeader_46
+  - first:
+      213: -7210905602064068111
+    second: DnD-OgreLeader_47
+  - first:
+      213: -2748523608404427671
+    second: DnD-OgreLeader_48
+  - first:
+      213: 3681970216511305005
+    second: DnD-OgreLeader_49
+  - first:
+      213: 8454602397494430806
+    second: DnD-OgreLeader_50
+  - first:
+      213: -3249600281610767168
+    second: DnD-OgreLeader_51
+  - first:
+      213: -5601328081542402697
+    second: DnD-OgreLeader_52
+  - first:
+      213: -2283834866310388860
+    second: DnD-OgreLeader_53
+  - first:
+      213: 1717321234586016545
+    second: DnD-OgreLeader_54
+  - first:
+      213: 6765166777452518701
+    second: DnD-OgreLeader_55
+  - first:
+      213: 6729325301489821702
+    second: DnD-OgreLeader_56
+  - first:
+      213: -1338070988724551962
+    second: DnD-OgreLeader_57
+  - first:
+      213: 9218821053656695536
+    second: DnD-OgreLeader_58
+  - first:
+      213: 5754439080937619704
+    second: DnD-OgreLeader_59
+  - first:
+      213: -8848422062570147557
+    second: DnD-OgreLeader_60
+  - first:
+      213: -967839058391201710
+    second: DnD-OgreLeader_61
+  - first:
+      213: -1910098681654126219
+    second: DnD-OgreLeader_62
+  - first:
+      213: -8596543809907304201
+    second: DnD-OgreLeader_63
+  - first:
+      213: -3411183239195783963
+    second: DnD-OgreLeader_64
+  - first:
+      213: 6235781797136529101
+    second: DnD-OgreLeader_65
+  - first:
+      213: 884209121756722231
+    second: DnD-OgreLeader_66
+  - first:
+      213: 5162559501425355965
+    second: DnD-OgreLeader_67
+  - first:
+      213: 7734830639646352964
+    second: DnD-OgreLeader_68
+  - first:
+      213: -7202862181011197382
+    second: DnD-OgreLeader_69
+  - first:
+      213: -5768448720434634919
+    second: DnD-OgreLeader_70
+  - first:
+      213: 1045482766325862695
+    second: DnD-OgreLeader_71
+  - first:
+      213: 7609794939199361201
+    second: DnD-OgreLeader_72
+  - first:
+      213: 7274284365920164359
+    second: DnD-OgreLeader_73
+  - first:
+      213: -5528084151774471529
+    second: DnD-OgreLeader_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DnD-OgreLeader_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2286
+        width: 187
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbf824092604ca4f824d1f2e99c3b3f
+      internalID: -5053316113739395474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2290
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840518cab88d388468f5d2d87684c048
+      internalID: -5759345690685518372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2285
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa02df581fc8a34bb4c28a431f91d08
+      internalID: -2253121723773941826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2108
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e920fddd035f11a4c984549c98462bd5
+      internalID: 5579620323842829658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2114
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2294d93fc97d7b245830bebc2d2e9d8d
+      internalID: -2554551975551066008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2118
+        width: 186
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79f4da566acf8c4b98760d4401fcd26
+      internalID: 4299999040656409140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_6
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2115
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88771874f37dd0a4eadfac07202f24fe
+      internalID: -9198559462676711325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_7
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2113
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc8d1c12765cf34c92714455a413c74
+      internalID: -8489369146949902146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_8
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2113
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb1cb89d8cd7f540bfb37836922bfe9
+      internalID: 270197245194622763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2113
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc77cd7d7068024fb46bd06a7bdc743
+      internalID: -8792044856747542438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_10
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2112
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38586d7f93e52384b96f005d66f3a682
+      internalID: 7880310906508479640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1898
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d063c34de9e4f4fb7f63addf8e4a81
+      internalID: 4015610920163273101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1901
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f5d9fe32a48f945bac70880f78f31c
+      internalID: -4696970288055369253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1900
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e13f3f7bdf1c4aa374f7963a2a42b
+      internalID: -3063011254606459480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1913
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35489dd1b6f8bed4f9b59fbe4e2bc103
+      internalID: 4219121179262737855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_15
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1906
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3f87f38a01f845b8d123ce4c12b59
+      internalID: 3408643756001779634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_16
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1908
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c9a60bd25403847b9acc670ecf287e
+      internalID: -371225424848725207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_17
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1916
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db016588b42525449711748288a4771
+      internalID: -8471933686423233423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1743
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0978daaf49f1046b6689bb109c1146
+      internalID: 2085539533642789557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1744
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b11145eaeec37347ae6552b1f0ae8ab
+      internalID: -9219342446509589476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1745
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80702101b4464d64f85e3ea586365263
+      internalID: 2938828919374767026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_21
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1751
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42074801e7d7f8248922ee255d518d1e
+      internalID: -2115864123765865149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_22
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1754
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71244f2dde15772478f9816560c43588
+      internalID: 2067875524666059026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_23
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1763
+        width: 185
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124ff59f6415a984c837dcd891c5a8ec
+      internalID: -5198592759627828957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_24
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1774
+        width: 186
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba8ec20b11ef2241bb79c61a2aebc9d
+      internalID: -4212191569379221403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_25
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1782
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41005189495df849bdf1895c799ab2e
+      internalID: 5779533620623132085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_26
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1691
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db2f7a2d1872b489748d9917a12dc7
+      internalID: 7123548710690766675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1548
+        width: 184
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d21c873aa46849abd21e6627346a8
+      internalID: -7502956464551307828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1554
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75cf3076cb5a07449a800a01336dfe9
+      internalID: 6825142321514286087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1561
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dedefbf17a9c6478dfc333bb8451b0
+      internalID: 1633124595858220710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_30
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1569
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd34022c53bed9b4593234a6db2e9e87
+      internalID: -4081450607453878544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_31
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1489
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e98c7568eabee74980610df8cc8cff8
+      internalID: -3362457448505296782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_32
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1349
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22297dc4a617e4cbf59ae999cc3725
+      internalID: -2083569800952887040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_33
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1466
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4007acc07a5a7df47bb60dc1274673e7
+      internalID: 1386366894786921711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_34
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1347
+        width: 184
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b563063a2b3f4f9d812c73c5587c8
+      internalID: -154261057798464239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_35
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1346
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf6050726ae6be4593007f12ddd57dc
+      internalID: 823950167376303631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1347
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d110bfe9ee376944b1b6bb6704a41d5
+      internalID: 878677101322805551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1354
+        width: 187
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ba3655e437ce441ba07a3e39631f9e
+      internalID: -5316012851243052341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_38
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1350
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34f8b6f295d3da459c7046c02469d3e
+      internalID: -6604999060893659380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_39
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1353
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18f72e7fb366b449bf11ca9ec34eb51
+      internalID: 5024018061781404780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_40
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0673e1a0e4badee479561bde52c3434c
+      internalID: 1116933874923404694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1154
+        width: 185
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7ba2571476a34e936033ff3a3facf
+      internalID: -1400439223383161635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_42
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1155
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5070165d3ae710e4988673ec5c25e037
+      internalID: -3523811804658433819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1167
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c27643461929e42a57e10e0e5e218a
+      internalID: 6257124788908508891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_44
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1180
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9335dfe9928848b4fa3bea741c3f7ed8
+      internalID: 8965741604346040672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_45
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1168
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a186c157d709d4b9c44cab2ad6ad7a
+      internalID: 8183637005947667713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_46
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1162
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e03ca5c09f37f94b92fe4caed8772ed
+      internalID: -3031538928532535465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 954
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1902ba59ec7aab479def871885ee8ac
+      internalID: -7210905602064068111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_48
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1050
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e82a4087af984bb62cfb8001a2a2e
+      internalID: -2748523608404427671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_49
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 954
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57299c2f6511174796b620d6ce8a4fa
+      internalID: 3681970216511305005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_50
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 955
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4dd8ec19cf4fc47a1b6855c03a45d3
+      internalID: 8454602397494430806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_51
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 965
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59abdc6f41c035c499a0bb4ac681a340
+      internalID: -3249600281610767168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_52
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 979
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c446ccf29f4e4e9616da9869a1f48
+      internalID: -5601328081542402697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_53
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 936
+        width: 187
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095631db2d66774688939d889c9be83
+      internalID: -2283834866310388860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 680
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff899323ba9f8e049b684b115a48592b
+      internalID: 1717321234586016545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_55
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 680
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20d090aabe60949ae7d158ae7c5fe8
+      internalID: 6765166777452518701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_56
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 690
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f7dfe8f3a3964ca593ad361c7aa77
+      internalID: 6729325301489821702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_57
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 695
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5be568a45ef5d846acfe5ae0c75dcca
+      internalID: -1338070988724551962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_58
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 686
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba821d107964d6408f1ea3b5941bcc9
+      internalID: 9218821053656695536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_59
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 692
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ae033ef46a7e429d58c7ea1b6f2dd
+      internalID: 5754439080937619704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_60
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 695
+        width: 187
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8622132a0d70eda42badd8d2842473f7
+      internalID: -8848422062570147557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_61
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 723
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91abbe523d4b7b49988a06dc228efad
+      internalID: -967839058391201710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_62
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 670
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0b19d2e3219e4d8a73848597a74f0
+      internalID: -1910098681654126219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_63
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 514
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197dcf99be9dbc48ab2ab9e6530ccdb
+      internalID: -8596543809907304201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cc3092bac1d8a4a87f6983ffce7204
+      internalID: -3411183239195783963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_65
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 391
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe396c59ad9688408ee3b2a629677c4
+      internalID: 6235781797136529101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_66
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 395
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b820e9a6b862e174cb7ae8b9fe60896b
+      internalID: 884209121756722231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_67
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 409
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e362a2f72db442acc91173a634d9b
+      internalID: 5162559501425355965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_68
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdc5c3dc4340f3419aa59dc20257eb9
+      internalID: 7734830639646352964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e230bdb17e77134486d319a777c45e2
+      internalID: -7202862181011197382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_70
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 68
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d51631b3e20ae648bbb13a398501630
+      internalID: -5768448720434634919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_71
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 70
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19172bb9e544f4097b5031fdce9b22
+      internalID: 1045482766325862695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_72
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 63
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2889a25fc62d6143a95e1716e2e6801
+      internalID: 7609794939199361201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_73
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 65
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f3a44903254844b57962f4c3f5b9f
+      internalID: 7274284365920164359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnD-OgreLeader_74
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 94
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e6ef8366048b248a6aba45950c4f6f
+      internalID: -5528084151774471529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d23769a0851f5f140a446ebc795e4417
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
