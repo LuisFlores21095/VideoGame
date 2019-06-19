@@ -630,8 +630,8 @@ TextureImporter:
         serializedVersion: 2
         x: 292
         y: 648
-        width: 66
-        height: 68
+        width: 96
+        height: 74
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,8 +649,8 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_19
       rect:
         serializedVersion: 2
-        x: 356
-        y: 643
+        x: 252
+        y: 507
         width: 40
         height: 70
       alignment: 0
@@ -714,8 +714,8 @@ TextureImporter:
         serializedVersion: 2
         x: 173
         y: 587
-        width: 52
-        height: 64
+        width: 91
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -733,8 +733,8 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_23
       rect:
         serializedVersion: 2
-        x: 225
-        y: 590
+        x: 224
+        y: 494
         width: 40
         height: 70
       alignment: 0
@@ -775,10 +775,10 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_25
       rect:
         serializedVersion: 2
-        x: 257
-        y: 494
-        width: 102
-        height: 128
+        x: 184
+        y: 438
+        width: 72
+        height: 68
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -817,10 +817,10 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_27
       rect:
         serializedVersion: 2
-        x: 367
+        x: 291
         y: 558
-        width: 40
-        height: 70
+        width: 116
+        height: 77
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,9 +880,9 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_30
       rect:
         serializedVersion: 2
-        x: 276
-        y: 456
-        width: 100
+        x: 203
+        y: 434
+        width: 65
         height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -901,10 +901,10 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_31
       rect:
         serializedVersion: 2
-        x: 399
-        y: 468
-        width: 28
-        height: 15
+        x: 310
+        y: 456
+        width: 124
+        height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
