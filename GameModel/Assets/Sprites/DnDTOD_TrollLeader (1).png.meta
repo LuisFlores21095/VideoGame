@@ -1,0 +1,1384 @@
+fileFormatVersion: 2
+guid: 6a4f8b2e3b95efc4c84fcc049c0b9a57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2370041524519020670
+    second: DnDTOD_TrollLeader (1)_0
+  - first:
+      213: -6945812170425042987
+    second: DnDTOD_TrollLeader (1)_1
+  - first:
+      213: 5926802204222906845
+    second: DnDTOD_TrollLeader (1)_2
+  - first:
+      213: 1110001689805445212
+    second: DnDTOD_TrollLeader (1)_3
+  - first:
+      213: 619934787841056825
+    second: DnDTOD_TrollLeader (1)_4
+  - first:
+      213: -8527980781243219838
+    second: DnDTOD_TrollLeader (1)_5
+  - first:
+      213: -6128201064947336833
+    second: DnDTOD_TrollLeader (1)_6
+  - first:
+      213: -4966312408427114878
+    second: DnDTOD_TrollLeader (1)_7
+  - first:
+      213: -6053662990745798997
+    second: DnDTOD_TrollLeader (1)_8
+  - first:
+      213: -2291648988237007815
+    second: DnDTOD_TrollLeader (1)_9
+  - first:
+      213: 4715140025139265206
+    second: DnDTOD_TrollLeader (1)_10
+  - first:
+      213: -3367665444260291606
+    second: DnDTOD_TrollLeader (1)_11
+  - first:
+      213: -1912035917058046350
+    second: DnDTOD_TrollLeader (1)_12
+  - first:
+      213: 902930069736414364
+    second: DnDTOD_TrollLeader (1)_13
+  - first:
+      213: -8549954885646200869
+    second: DnDTOD_TrollLeader (1)_14
+  - first:
+      213: -973552765992709522
+    second: DnDTOD_TrollLeader (1)_15
+  - first:
+      213: -4032471728044159879
+    second: DnDTOD_TrollLeader (1)_16
+  - first:
+      213: -4382052045885865176
+    second: DnDTOD_TrollLeader (1)_17
+  - first:
+      213: -2673753492297507373
+    second: DnDTOD_TrollLeader (1)_18
+  - first:
+      213: 8039899886590211381
+    second: DnDTOD_TrollLeader (1)_19
+  - first:
+      213: -4114785879098725288
+    second: DnDTOD_TrollLeader (1)_20
+  - first:
+      213: -9209858051692985996
+    second: DnDTOD_TrollLeader (1)_21
+  - first:
+      213: -3911639765591058969
+    second: DnDTOD_TrollLeader (1)_22
+  - first:
+      213: -978368461038827199
+    second: DnDTOD_TrollLeader (1)_23
+  - first:
+      213: 3647455906039954287
+    second: DnDTOD_TrollLeader (1)_24
+  - first:
+      213: 1626764422892031262
+    second: DnDTOD_TrollLeader (1)_25
+  - first:
+      213: -842534144008735572
+    second: DnDTOD_TrollLeader (1)_26
+  - first:
+      213: 4987347895625527803
+    second: DnDTOD_TrollLeader (1)_27
+  - first:
+      213: -7457936969953304983
+    second: DnDTOD_TrollLeader (1)_28
+  - first:
+      213: -4836942319880892644
+    second: DnDTOD_TrollLeader (1)_29
+  - first:
+      213: -7813309922572042666
+    second: DnDTOD_TrollLeader (1)_30
+  - first:
+      213: -7495700357087257621
+    second: DnDTOD_TrollLeader (1)_31
+  - first:
+      213: 3435849232201286284
+    second: DnDTOD_TrollLeader (1)_32
+  - first:
+      213: 2680396730928398890
+    second: DnDTOD_TrollLeader (1)_33
+  - first:
+      213: 3779804881934688742
+    second: DnDTOD_TrollLeader (1)_34
+  - first:
+      213: 7563442182952839214
+    second: DnDTOD_TrollLeader (1)_35
+  - first:
+      213: -1305184282677390399
+    second: DnDTOD_TrollLeader (1)_36
+  - first:
+      213: 5461576943915138712
+    second: DnDTOD_TrollLeader (1)_37
+  - first:
+      213: -9003530815213959413
+    second: DnDTOD_TrollLeader (1)_38
+  - first:
+      213: 2174871655091110495
+    second: DnDTOD_TrollLeader (1)_39
+  - first:
+      213: 5030306306537205029
+    second: DnDTOD_TrollLeader (1)_40
+  - first:
+      213: 549629757814219946
+    second: DnDTOD_TrollLeader (1)_41
+  - first:
+      213: 4642528349823805788
+    second: DnDTOD_TrollLeader (1)_42
+  - first:
+      213: -5075797700801157193
+    second: DnDTOD_TrollLeader (1)_43
+  - first:
+      213: 5079054614316813389
+    second: DnDTOD_TrollLeader (1)_44
+  - first:
+      213: 7818462817750246402
+    second: DnDTOD_TrollLeader (1)_45
+  - first:
+      213: -2752083595043838895
+    second: DnDTOD_TrollLeader (1)_46
+  - first:
+      213: -4215457359948365017
+    second: DnDTOD_TrollLeader (1)_47
+  - first:
+      213: 7376158798471932022
+    second: DnDTOD_TrollLeader (1)_48
+  - first:
+      213: 2358676969385980496
+    second: DnDTOD_TrollLeader (1)_49
+  - first:
+      213: -8081631988008761878
+    second: DnDTOD_TrollLeader (1)_50
+  - first:
+      213: -7027061247019066421
+    second: DnDTOD_TrollLeader (1)_51
+  - first:
+      213: -1588474213735523648
+    second: DnDTOD_TrollLeader (1)_52
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1947
+        width: 167
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d510e57ef859c0543998076584ad4f69
+      internalID: 2370041524519020670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1942
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccc7f8b96aa817429a2894614f0d636
+      internalID: -6945812170425042987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1941
+        width: 165
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf657a4af25074479a52d557365939c
+      internalID: 5926802204222906845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1934
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3044046d18639aa439097a2cc1783923
+      internalID: 1110001689805445212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1947
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41af85b9116858419c509c5e6baf47d
+      internalID: 619934787841056825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1819
+        width: 166
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0a47ff01a9a4c48bfc3ab608f3ed6d
+      internalID: -8527980781243219838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1813
+        width: 166
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1afe5d346e99d42b2e2aa1a7cf850f
+      internalID: -6128201064947336833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1814
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b01f0eab81e849ad301b0875bcbd2
+      internalID: -4966312408427114878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_8
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1806
+        width: 165
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1955fe752103eaf4ea9e82e2ea9031d8
+      internalID: -6053662990745798997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1819
+        width: 165
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c947ae173894439418900a144d63c
+      internalID: -2291648988237007815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1812
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d21b54eb39c2248bf9b503f56c0540
+      internalID: 4715140025139265206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1809
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfec7382723e3b540b9d2feee78eed15
+      internalID: -3367665444260291606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1812
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d3656d35550c4090d7730e67da883
+      internalID: -1912035917058046350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1678
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de9b10932b77f48871b78ccbce974f
+      internalID: 902930069736414364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1673
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c3302232a7344aabde84f1827b944
+      internalID: -8549954885646200869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1672
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ac263adc739c640a983b995d7a9f35
+      internalID: -973552765992709522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1665
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f4f78a25c730459e4319e7499cba9
+      internalID: -4032471728044159879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1680
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1080c1acfd8a1443989df82bda98c9c
+      internalID: -4382052045885865176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1535
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d239faba0746749b3dc2a08315e3f1
+      internalID: -2673753492297507373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1534
+        width: 169
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a10df175e0ff4dbf2a9f855cabef1
+      internalID: 8039899886590211381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1251
+        width: 19
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9cabdc0815fe8409b70b011b0759f2
+      internalID: -4114785879098725288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_21
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1517
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1afd3206a96d4fbfd4025d192b90e
+      internalID: -9209858051692985996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1379
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df00bbfa1a66e4daefa660acb9b12c
+      internalID: -3911639765591058969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1374
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e943b929596604abb720fbfa7dc4fb
+      internalID: -978368461038827199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_24
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1373
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd59660cc7de70e42be605aba84b5fb2
+      internalID: 3647455906039954287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_25
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1367
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e03d4bb40b1b04da51e851dcb8b80e
+      internalID: 1626764422892031262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1380
+        width: 169
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e3b1a82758894e864024b84854a91
+      internalID: -842534144008735572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1225
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa0d474f79564428a2c8713c5275ae
+      internalID: 4987347895625527803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1218
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf736afe1fbfe040bd545cfce590ba0
+      internalID: -7457936969953304983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1224
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f153d334968bd49be0e89a233e8083
+      internalID: -4836942319880892644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 942
+        width: 169
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25fdb9b3a3108749a3912d8b0819056
+      internalID: -7813309922572042666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 951
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423f44b7f72d8554f995c08f54b54b8d
+      internalID: -7495700357087257621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_32
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 929
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f730c450b6ef01e48b407d04f301b8dc
+      internalID: 3435849232201286284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_33
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 939
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de2b863c3ec39d4cafacf84603411b9
+      internalID: 2680396730928398890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 933
+        width: 169
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e73f117e4f1b14fb485a4e350727ce
+      internalID: 3779804881934688742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 701
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d180e645d1fe9e4ca8be6a0af9128fb
+      internalID: 7563442182952839214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_36
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 709
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a2254c82daaa6498c66025b2419f36
+      internalID: -1305184282677390399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_37
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 688
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654fd52f4c1e7ba418eeff200e728f56
+      internalID: 5461576943915138712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_38
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 697
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f67be77fe5044297b76bd08793d5f
+      internalID: -9003530815213959413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 545
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea3d141710fa348b3a063aee143d08
+      internalID: 2174871655091110495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 284
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0981b30d095aa04383f31e9b1af9740
+      internalID: 5030306306537205029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 369
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e7d367b55bc84c834c23d5eab8d13
+      internalID: 549629757814219946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 275
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fba01bf5b212944bfedc95e948d6d1
+      internalID: 4642528349823805788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 360
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262b5f3e9b0c9241a7410a26493a79a
+      internalID: -5075797700801157193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_44
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 261
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65a1a110e261b64b823b0c231a60088
+      internalID: 5079054614316813389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_45
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 273
+        width: 178
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9095aa859da0fba478e1ea16b1d20067
+      internalID: 7818462817750246402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26050195c93cdb948b66d74664d65337
+      internalID: -2752083595043838895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 284
+        width: 180
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb3c6838fe6664cb5b988b10f97e3b
+      internalID: -4215457359948365017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 209
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94771ee6c86bd6a4580d24a81ead6748
+      internalID: 7376158798471932022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 210
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645cb3daeb3360448ae93c4983326ce8
+      internalID: 2358676969385980496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 133
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d0bd06a8766324bbc9341d6814947b
+      internalID: -8081631988008761878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 128
+        width: 182
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e074ac446e3f16b4089af6d584a9ae59
+      internalID: -7027061247019066421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnDTOD_TrollLeader (1)_52
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1528
+        width: 164
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f566e118e7e6929458a8b50c0996857d
+      internalID: -1588474213735523648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: baffe140bb5e2d84fb546a5c48dc5e55
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
