@@ -1814,9 +1814,9 @@ TextureImporter:
       name: DnD-OgreLeader_71
       rect:
         serializedVersion: 2
-        x: 690
+        x: 700
         y: 70
-        width: 187
+        width: 185
         height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1835,9 +1835,9 @@ TextureImporter:
       name: DnD-OgreLeader_72
       rect:
         serializedVersion: 2
-        x: 952
+        x: 951
         y: 63
-        width: 186
+        width: 187
         height: 147
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1877,9 +1877,9 @@ TextureImporter:
       name: DnD-OgreLeader_74
       rect:
         serializedVersion: 2
-        x: 1562
+        x: 1563
         y: 94
-        width: 186
+        width: 185
         height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
