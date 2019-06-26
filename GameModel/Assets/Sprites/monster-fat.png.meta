@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: ef70b3c33abfe0c479ce82139e1f6f1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7889357415699396485
+    second: monster-fat_0
+  - first:
+      213: -4911305852385270272
+    second: monster-fat_1
+  - first:
+      213: -4435751258554096618
+    second: monster-fat_2
+  - first:
+      213: 4561684544473998851
+    second: monster-fat_3
+  - first:
+      213: -3773058783695950169
+    second: monster-fat_4
+  - first:
+      213: 2459884906941769012
+    second: monster-fat_5
+  - first:
+      213: 9034087456685599257
+    second: monster-fat_6
+  - first:
+      213: -2634374786270451805
+    second: monster-fat_7
+  - first:
+      213: 7754670988176821960
+    second: monster-fat_8
+  - first:
+      213: -4880397820315638602
+    second: monster-fat_9
+  - first:
+      213: -6068795458339845766
+    second: monster-fat_10
+  - first:
+      213: -5854881061006590433
+    second: monster-fat_11
+  - first:
+      213: -5176188781751625127
+    second: monster-fat_12
+  - first:
+      213: -8044747730084399167
+    second: monster-fat_13
+  - first:
+      213: -6283920323146983626
+    second: monster-fat_14
+  - first:
+      213: 2230612347016193353
+    second: monster-fat_15
+  - first:
+      213: 3171182821471122803
+    second: monster-fat_16
+  - first:
+      213: -6598983794540730142
+    second: monster-fat_17
+  - first:
+      213: 1703661470607535064
+    second: monster-fat_18
+  - first:
+      213: 8417385010692609067
+    second: monster-fat_19
+  - first:
+      213: -8170274885373386806
+    second: monster-fat_20
+  - first:
+      213: -1090161523503427489
+    second: monster-fat_21
+  - first:
+      213: -8555431473652426200
+    second: monster-fat_22
+  - first:
+      213: 4974110607175585512
+    second: monster-fat_23
+  - first:
+      213: 1880147449797269255
+    second: monster-fat_24
+  - first:
+      213: 8211673764662577753
+    second: monster-fat_25
+  - first:
+      213: -1685301783138242227
+    second: monster-fat_26
+  - first:
+      213: -7928200492115639554
+    second: monster-fat_27
+  - first:
+      213: -5641395130713475276
+    second: monster-fat_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster-fat_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 601
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b86c07d04804241961cf088b86cea4
+      internalID: 7889357415699396485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 587
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95441d558222b41ad0553c34fcd150
+      internalID: -4911305852385270272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 587
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5165d8eb9402fc044a04ea1abca3aae7
+      internalID: -4435751258554096618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 585
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf27f3dd112d4444b304102755dbf17
+      internalID: 4561684544473998851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 594
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40acd974e76966e468654173d2bc2fbf
+      internalID: -3773058783695950169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 490
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc90507e6264384c8b83d3743da6e03
+      internalID: 2459884906941769012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 469
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f274e8af04a590d4c9d4cb7dbb62997f
+      internalID: 9034087456685599257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 466
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938679156843b024995025ee2fa13c6f
+      internalID: -2634374786270451805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 464
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbcd051dfe8af042b2453f140aeb7ac
+      internalID: 7754670988176821960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_9
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 474
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddcb951124ef2e42af500a6d542e363
+      internalID: -4880397820315638602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 352
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a0df46d6645fe4cbfad403cc28c554
+      internalID: -6068795458339845766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 338
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f926aad85888e2478be9803cd13a893
+      internalID: -5854881061006590433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 342
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba2e87b563fa84bb5c6697deff69d2
+      internalID: -5176188781751625127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 330
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58ba7a42a319a44a25bc4250f02952
+      internalID: -8044747730084399167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_14
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 336
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7dc843cad784d4b86ad894e87d65e3
+      internalID: -6283920323146983626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 228
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77afba2797a24574a9a8f8cfef881d3c
+      internalID: 2230612347016193353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 214
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ccb83c5b224f4093ea7c7c5f7fc51
+      internalID: 3171182821471122803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 214
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50d5b9df8ba4849a0528684c1a6171
+      internalID: -6598983794540730142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_18
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 203
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b29bb8e584f634dbfdd8fa3d1faf8d
+      internalID: 1703661470607535064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 212
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6ab8e2a499cc447b0aca12be666ac8
+      internalID: 8417385010692609067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 123
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dc218fe9b526b48913f4149e4bcb21
+      internalID: -8170274885373386806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 109
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d623756a41392428409086e423e748
+      internalID: -1090161523503427489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 111
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1022e279da717648babc1cd4a177340
+      internalID: -8555431473652426200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 121
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81771885038c6da4da119ee2c0ccd49f
+      internalID: 4974110607175585512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_24
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 109
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af226a4317589854789db10129319351
+      internalID: 1880147449797269255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 104
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceedae72638798a4491be88181e36959
+      internalID: 8211673764662577753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 110
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9761c7892c8334a936eac86e233c6a
+      internalID: -1685301783138242227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_27
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 115
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44baf796d4dac4448da462fbb80ead7
+      internalID: -7928200492115639554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fat_28
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 110
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa32c05059cc244afa6417dde4e248
+      internalID: -5641395130713475276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9b0ea1526660a749b22a18687381c73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
