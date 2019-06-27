@@ -1,0 +1,1120 @@
+fileFormatVersion: 2
+guid: 056189e90272be74ba24f2d51b03a5cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6385895308153636895
+    second: goblins_0
+  - first:
+      213: -1917565825829997663
+    second: goblins_1
+  - first:
+      213: 2608449951876609970
+    second: goblins_2
+  - first:
+      213: 2972469203755898237
+    second: goblins_3
+  - first:
+      213: 1853994023743840997
+    second: goblins_4
+  - first:
+      213: -5814489846202632058
+    second: goblins_5
+  - first:
+      213: -7584120999890948861
+    second: goblins_6
+  - first:
+      213: -5649024290250529347
+    second: goblins_7
+  - first:
+      213: 2064726856474018850
+    second: goblins_8
+  - first:
+      213: -690757038160370069
+    second: goblins_9
+  - first:
+      213: 6979936600976945949
+    second: goblins_10
+  - first:
+      213: 6814471562360647350
+    second: goblins_11
+  - first:
+      213: -947420099500684469
+    second: goblins_12
+  - first:
+      213: 4156931194374139273
+    second: goblins_13
+  - first:
+      213: -6195767179492332319
+    second: goblins_14
+  - first:
+      213: -8710929288012777510
+    second: goblins_15
+  - first:
+      213: -1992054183727258700
+    second: goblins_16
+  - first:
+      213: -8073113851285710120
+    second: goblins_17
+  - first:
+      213: -1601861049672267509
+    second: goblins_18
+  - first:
+      213: -1765896329865932903
+    second: goblins_19
+  - first:
+      213: 8503025747285405601
+    second: goblins_20
+  - first:
+      213: 373637320947265244
+    second: goblins_21
+  - first:
+      213: 4929780309607246032
+    second: goblins_22
+  - first:
+      213: 3268482040259578975
+    second: goblins_23
+  - first:
+      213: -913543740550952910
+    second: goblins_24
+  - first:
+      213: 5927782411429382155
+    second: goblins_25
+  - first:
+      213: -2766311024385792504
+    second: goblins_26
+  - first:
+      213: -4650644015375256204
+    second: goblins_27
+  - first:
+      213: -4494514372343994820
+    second: goblins_28
+  - first:
+      213: -1489389374650863179
+    second: goblins_29
+  - first:
+      213: -6730470270635580350
+    second: goblins_30
+  - first:
+      213: 1544772704681345890
+    second: goblins_31
+  - first:
+      213: 8301812158898349824
+    second: goblins_32
+  - first:
+      213: 5133269848284708115
+    second: goblins_33
+  - first:
+      213: -7943911340621640000
+    second: goblins_34
+  - first:
+      213: 5722175514382091031
+    second: goblins_35
+  - first:
+      213: 2420113941787487173
+    second: goblins_36
+  - first:
+      213: 696268334523131021
+    second: goblins_37
+  - first:
+      213: -6770836677336471630
+    second: goblins_38
+  - first:
+      213: -4700066643571790682
+    second: goblins_39
+  - first:
+      213: -1964026342718124512
+    second: goblins_40
+  - first:
+      213: -8376696175838732149
+    second: goblins_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblins_0
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 770
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b08829385212c45907007b74eb6ddd
+      internalID: 6385895308153636895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_1
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 743
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49593a880c61194699ecc43efa98550
+      internalID: -1917565825829997663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_2
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 747
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd38229323f53f438c5afd97abddff0
+      internalID: 2608449951876609970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_3
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 731
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe986006e9d844ab8c24b943ff25e6
+      internalID: 2972469203755898237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_4
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 721
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0227a7437a1c8654dab61a4fa91c348e
+      internalID: 1853994023743840997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_5
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 721
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b40a1156d4fed4f8e4bc10b69750b7
+      internalID: -5814489846202632058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 710
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43eeee2ac502324eb3f6039e3e82626
+      internalID: -7584120999890948861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 701
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8014977249b80f24e982f31472358a8d
+      internalID: -5649024290250529347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 697
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4624054790e66664a9148cf7b1094448
+      internalID: 2064726856474018850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 697
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55def40620ec544ab7400327e643fcb
+      internalID: -690757038160370069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 706
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59f9ec6333abf498b2d48d3106b06d
+      internalID: 6979936600976945949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 707
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b331ab4ce83e441a2f4500ae20f719
+      internalID: 6814471562360647350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 668
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c9bde5389672642895da9659deba0a
+      internalID: -947420099500684469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 654
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a782985309615d646ba32b8385bb41f1
+      internalID: 4156931194374139273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 629
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572dbf9265f1b88468903d3020510ec0
+      internalID: -6195767179492332319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 622
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41e1ab0c48280c4db03ff654f3a56d6
+      internalID: -8710929288012777510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 618
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac839e76b04d7de418138a311562fe26
+      internalID: -1992054183727258700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_17
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 621
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe21c3b7d7fc1f4bbaeea1b19bb1a10
+      internalID: -8073113851285710120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_18
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 612
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c572308adff66514bb94409bf64302d6
+      internalID: -1601861049672267509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 485
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7740d0e0c62c4a863c1d9c0704fad
+      internalID: -1765896329865932903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 478
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515895aa04ca35d499395d765e9f988e
+      internalID: 8503025747285405601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_21
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 481
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d6b2c3a89efc4f80e2247325de61b
+      internalID: 373637320947265244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_22
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 517
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572aa1ff22cd0248a99cdea3426495c
+      internalID: 4929780309607246032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 517
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a04370c2084f244b340384cf7237af
+      internalID: 3268482040259578975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_24
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 507
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b903bac3f915b40b725c41a91d98d7
+      internalID: -913543740550952910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_25
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 510
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f29d0b1bb28749844e1711997a63b
+      internalID: 5927782411429382155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 486
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67241db85cfa84479fdb573ef19ea0e
+      internalID: -2766311024385792504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 429
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b99d27b04015bb46aff2cb758b62d18
+      internalID: -4650644015375256204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 400
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233266130f3ea1498f598d53c1fc2d0
+      internalID: -4494514372343994820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 386
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e9bb6786e4934098b5f3b54990b37
+      internalID: -1489389374650863179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 367
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48a29f116e6bc4bbc27c5be2bf942c
+      internalID: -6730470270635580350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 377
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3a61354a21ad4fb99e09e0abc18c8
+      internalID: 1544772704681345890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 389
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382b8abb90314241ae4498697c4b507
+      internalID: 8301812158898349824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 389
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe9a06179f5c114885b1fad036e473f
+      internalID: 5133269848284708115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_34
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 418
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e24059b7adff24d81bf94620169357
+      internalID: -7943911340621640000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 411
+        width: 99
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419085dc729b79443a1ffd9a3920b54a
+      internalID: 5722175514382091031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_36
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 410
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e3db0e660e2249ae1eb2eb85e56a5
+      internalID: 2420113941787487173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_37
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 354
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c725961dc2f1d146995f73561c3c51c
+      internalID: 696268334523131021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_38
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 340
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a8dfe3379c5e40b3e8f0d7e510c6d
+      internalID: -6770836677336471630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_39
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 325
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dac2f2a44fe124ea601d1f6700e11f
+      internalID: -4700066643571790682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_40
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 343
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307034690968ac4e85dc9b7f2266ad3
+      internalID: -1964026342718124512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_41
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 323
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf6233dc0486ee45b9fb9034a479f93
+      internalID: -8376696175838732149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 00fef1d386cad6c459cc72827c58ac19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
