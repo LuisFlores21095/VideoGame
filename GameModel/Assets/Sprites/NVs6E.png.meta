@@ -1,0 +1,2896 @@
+fileFormatVersion: 2
+guid: b438083f283d4ff42b8f30b26694a233
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4743197455121206873
+    second: NVs6E_0
+  - first:
+      213: -4853081183690742206
+    second: NVs6E_1
+  - first:
+      213: -7552238906317635892
+    second: NVs6E_2
+  - first:
+      213: 6063649095727300156
+    second: NVs6E_3
+  - first:
+      213: -5261141512363418522
+    second: NVs6E_4
+  - first:
+      213: 6468299414574417430
+    second: NVs6E_5
+  - first:
+      213: -5447852377516561101
+    second: NVs6E_6
+  - first:
+      213: -3593746108892953379
+    second: NVs6E_7
+  - first:
+      213: -10729935391135158
+    second: NVs6E_8
+  - first:
+      213: 5808642386693458904
+    second: NVs6E_9
+  - first:
+      213: -5711248627918347824
+    second: NVs6E_10
+  - first:
+      213: 7536118124343386629
+    second: NVs6E_11
+  - first:
+      213: 8020299392914294408
+    second: NVs6E_12
+  - first:
+      213: 2769353559669060700
+    second: NVs6E_13
+  - first:
+      213: 6639735443522966341
+    second: NVs6E_14
+  - first:
+      213: 2220324686223210339
+    second: NVs6E_15
+  - first:
+      213: -8687622379025770048
+    second: NVs6E_16
+  - first:
+      213: -2202543753107882605
+    second: NVs6E_17
+  - first:
+      213: 6705810777816089321
+    second: NVs6E_18
+  - first:
+      213: 1779873228815502833
+    second: NVs6E_19
+  - first:
+      213: -6330289590583583134
+    second: NVs6E_20
+  - first:
+      213: -6918300151288707095
+    second: NVs6E_21
+  - first:
+      213: -5170046060282308899
+    second: NVs6E_22
+  - first:
+      213: -326256731777795892
+    second: NVs6E_23
+  - first:
+      213: -3015404785443903666
+    second: NVs6E_24
+  - first:
+      213: -8830159637394933550
+    second: NVs6E_25
+  - first:
+      213: -4945673407904552355
+    second: NVs6E_26
+  - first:
+      213: 7160345113167520620
+    second: NVs6E_27
+  - first:
+      213: 1024455397830569202
+    second: NVs6E_28
+  - first:
+      213: -6973359530837025353
+    second: NVs6E_29
+  - first:
+      213: -2595312804267697175
+    second: NVs6E_30
+  - first:
+      213: -6618497753578178416
+    second: NVs6E_31
+  - first:
+      213: 621305242360864873
+    second: NVs6E_32
+  - first:
+      213: -2785437840378837395
+    second: NVs6E_33
+  - first:
+      213: 1207406486727139040
+    second: NVs6E_34
+  - first:
+      213: 5332487026274150001
+    second: NVs6E_35
+  - first:
+      213: 2028257477308254139
+    second: NVs6E_36
+  - first:
+      213: 4252774701000666692
+    second: NVs6E_37
+  - first:
+      213: -3468534923535660881
+    second: NVs6E_38
+  - first:
+      213: 8853061583590469661
+    second: NVs6E_39
+  - first:
+      213: 986775088277031350
+    second: NVs6E_40
+  - first:
+      213: 5250128032464311960
+    second: NVs6E_41
+  - first:
+      213: 8546230256105749602
+    second: NVs6E_42
+  - first:
+      213: -5757775375289149770
+    second: NVs6E_43
+  - first:
+      213: 3051084217713189145
+    second: NVs6E_44
+  - first:
+      213: 555416491835457044
+    second: NVs6E_45
+  - first:
+      213: -3050148431496558865
+    second: NVs6E_46
+  - first:
+      213: -6791963558234966232
+    second: NVs6E_47
+  - first:
+      213: -7104323079984013393
+    second: NVs6E_48
+  - first:
+      213: 4135996151528405552
+    second: NVs6E_49
+  - first:
+      213: 3870216816093073071
+    second: NVs6E_50
+  - first:
+      213: -8644154961914494657
+    second: NVs6E_51
+  - first:
+      213: 6347273652155252403
+    second: NVs6E_52
+  - first:
+      213: 2304011132008441718
+    second: NVs6E_53
+  - first:
+      213: -1545355981923627090
+    second: NVs6E_54
+  - first:
+      213: 7574494409149356433
+    second: NVs6E_55
+  - first:
+      213: -4575830664751026920
+    second: NVs6E_56
+  - first:
+      213: 8414233475848241355
+    second: NVs6E_57
+  - first:
+      213: -6841229118512137555
+    second: NVs6E_58
+  - first:
+      213: 2806541441544717449
+    second: NVs6E_59
+  - first:
+      213: 1771621217625356578
+    second: NVs6E_60
+  - first:
+      213: 7405048791675845832
+    second: NVs6E_61
+  - first:
+      213: 2599282839148213123
+    second: NVs6E_62
+  - first:
+      213: -1046662665997929408
+    second: NVs6E_63
+  - first:
+      213: -4621484004740219212
+    second: NVs6E_64
+  - first:
+      213: 7541750244603148889
+    second: NVs6E_65
+  - first:
+      213: 3872041264641709430
+    second: NVs6E_66
+  - first:
+      213: 7178327369221989582
+    second: NVs6E_67
+  - first:
+      213: -3700216829650580384
+    second: NVs6E_68
+  - first:
+      213: 6628062606381574062
+    second: NVs6E_69
+  - first:
+      213: -4692850471630323729
+    second: NVs6E_70
+  - first:
+      213: -1987689208065605915
+    second: NVs6E_71
+  - first:
+      213: 371134278817791302
+    second: NVs6E_72
+  - first:
+      213: -3202474674706786908
+    second: NVs6E_73
+  - first:
+      213: -3569296784316850355
+    second: NVs6E_74
+  - first:
+      213: -2592951830198777719
+    second: NVs6E_75
+  - first:
+      213: 4764708831276349272
+    second: NVs6E_76
+  - first:
+      213: -7306600166582562135
+    second: NVs6E_77
+  - first:
+      213: -3445167849048627006
+    second: NVs6E_78
+  - first:
+      213: -6238561863173080910
+    second: NVs6E_79
+  - first:
+      213: -3096139259685655427
+    second: NVs6E_80
+  - first:
+      213: -3290181206733721985
+    second: NVs6E_81
+  - first:
+      213: -3470104123983977001
+    second: NVs6E_82
+  - first:
+      213: -3214413429774407409
+    second: NVs6E_83
+  - first:
+      213: 899699685271717527
+    second: NVs6E_84
+  - first:
+      213: -732888516157969683
+    second: NVs6E_85
+  - first:
+      213: -1301171915259676154
+    second: NVs6E_86
+  - first:
+      213: -1243701687824536379
+    second: NVs6E_87
+  - first:
+      213: -9158816453508293547
+    second: NVs6E_88
+  - first:
+      213: 4714668100600027727
+    second: NVs6E_89
+  - first:
+      213: 6559821228362989313
+    second: NVs6E_90
+  - first:
+      213: 5944717784025884711
+    second: NVs6E_91
+  - first:
+      213: -9021567646199805012
+    second: NVs6E_92
+  - first:
+      213: -7477898159141955025
+    second: NVs6E_93
+  - first:
+      213: 664450224042168776
+    second: NVs6E_94
+  - first:
+      213: 3133558922642345399
+    second: NVs6E_95
+  - first:
+      213: -4459289467999705867
+    second: NVs6E_96
+  - first:
+      213: -718335611815962519
+    second: NVs6E_97
+  - first:
+      213: -5028054411105560570
+    second: NVs6E_98
+  - first:
+      213: 3394257036248258835
+    second: NVs6E_99
+  - first:
+      213: -7021413459117850059
+    second: NVs6E_100
+  - first:
+      213: -1195461315874929394
+    second: NVs6E_101
+  - first:
+      213: -6683446713377945287
+    second: NVs6E_102
+  - first:
+      213: -6772063448045915334
+    second: NVs6E_103
+  - first:
+      213: -173284898771830739
+    second: NVs6E_104
+  - first:
+      213: -5934993359643694313
+    second: NVs6E_105
+  - first:
+      213: 5525227755166679331
+    second: NVs6E_106
+  - first:
+      213: 8016347952086004924
+    second: NVs6E_107
+  - first:
+      213: -7700213384023898842
+    second: NVs6E_108
+  - first:
+      213: 8621774101939483893
+    second: NVs6E_109
+  - first:
+      213: -5472407473561795327
+    second: NVs6E_110
+  - first:
+      213: 8108886740677457335
+    second: NVs6E_111
+  - first:
+      213: -683247682195404771
+    second: NVs6E_112
+  - first:
+      213: 4381436098752934219
+    second: NVs6E_113
+  - first:
+      213: -5535673846815810692
+    second: NVs6E_114
+  - first:
+      213: 7000561338541932136
+    second: NVs6E_115
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NVs6E_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59a722f9ebe6794c9ddd3828fd8b004
+      internalID: 4743197455121206873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b00a24ffc1594a43ab02fb81980978a
+      internalID: -4853081183690742206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6c8bf7623f004e863df77a46e1f7d
+      internalID: -7552238906317635892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bce1b26020a164f850ce86ae84f740
+      internalID: 6063649095727300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a329b0adc8ed4bc4fa23a2440d45f373
+      internalID: -5261141512363418522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0672d5ccda7643968cb0bff860335
+      internalID: 6468299414574417430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_6
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e314999257b904aa74da4119f02cee
+      internalID: -5447852377516561101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c6d454df79e2841833a509a0a46376
+      internalID: -3593746108892953379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_8
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 291
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c625ea337a8487c4ebc61d636e8a8155
+      internalID: -10729935391135158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eaed47dc72400448e4e375bb179c82
+      internalID: 5808642386693458904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 200
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4417f51ab3a9864dab70e566851d798
+      internalID: -5711248627918347824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4b6c035a3e11478d6bc8fa302a1e8
+      internalID: 7536118124343386629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 200
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2aaa64d2682ec4bb760c14dfb9bbdb
+      internalID: 8020299392914294408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a625f77ba28ebf48815fea7846e6b4f
+      internalID: 2769353559669060700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 199
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b019d3578e27af468c2c9919d4d0243
+      internalID: 6639735443522966341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_15
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 184
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da14424dda1adbc40b0f986473e8c8bf
+      internalID: 2220324686223210339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_16
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 179
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd03e38add19794eb10d55b9d0898aa
+      internalID: -8687622379025770048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 200
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f01caf63361d4daf1c7d645aa9b7c
+      internalID: -2202543753107882605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec243c1b9fd0394eb4d16def855ee9c
+      internalID: 6705810777816089321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40292cb9c40c1747bca1f9973c44a7a
+      internalID: 1779873228815502833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3911efcf0d69b74785ff18d48f65274
+      internalID: -6330289590583583134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 100
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc9c760a24dfa34f9912802fd61d26b
+      internalID: -6918300151288707095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 100
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5ffe4cf54de64438b6c776db266ee0
+      internalID: -5170046060282308899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 100
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ab3db309d66c140ab0b82fc1441f75
+      internalID: -326256731777795892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_24
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 100
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bf2aa1de21fd149a62f126ea525e6d
+      internalID: -3015404785443903666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_25
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 101
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0537ac5484a7f947b0827ba3c390927
+      internalID: -8830159637394933550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_26
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 101
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a661450f4a772408869f644c9bd113
+      internalID: -4945673407904552355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba87bb5e29f4f74daa109e128f14091
+      internalID: 7160345113167520620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5155a425f5aa31b4bbaa69b8cf24c0f2
+      internalID: 1024455397830569202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 53
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a61305f6108430458f317e08baa9402
+      internalID: -6973359530837025353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 53
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a3545d4b7840842b966608d1a37515
+      internalID: -2595312804267697175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_31
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 52
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5e637272cf7c74e9b4560ec2d15d0f
+      internalID: -6618497753578178416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 50
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e1003e0367c8f42aaa895c57ac0497
+      internalID: 621305242360864873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_33
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b605f6a01c05e1429b5ecb4ff63060a
+      internalID: -2785437840378837395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_34
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1804b0f3ad859a48b7a40cbd4b39104
+      internalID: 1207406486727139040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_35
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02303ab601cfdd4cb02526542fadd2d
+      internalID: 5332487026274150001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_36
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d2dfad0556cb4f8d0ca120f177dec
+      internalID: 2028257477308254139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_37
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22006ddfefbce304db81de6a5cc39f6c
+      internalID: 4252774701000666692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_38
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40a8c7c9376de4fadf1dcd614a7d5a
+      internalID: -3468534923535660881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_39
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c6db4131bfc0449bdd485bf89efed7
+      internalID: 8853061583590469661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_40
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 7
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635045d21aa65514d89cc915ab7d228c
+      internalID: 986775088277031350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca3422041c66a44295133f8c5fea478
+      internalID: 5250128032464311960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8326cb5f3b00e498e5da8d408bb40e
+      internalID: 8546230256105749602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e552e792facc584e95bac91a1f54898
+      internalID: -5757775375289149770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 54
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f083207483e64bb433c895634c731
+      internalID: 3051084217713189145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_45
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 42
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc67cd5c83cad7840a96cf05d18dfd4c
+      internalID: 555416491835457044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_46
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 45
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3cad2af3b81e4f8bb188127abec5d
+      internalID: -3050148431496558865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d91c593145350c4d9689585cade85b9
+      internalID: -6791963558234966232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_48
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 37
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418d5183f70859f41bf6ba47f6df0961
+      internalID: -7104323079984013393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a3722dfdaa32342b98d7c2410359f9
+      internalID: 4135996151528405552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9cb32eb7904b48a92471297a777a2
+      internalID: 3870216816093073071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 37
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de03ea542dac29b46b4949dc3c5c4a35
+      internalID: -8644154961914494657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b057bc3efcf8941a987fdb6f3ce6ac
+      internalID: 6347273652155252403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059f84f35cce6b42ad353b720ba2b37
+      internalID: 2304011132008441718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_54
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e8caac476e37f4fa7629975dc119ae
+      internalID: -1545355981923627090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c90421a397da84a9b2ed33d16e8d09
+      internalID: 7574494409149356433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_56
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7312affd3b45864dab054dd0f15fa9e
+      internalID: -4575830664751026920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_57
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3883aab23dfde7438dd7c199d038e86
+      internalID: 8414233475848241355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_58
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 45
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26640949308d6bd4f85511f7b38bda68
+      internalID: -6841229118512137555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c02f009f5e5da4e81db473672a90d7
+      internalID: 2806541441544717449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_60
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b09fc975aaa2c847892d6de9a404cee
+      internalID: 1771621217625356578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4ce895458893d4db325e5fd89a716d
+      internalID: 7405048791675845832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_62
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e671ab60d0da34496b1119a7c9cd5f
+      internalID: 2599282839148213123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 37
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffde47b62ff2df46a499fc49006ea50
+      internalID: -1046662665997929408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52aef1f90089fa439e1544eaa328a30
+      internalID: -4621484004740219212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 34
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91636d5e1d45074468d7674633f0c4f3
+      internalID: 7541750244603148889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da76d4df9c9f9440921ee882ca2da75
+      internalID: 3872041264641709430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfcd61fef5c7e946923b72de3f73bc1
+      internalID: 7178327369221989582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b3c23a64966d948a38b7292c3e5290
+      internalID: -3700216829650580384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 7
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b2cbeabec5e1448ae82b44436c38c2
+      internalID: 6628062606381574062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_70
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 8
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc867204f43b0434c98f1f3c5480147d
+      internalID: -4692850471630323729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_71
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd3ef0127292e4e9a97568f640f39f
+      internalID: -1987689208065605915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_72
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 11
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34760f948181be14b817d2fd685ed101
+      internalID: 371134278817791302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_73
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 29
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f1ddcde511c6b45a47a0ce193c0d86
+      internalID: -3202474674706786908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_74
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc41954970b3e44690cf45d16a71037
+      internalID: -3569296784316850355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_75
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ed65ec5c760fb40ac0b890edab5878
+      internalID: -2592951830198777719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 29
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16358012c5fd7b24f876f19177a268b4
+      internalID: 4764708831276349272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e55b96241fb844a7ba31fd7f085a7
+      internalID: -7306600166582562135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_78
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 21
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3ce679920b8b34b8fc5276e1ab7263
+      internalID: -3445167849048627006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 19
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc57399ff0646af44bebec9a59de2899
+      internalID: -6238561863173080910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_80
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 21
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e854883101f843b30a1aa7a7abded
+      internalID: -3096139259685655427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 21
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e098c81efa247d043a37468cd02f4cea
+      internalID: -3290181206733721985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 21
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d3b3ba2ff175f46a7c17ebf97dfa67
+      internalID: -3470104123983977001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_83
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e89761b71df7f43aa04e7f95d3c7f4
+      internalID: -3214413429774407409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_84
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1926954aeb0a44684f7d575a074914
+      internalID: 899699685271717527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_85
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a3755446f5c51419b7e60e26931dcc
+      internalID: -732888516157969683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_86
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e43cbd8465fa344cb18eea9be6b4698
+      internalID: -1301171915259676154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_87
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7009039b3461454c89434e70f83a1f1
+      internalID: -1243701687824536379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_88
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 26
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daadd40bc0d25c458a7fbb949351ae5
+      internalID: -9158816453508293547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_89
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca8801bec6a2340a2329f2a3804e98
+      internalID: 4714668100600027727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_90
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c197a83745935b469f422c642d2b4d2
+      internalID: 6559821228362989313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_91
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0668c0f5f09ae4e87136ca72ec024c
+      internalID: 5944717784025884711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_92
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 26
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ae01491ea42148abe779d64590e42
+      internalID: -9021567646199805012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_93
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e5cf7d67b8a5d41bd9c292f2668a43
+      internalID: -7477898159141955025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_94
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 29
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d63a2ac89e2bc4995d7642d819bf24
+      internalID: 664450224042168776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_95
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af09eed58a5ac445b089f5bfad0972d
+      internalID: 3133558922642345399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_96
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97674e019ae1854aa939a13500a0cc7
+      internalID: -4459289467999705867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_97
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8804525bdbbc2d479c03ceb34ce1df2
+      internalID: -718335611815962519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_98
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02f7af5bad5cf84e9964ea980d918e3
+      internalID: -5028054411105560570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_99
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8866fd03df7a4e41b897d4e4f261ccf
+      internalID: 3394257036248258835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5edb6755d624b4981bfdd876ee863a
+      internalID: -7021413459117850059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8244fadfeaef7df4c8c6222f2f5e9727
+      internalID: -1195461315874929394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5941fdb482c4ba448ba62731b513b4b4
+      internalID: -6683446713377945287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_103
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 10
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2429426dd31d3f448a6e31627887f440
+      internalID: -6772063448045915334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_104
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 10
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4575a7765ca273449a7e16859404deeb
+      internalID: -173284898771830739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_105
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 13
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75989ca12b883d84d84a7ddab8ea2d2d
+      internalID: -5934993359643694313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_106
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 13
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ad0515cf83914d80908b16e356204
+      internalID: 5525227755166679331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_107
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c84a6a5496004dbf562560bd68c4e
+      internalID: 8016347952086004924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_108
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42f1f1f8fac605488be56b7919ece13
+      internalID: -7700213384023898842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_109
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 13
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37247c74c6e9a34191e028457f85722
+      internalID: 8621774101939483893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_110
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796da5a93d48e0b488ac0846d0e53e63
+      internalID: -5472407473561795327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_111
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7520e51f5ad9842b01c4b8d572a168
+      internalID: 8108886740677457335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_112
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb66891f705b949938c70111b1f057
+      internalID: -683247682195404771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_113
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b2ead7e9146d4e8cb4a09cdd3cad1
+      internalID: 4381436098752934219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_114
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 13
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac1901ebf82dc94483b461d1209ae50
+      internalID: -5535673846815810692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NVs6E_115
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ccd8b57f86cca4590bcf22ea62198e
+      internalID: 7000561338541932136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45a44efdd3a4feb45a335ec215e9dea6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
