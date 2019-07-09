@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\attackTrigger.cs" />
     <Compile Include="Assets\Scripts\enemyAI.cs" />
+    <Compile Include="Assets\Scripts\GKAI.cs" />
     <Compile Include="Assets\Scripts\playerControls.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/luisf/Desktop/UTDproject/GameModel/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

@@ -604,7 +604,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 292587004}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.09, y: -5.38, z: 0}
+  m_LocalPosition: {x: 11.18, y: -5.38, z: 0}
   m_LocalScale: {x: 4.5354977, y: 2.6052063, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1172,6 +1172,36 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &721192581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 721192582}
+  m_Layer: 0
+  m_Name: GKplayerCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &721192582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 721192581}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.51, y: -0.28, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1349629858}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &751262816
 GameObject:
   m_ObjectHideFlags: 0
@@ -1182,7 +1212,8 @@ GameObject:
   m_Component:
   - component: {fileID: 751262818}
   - component: {fileID: 751262817}
-  m_Layer: 0
+  - component: {fileID: 751262819}
+  m_Layer: 8
   m_Name: Rock3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1246,12 +1277,38 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 751262816}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -14.24, y: -4.89, z: 0}
+  m_LocalPosition: {x: -12.17, y: -4.92, z: 0}
   m_LocalScale: {x: 4.3993053, y: 3.2495463, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &751262819
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 751262816}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.46, y: 0.58}
+    newSize: {x: 0.46, y: 0.58}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.46, y: 0.58}
+  m_EdgeRadius: 0
 --- !u!1 &898978955
 GameObject:
   m_ObjectHideFlags: 0
@@ -1266,7 +1323,7 @@ GameObject:
   - component: {fileID: 898978961}
   - component: {fileID: 898978959}
   - component: {fileID: 898978958}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -1386,7 +1443,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 898978955}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.79, y: -4.96, z: 0}
+  m_LocalPosition: {x: -8.87, y: -5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 966195975}
@@ -1415,6 +1472,36 @@ MonoBehaviour:
   playerCheck: {fileID: 1469031502}
   attackTriggerFront: {fileID: 1062882968}
   animator: {fileID: 898978959}
+--- !u!1 &901971886
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 901971887}
+  m_Layer: 0
+  m_Name: GKwallCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &901971887
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 901971886}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.27, y: -0.34, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1349629858}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &919874119
 GameObject:
   m_ObjectHideFlags: 0
@@ -1489,7 +1576,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919874119}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.9, y: -4.87, z: 0}
+  m_LocalPosition: {x: 12.04, y: -4.87, z: 0}
   m_LocalScale: {x: 3.578913, y: 2.8022377, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1978,6 +2065,63 @@ Transform:
   m_Father: {fileID: 898978960}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1109147723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1109147724}
+  - component: {fileID: 1109147725}
+  m_Layer: 0
+  m_Name: GKattackTriggerFront
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1109147724
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109147723}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.61, y: -0.24, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1349629858}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1109147725
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109147723}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.15696992, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.0348823, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1119256676
 GameObject:
   m_ObjectHideFlags: 0
@@ -2095,11 +2239,12 @@ GameObject:
   - component: {fileID: 1349629858}
   - component: {fileID: 1349629857}
   - component: {fileID: 1349629856}
+  - component: {fileID: 1349629861}
   - component: {fileID: 1349629860}
   - component: {fileID: 1349629859}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: GoblinKing
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2180,10 +2325,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1349629855}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.116, y: -0.247, z: 0}
-  m_LocalScale: {x: 1.30944, y: 1.348732, z: 1}
+  m_LocalPosition: {x: -5.75, y: -4.388, z: 0}
+  m_LocalScale: {x: 1.8201216, y: 1.9138508, z: 1}
   m_Children:
   - {fileID: 1687336922}
+  - {fileID: 901971887}
+  - {fileID: 721192582}
+  - {fileID: 1109147724}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2224,6 +2372,25 @@ CapsuleCollider2D:
   m_Offset: {x: 0.43470994, y: -0.16457513}
   m_Size: {x: 0.73352724, y: 1.0178245}
   m_Direction: 0
+--- !u!114 &1349629861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1349629855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4be8fc37b7f1e5c4f974ddc232782afb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackTimer: 0
+  attackCooldown: 0.5
+  GKedgeCheck: {fileID: 1687336922}
+  GKwallCheck: {fileID: 901971887}
+  GKplayerCheck: {fileID: 721192582}
+  GKattackTriggerFront: {fileID: 1109147725}
+  animator: {fileID: 1349629856}
 --- !u!1 &1403901220
 GameObject:
   m_ObjectHideFlags: 0
@@ -2471,7 +2638,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1687336922}
   m_Layer: 0
-  m_Name: ec
+  m_Name: GKedgeCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2485,7 +2652,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1687336921}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.008, y: -0.8, z: -180.95506}
+  m_LocalPosition: {x: -0.18, y: -0.78, z: -180.95506}
   m_LocalScale: {x: 0.6364205, y: 0.6743528, z: 1.1201}
   m_Children: []
   m_Father: {fileID: 1349629858}
@@ -2692,7 +2859,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1958149129}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.23, y: -0.6, z: 0}
+  m_LocalPosition: {x: -5.23, y: -0.39, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
