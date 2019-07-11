@@ -446,9 +446,9 @@ TextureImporter:
       name: NVs6E_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 291
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -467,9 +467,9 @@ TextureImporter:
       name: NVs6E_1
       rect:
         serializedVersion: 2
-        x: 107
+        x: 102
         y: 291
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -488,9 +488,9 @@ TextureImporter:
       name: NVs6E_2
       rect:
         serializedVersion: 2
-        x: 209
+        x: 203
         y: 291
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -509,9 +509,9 @@ TextureImporter:
       name: NVs6E_3
       rect:
         serializedVersion: 2
-        x: 310
+        x: 305
         y: 291
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -530,9 +530,9 @@ TextureImporter:
       name: NVs6E_4
       rect:
         serializedVersion: 2
-        x: 413
+        x: 408
         y: 291
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -551,9 +551,9 @@ TextureImporter:
       name: NVs6E_5
       rect:
         serializedVersion: 2
-        x: 522
+        x: 517
         y: 291
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -572,9 +572,9 @@ TextureImporter:
       name: NVs6E_6
       rect:
         serializedVersion: 2
-        x: 625
+        x: 619
         y: 291
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -593,9 +593,9 @@ TextureImporter:
       name: NVs6E_7
       rect:
         serializedVersion: 2
-        x: 727
+        x: 722
         y: 291
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -614,9 +614,9 @@ TextureImporter:
       name: NVs6E_8
       rect:
         serializedVersion: 2
-        x: 830
+        x: 824
         y: 291
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -635,9 +635,9 @@ TextureImporter:
       name: NVs6E_9
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 200
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -656,9 +656,9 @@ TextureImporter:
       name: NVs6E_10
       rect:
         serializedVersion: 2
-        x: 112
+        x: 107
         y: 200
-        width: 63
+        width: 68
         height: 73
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -677,9 +677,9 @@ TextureImporter:
       name: NVs6E_11
       rect:
         serializedVersion: 2
-        x: 216
+        x: 211
         y: 200
-        width: 63
+        width: 68
         height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -698,9 +698,9 @@ TextureImporter:
       name: NVs6E_12
       rect:
         serializedVersion: 2
-        x: 311
+        x: 306
         y: 200
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -719,9 +719,9 @@ TextureImporter:
       name: NVs6E_13
       rect:
         serializedVersion: 2
-        x: 423
+        x: 419
         y: 200
-        width: 65
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -740,9 +740,9 @@ TextureImporter:
       name: NVs6E_14
       rect:
         serializedVersion: 2
-        x: 518
+        x: 512
         y: 199
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -761,9 +761,9 @@ TextureImporter:
       name: NVs6E_15
       rect:
         serializedVersion: 2
-        x: 622
+        x: 616
         y: 184
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -782,9 +782,9 @@ TextureImporter:
       name: NVs6E_16
       rect:
         serializedVersion: 2
-        x: 729
+        x: 724
         y: 179
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -803,9 +803,9 @@ TextureImporter:
       name: NVs6E_17
       rect:
         serializedVersion: 2
-        x: 830
+        x: 824
         y: 200
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -824,9 +824,9 @@ TextureImporter:
       name: NVs6E_18
       rect:
         serializedVersion: 2
-        x: 11
+        x: 7
         y: 97
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -866,9 +866,9 @@ TextureImporter:
       name: NVs6E_20
       rect:
         serializedVersion: 2
-        x: 109
-        y: 114
-        width: 63
+        x: 108
+        y: 103
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -889,7 +889,7 @@ TextureImporter:
         serializedVersion: 2
         x: 226
         y: 100
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -910,7 +910,7 @@ TextureImporter:
         serializedVersion: 2
         x: 334
         y: 100
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -929,9 +929,9 @@ TextureImporter:
       name: NVs6E_23
       rect:
         serializedVersion: 2
-        x: 448
+        x: 447
         y: 100
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -952,7 +952,7 @@ TextureImporter:
         serializedVersion: 2
         x: 551
         y: 100
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -973,7 +973,7 @@ TextureImporter:
         serializedVersion: 2
         x: 655
         y: 101
-        width: 63
+        width: 69
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -994,7 +994,7 @@ TextureImporter:
         serializedVersion: 2
         x: 758
         y: 101
-        width: 63
+        width: 68
         height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

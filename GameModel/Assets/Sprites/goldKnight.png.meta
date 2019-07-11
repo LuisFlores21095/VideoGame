@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 070c4e3e157d33c47821e2f3102cad4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3062303879906806791
+    second: goldKnight_0
+  - first:
+      213: -7924185810811421998
+    second: goldKnight_1
+  - first:
+      213: 5029578454789947423
+    second: goldKnight_2
+  - first:
+      213: -5732188153482648991
+    second: goldKnight_3
+  - first:
+      213: -8382809964627436698
+    second: goldKnight_4
+  - first:
+      213: -2659397812375548515
+    second: goldKnight_5
+  - first:
+      213: -3923481216960710564
+    second: goldKnight_6
+  - first:
+      213: -3556756991138235637
+    second: goldKnight_7
+  - first:
+      213: -1463766442642471554
+    second: goldKnight_8
+  - first:
+      213: -8691171121836501928
+    second: goldKnight_9
+  - first:
+      213: 4348904819069182466
+    second: goldKnight_10
+  - first:
+      213: -1287979380188717046
+    second: goldKnight_11
+  - first:
+      213: -3022584219837554200
+    second: goldKnight_12
+  - first:
+      213: -3204717167820721830
+    second: goldKnight_13
+  - first:
+      213: -1828454157912602803
+    second: goldKnight_14
+  - first:
+      213: 8122728974019773
+    second: goldKnight_15
+  - first:
+      213: -6881463998292750628
+    second: goldKnight_16
+  - first:
+      213: -700822098726199028
+    second: goldKnight_17
+  - first:
+      213: 1013128783033595255
+    second: goldKnight_18
+  - first:
+      213: 6822033858633043553
+    second: goldKnight_19
+  - first:
+      213: -4236264714742953377
+    second: goldKnight_20
+  - first:
+      213: -9032828411939162975
+    second: goldKnight_21
+  - first:
+      213: 6597027388212768543
+    second: goldKnight_22
+  - first:
+      213: 908493206226950416
+    second: goldKnight_23
+  - first:
+      213: 8211240113584318329
+    second: goldKnight_24
+  - first:
+      213: 178315808583607116
+    second: goldKnight_25
+  - first:
+      213: 4314605940847444571
+    second: goldKnight_26
+  - first:
+      213: 9201746747513580254
+    second: goldKnight_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldKnight_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 321
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c41b29cf256948a72cff26b9e7700
+      internalID: 3062303879906806791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 321
+        width: 136
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d163a89145145d64680b18622f80065d
+      internalID: -7924185810811421998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 322
+        width: 135
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83576869136e4014e9c9b5b0ac719214
+      internalID: 5029578454789947423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 322
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f444d3281a88944b6a62afcfbbe359
+      internalID: -5732188153482648991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 322
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c84074405244c94c96380542c7fd275
+      internalID: -8382809964627436698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 322
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44e907383088bd49b7da9ffaed98d1d
+      internalID: -2659397812375548515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 322
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fc63ccac01ef14d9a324e3f22d7921
+      internalID: -3923481216960710564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 321
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb5a62ed8bb364cb4a4635085c6ffe
+      internalID: -3556756991138235637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 208
+        width: 136
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513be076048015c4fb198f3234300432
+      internalID: -1463766442642471554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 209
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adf9e432b22ca243b4f28f98f3ad42d
+      internalID: -8691171121836501928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 208
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84fd180e31c0c14c83885a65b3fa87e
+      internalID: 4348904819069182466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069be962e93e6524a819109c78faf6d8
+      internalID: -1287979380188717046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 208
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770709a432e795c4a91cf7fd3e3e48a1
+      internalID: -3022584219837554200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 209
+        width: 136
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c73d0f2e7f16b74096836f4dd8b4067
+      internalID: -3204717167820721830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_14
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 208
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f8c8b131582f34b971f6b7f0e90c76
+      internalID: -1828454157912602803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_15
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 209
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01500ce1b414513499aec1b610648ee0
+      internalID: 8122728974019773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_16
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 209
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f2603ffbdda5d4e9f449c8d9e28564
+      internalID: -6881463998292750628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_17
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 208
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c703febb10d57e42a29afd8c1198f9e
+      internalID: -700822098726199028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_18
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 173
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea50694c1aa3a4db5f3c30a9904b7e
+      internalID: 1013128783033595255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_19
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 401
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5086244752890524db49842c3002296e
+      internalID: 6822033858633043553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 64
+        width: 131
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45842ef7247aab4eb6f8f3d4f9a8d6a
+      internalID: -4236264714742953377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 68
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd09b18664fdf44daeaef20f9508dc0
+      internalID: -9032828411939162975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_22
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 66
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d64e7f4689812448e2b39abdb22c7d
+      internalID: 6597027388212768543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_23
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 69
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a587260a26f82774cbf42f3a85906b13
+      internalID: 908493206226950416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 69
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e225215f21225cb478badb56d00c8842
+      internalID: 8211240113584318329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 70
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c925ae61b2a5ca449471228e4453f44
+      internalID: 178315808583607116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_26
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 73
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c203626b3ca171428230065a286c34a
+      internalID: 4314605940847444571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldKnight_27
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 71
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00de79631b006340916cf01e22d24b0
+      internalID: 9201746747513580254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2fe49b45d7e824842bcbc9ae700d7d85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

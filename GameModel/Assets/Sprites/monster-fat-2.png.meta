@@ -185,12 +185,12 @@ TextureImporter:
       name: monster-fat-2_0
       rect:
         serializedVersion: 2
-        x: 107
+        x: 88
         y: 594
-        width: 77
+        width: 96
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: monster-fat-2_1
       rect:
         serializedVersion: 2
-        x: 329
+        x: 310
         y: 585
-        width: 77
+        width: 96
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: monster-fat-2_2
       rect:
         serializedVersion: 2
-        x: 511
-        y: 587
-        width: 77
+        x: 491
+        y: 588
+        width: 97
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: monster-fat-2_3
       rect:
         serializedVersion: 2
-        x: 700
+        x: 680
         y: 587
-        width: 77
+        width: 97
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: monster-fat-2_4
       rect:
         serializedVersion: 2
-        x: 854
+        x: 838
         y: 601
-        width: 77
+        width: 97
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: monster-fat-2_5
       rect:
         serializedVersion: 2
-        x: 104
+        x: 84
         y: 474
-        width: 77
+        width: 97
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -311,12 +311,12 @@ TextureImporter:
       name: monster-fat-2_6
       rect:
         serializedVersion: 2
-        x: 319
+        x: 300
         y: 464
-        width: 77
+        width: 96
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -332,12 +332,12 @@ TextureImporter:
       name: monster-fat-2_7
       rect:
         serializedVersion: 2
-        x: 508
+        x: 487
         y: 466
-        width: 77
+        width: 98
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -354,11 +354,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 664
-        y: 469
-        width: 77
+        y: 472
+        width: 97
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -374,12 +374,12 @@ TextureImporter:
       name: monster-fat-2_9
       rect:
         serializedVersion: 2
-        x: 841
-        y: 490
-        width: 77
+        x: 837
+        y: 489
+        width: 97
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: monster-fat-2_10
       rect:
         serializedVersion: 2
-        x: 116
+        x: 80
         y: 336
-        width: 77
+        width: 113
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -417,11 +417,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 333
-        y: 330
-        width: 77
+        y: 332
+        width: 97
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: monster-fat-2_12
       rect:
         serializedVersion: 2
-        x: 517
+        x: 482
         y: 342
-        width: 77
+        width: 112
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -458,12 +458,12 @@ TextureImporter:
       name: monster-fat-2_13
       rect:
         serializedVersion: 2
-        x: 681
+        x: 643
         y: 338
-        width: 77
+        width: 115
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -484,7 +484,7 @@ TextureImporter:
         width: 77
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -505,7 +505,7 @@ TextureImporter:
         width: 77
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -526,7 +526,7 @@ TextureImporter:
         width: 77
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -542,12 +542,12 @@ TextureImporter:
       name: monster-fat-2_17
       rect:
         serializedVersion: 2
-        x: 523
+        x: 487
         y: 214
-        width: 77
+        width: 113
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -563,12 +563,12 @@ TextureImporter:
       name: monster-fat-2_18
       rect:
         serializedVersion: 2
-        x: 671
+        x: 635
         y: 214
-        width: 77
+        width: 113
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -584,12 +584,12 @@ TextureImporter:
       name: monster-fat-2_19
       rect:
         serializedVersion: 2
-        x: 843
+        x: 806
         y: 228
-        width: 77
+        width: 114
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -610,7 +610,7 @@ TextureImporter:
         width: 90
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -631,7 +631,7 @@ TextureImporter:
         width: 19
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -652,7 +652,7 @@ TextureImporter:
         width: 27
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -669,11 +669,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 495
-        y: 111
-        width: 77
+        y: 113
+        width: 98
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -690,11 +690,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 657
-        y: 109
-        width: 77
+        y: 111
+        width: 98
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -711,11 +711,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 822
-        y: 123
-        width: 77
+        y: 125
+        width: 96
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -736,7 +736,7 @@ TextureImporter:
         width: 77
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -757,7 +757,7 @@ TextureImporter:
         width: 12
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -778,7 +778,7 @@ TextureImporter:
         width: 8
         height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

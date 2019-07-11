@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: 37662021133d5b34ea20ec0337c71560
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 266491638667264975
+    second: zombie_magic2_0
+  - first:
+      213: 6643223390213497393
+    second: zombie_magic2_1
+  - first:
+      213: 6529793515582154988
+    second: zombie_magic2_2
+  - first:
+      213: -1983968882333113251
+    second: zombie_magic2_3
+  - first:
+      213: -5767446049727402898
+    second: zombie_magic2_4
+  - first:
+      213: -525167225503691619
+    second: zombie_magic2_5
+  - first:
+      213: 7652916910259457959
+    second: zombie_magic2_6
+  - first:
+      213: 7975662808139770344
+    second: zombie_magic2_7
+  - first:
+      213: -4508970186416168563
+    second: zombie_magic2_8
+  - first:
+      213: -2572890130378813051
+    second: zombie_magic2_9
+  - first:
+      213: 6973642685185398514
+    second: zombie_magic2_10
+  - first:
+      213: 769763064059463121
+    second: zombie_magic2_11
+  - first:
+      213: -6142448771727268242
+    second: zombie_magic2_12
+  - first:
+      213: -264860402090289993
+    second: zombie_magic2_13
+  - first:
+      213: -6127012939176857373
+    second: zombie_magic2_14
+  - first:
+      213: 7204230957868455645
+    second: zombie_magic2_15
+  - first:
+      213: -5533883984275843907
+    second: zombie_magic2_16
+  - first:
+      213: -8793692046683674847
+    second: zombie_magic2_17
+  - first:
+      213: -5900318424595629145
+    second: zombie_magic2_18
+  - first:
+      213: 4102799538926896870
+    second: zombie_magic2_19
+  - first:
+      213: -862749884404152766
+    second: zombie_magic2_20
+  - first:
+      213: -6894675892296764178
+    second: zombie_magic2_21
+  - first:
+      213: 8472281160371267132
+    second: zombie_magic2_22
+  - first:
+      213: -3962525142343713506
+    second: zombie_magic2_23
+  - first:
+      213: -3052369556349421874
+    second: zombie_magic2_24
+  - first:
+      213: 6562081147350882736
+    second: zombie_magic2_25
+  - first:
+      213: -7541305446278545624
+    second: zombie_magic2_26
+  - first:
+      213: 3183915070556917293
+    second: zombie_magic2_27
+  - first:
+      213: 6228035200283014958
+    second: zombie_magic2_28
+  - first:
+      213: -7961242593401136749
+    second: zombie_magic2_29
+  - first:
+      213: 1530162245602940316
+    second: zombie_magic2_30
+  - first:
+      213: 7773507573279640569
+    second: zombie_magic2_31
+  - first:
+      213: -4967364385866977053
+    second: zombie_magic2_32
+  - first:
+      213: 5285421459586843484
+    second: zombie_magic2_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_magic2_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 542
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c91ce6687fa464c822f25c8ed2278a
+      internalID: 266491638667264975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 542
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd37b2c36670644d95bc55dc0377f30
+      internalID: 6643223390213497393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 548
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7078aa1f1dc3c2488bf573bc152af35
+      internalID: 6529793515582154988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 548
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f85bcce7c1b524c8dffcc4cdbd936a
+      internalID: -1983968882333113251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 473
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f413e4b47e9de46b622a9832294a1c
+      internalID: -5767446049727402898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 414
+        width: 180
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077c6b55bf52914d97794ffe464c663
+      internalID: -525167225503691619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 407
+        width: 181
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8a0a1f6caf0d4a81372bc501e45a3
+      internalID: 7652916910259457959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 395
+        width: 192
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5830b2bc67e0424ab341eef725bdd85
+      internalID: 7975662808139770344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 254
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77761c5c451673a469e3c48d4f0e16f4
+      internalID: -4508970186416168563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 330
+        width: 13
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74770fb39459847933af011429713c
+      internalID: -2572890130378813051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 319
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f3444abc4725c459d73ee23f0a88a2
+      internalID: 6973642685185398514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 338
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f500e3c1487e49aa1b98a3825d54e
+      internalID: 769763064059463121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 329
+        width: 13
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488f71ab0e54bf446a5ffa2bb91d61ae
+      internalID: -6142448771727268242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 291
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a4135d5b07df44dbc3cd86d076208a
+      internalID: -264860402090289993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 318
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8f439892d5bc4caeece97dd2ada4d
+      internalID: -6127012939176857373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 337
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c99c7309c71442837339e545f7de9
+      internalID: 7204230957868455645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 254
+        width: 38
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4156fabb4129044b14023dc0f3fe70
+      internalID: -5533883984275843907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 314
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9465340b7a004544b8825af1279b4547
+      internalID: -8793692046683674847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 254
+        width: 38
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36aff34c8a2d464395843a950a16c5b
+      internalID: -5900318424595629145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 313
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ba1ec80dfdbb4a8a44c3d1d469242
+      internalID: 4102799538926896870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17992ccdd27542d47a022c051acf3562
+      internalID: -862749884404152766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 254
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f97e271c40c0438a3e1c0d7b842ff
+      internalID: -6894675892296764178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 254
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea932803398692f4e93f13a40de304ac
+      internalID: 8472281160371267132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 36
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5367f5aa7075054f86eb2247cd47309
+      internalID: -3962525142343713506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 65
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda02f130eeb1942970ddc0cc9d3d01
+      internalID: -3052369556349421874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 68
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776742e08eb6884428c7b2f8cf9fd6b8
+      internalID: 6562081147350882736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 65
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabc1cd10d66af04fbe666fdbab198b5
+      internalID: -7541305446278545624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 68
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc145e369534c1643ba138e933d45f85
+      internalID: 3183915070556917293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 36
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8731eefae5a14aab717cb3661320b
+      internalID: 6228035200283014958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 33
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ce5c7382db8a4aa37eedd18bc0e5f
+      internalID: -7961242593401136749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 33
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4c1547102553d4fbedc92c3d8b7123
+      internalID: 1530162245602940316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 33
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1138276c7537b41bb9c8f60b48765d
+      internalID: 7773507573279640569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_32
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 33
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972de737a9c3a7640a891622dbbbaeb2
+      internalID: -4967364385866977053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_magic2_33
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52441812d7b29e8468f635b8d700f169
+      internalID: 5285421459586843484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3bfb3911773b3fd42917cbbecb5e9367
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
