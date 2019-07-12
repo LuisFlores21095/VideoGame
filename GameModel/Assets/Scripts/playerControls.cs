@@ -23,6 +23,7 @@ public class playerControls : MonoBehaviour
     bool isGrounded = true;
     bool attack = false;
     bool facingRight = true;
+    bool hurt = false;
 
     float moveSpeed;
     float jumpForce;
@@ -49,37 +50,41 @@ public class playerControls : MonoBehaviour
         jump = new Vector2(0.0f, jumpForce); // jumpforce applied in positive Y direction
         animator.SetFloat("Speed", Mathf.Abs(Input.GetAxisRaw("Horizontal")*moveSpeed)); //checks speed, if speed>0, walking animation
         animator.SetBool("Ground", isGrounded); //if grounded, do ground animations
+        animator.SetBool("Hurt", hurt); //if grounded, do ground animations
 
         float horizontal = Input.GetAxis("Horizontal"); //takes in horizontal movement inputs
         flipSprite(horizontal); //if changing directions horizontally, flip the sprite
 
         //Player Controls
-        if (Input.GetKey(KeyCode.A)) // move left
+        if (!hurt)
         {
-            pos.x += -moveSpeed * Time.deltaTime;
-        }
-        if (Input.GetKey(KeyCode.D)) // move right
-        {
-            pos.x += moveSpeed * Time.deltaTime;
-        }
-        if (Input.GetKey(KeyCode.W) && isGrounded) //jump only when grounded
-        {
-            rb.AddForce(jump, ForceMode2D.Impulse);
-            animator.SetTrigger("Jump");
-            isGrounded = false;
-        }
-        if(Input.GetKey(KeyCode.S) && !isGrounded)
-        {
-            rb.AddForce(new Vector2(0.0f, -0.5f), ForceMode2D.Impulse);
-        }
+            if (Input.GetKey(KeyCode.A)) // move left
+            {
+                pos.x += -moveSpeed * Time.deltaTime;
+            }
+            if (Input.GetKey(KeyCode.D)) // move right
+            {
+                pos.x += moveSpeed * Time.deltaTime;
+            }
+            if (Input.GetKey(KeyCode.W) && isGrounded) //jump only when grounded
+            {
+                rb.AddForce(jump, ForceMode2D.Impulse);
+                animator.SetTrigger("Jump");
+                isGrounded = false;
+            }
+            if (Input.GetKey(KeyCode.S) && !isGrounded)
+            {
+                rb.AddForce(new Vector2(0.0f, -0.5f), ForceMode2D.Impulse);
+            }
 
-        if(Input.GetKey(KeyCode.Space) && !attack)
-        {
-            attack = true;
-            animator.SetTrigger("Attack"); //knight attack animation
-            attackAnimator.SetTrigger("Attack"); //blue attack effect on collider animation
-            attackTimer = attackCooldown;
-            attackTriggerFront.enabled = true;
+            if (Input.GetKey(KeyCode.Space) && !attack)
+            {
+                attack = true;
+                animator.SetTrigger("Attack"); //knight attack animation
+                attackAnimator.SetTrigger("Attack"); //blue attack effect on collider animation
+                attackTimer = attackCooldown;
+                attackTriggerFront.enabled = true;
+            }
         }
 
         if (attack)
@@ -99,6 +104,11 @@ public class playerControls : MonoBehaviour
             }
         }
 
+        if (hurt && isGrounded)
+        {
+            hurt = false;
+        }
+
         transform.position = pos; // update position
     }
 
@@ -113,11 +123,20 @@ public class playerControls : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter2D(Collision2D col) //detects enemy collision (either enemy attack or enemy body) (can add HP here later)
+    void OnCollisionEnter2D(Collision2D col)
     {
-        if(col.gameObject.CompareTag("Enemy"))
+        if (col.gameObject.CompareTag("Enemy"))
         {
             animator.SetTrigger("Hurt");
+            if (facingRight)
+            {
+                rb.AddForce(new Vector2(-4.0f, 4.0f), ForceMode2D.Impulse);
+            }
+            else
+            {
+                rb.AddForce(new Vector2(4.0f, 4.0f), ForceMode2D.Impulse);
+            }
+            hurt = true;
         }
     }
 }
