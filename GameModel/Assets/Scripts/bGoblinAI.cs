@@ -39,20 +39,22 @@ public class bGoblinAI : MonoBehaviour
         wallAhead = Physics2D.Linecast(pos, wallCheck.position, 1 << LayerMask.NameToLayer("Ground")); //sets true if detects wall ahead
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
 
-        if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
+        if (!playerAhead)
         {
-            pos.x += moveSpeed * Time.deltaTime;
+            if ( isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
+            {
+                pos.x += moveSpeed * Time.deltaTime;
+            }
+            else //else, turn around
+            {
+                moveSpeed *= -1;
+                facingRight = !facingRight;
+                Vector2 charScale = transform.localScale;
+                charScale.x *= -1;
+                transform.localScale = charScale;
+            }
         }
-        else //else, turn around
-        {
-            moveSpeed *= -1;
-            facingRight = !facingRight;
-            Vector2 charScale = transform.localScale;
-            charScale.x *= -1;
-            transform.localScale = charScale;
-        }
-
-        if (playerAhead) //if player is ahead, attack
+        if ( !attack && playerAhead) //if player is ahead, attack
         {
             oldMoveSpeed = moveSpeed; //save current moving direction
             moveSpeed = 0; //stop moving to start attack
