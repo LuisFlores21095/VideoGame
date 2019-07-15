@@ -10,23 +10,23 @@ public class playerControls : MonoBehaviour
     Vector2 jump;
     Collider2D coll;
 
-    public float attackTimer = 0;
     public float attackCooldown = 0.5f;
+    public float moveSpeed = 4.0f;
+    public float jumpForce = 8.0f;
 
     public LayerMask groundLayer;
     public Transform groundedEnd;
     public Animator animator;
     public Animator attackAnimator;
-
     public Collider2D attackTriggerFront;
 
-    bool isGrounded = true;
+    bool isGrounded = false;
     bool attack = false;
     bool facingRight = true;
     bool hurt = false;
 
-    float moveSpeed;
-    float jumpForce;
+    float hurtTimer;
+    float attackTimer;
 
     Vector2 pos;
 
@@ -38,8 +38,8 @@ public class playerControls : MonoBehaviour
 
         attackTriggerFront.enabled = false; //start player not attacking
 
-        moveSpeed = 4.0f;
-        jumpForce = 8.0f;
+        hurtTimer = 1.0f;
+        attackTimer = 0.5f;
     }
 
     // Update is called once per frame
@@ -50,10 +50,27 @@ public class playerControls : MonoBehaviour
         jump = new Vector2(0.0f, jumpForce); // jumpforce applied in positive Y direction
         animator.SetFloat("Speed", Mathf.Abs(Input.GetAxisRaw("Horizontal")*moveSpeed)); //checks speed, if speed>0, walking animation
         animator.SetBool("Ground", isGrounded); //if grounded, do ground animations
-        animator.SetBool("Hurt", hurt); //if grounded, do ground animations
 
         float horizontal = Input.GetAxis("Horizontal"); //takes in horizontal movement inputs
         flipSprite(horizontal); //if changing directions horizontally, flip the sprite
+
+        if (isGrounded)
+        {
+            animator.SetLayerWeight(1, 0);
+        }
+        else
+        {
+            animator.SetLayerWeight(1, 1);
+        }
+
+        if (hurt)
+        {
+            animator.SetLayerWeight(2, 1);
+        }
+        else
+        {
+            animator.SetLayerWeight(2, 0);
+        }
 
         //Player Controls
         if (!hurt)
@@ -104,9 +121,16 @@ public class playerControls : MonoBehaviour
             }
         }
 
-        if (hurt && isGrounded)
+        if (hurt)
         {
-            hurt = false;
+            if (hurtTimer > 0)
+            {
+                hurtTimer -= Time.deltaTime;
+            }
+            else
+            {
+                hurt = false;
+            }
         }
 
         transform.position = pos; // update position
@@ -127,7 +151,7 @@ public class playerControls : MonoBehaviour
     {
         if (col.gameObject.CompareTag("Enemy"))
         {
-            animator.SetTrigger("Hurt");
+            hurt = true;
             if (facingRight)
             {
                 rb.AddForce(new Vector2(-4.0f, 4.0f), ForceMode2D.Impulse);
@@ -136,7 +160,7 @@ public class playerControls : MonoBehaviour
             {
                 rb.AddForce(new Vector2(4.0f, 4.0f), ForceMode2D.Impulse);
             }
-            hurt = true;
+            hurtTimer = 0.5f;
         }
     }
 }

@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class bGoblinAI : MonoBehaviour
 {
-    public float attackTimer = 0;
-    public float attackCooldown = 0.5f;
+    public float attackCooldown = 1.0f;
+    public float moveSpeed = 1.0f;
 
     public Transform edgeCheck;
     public Transform wallCheck;
@@ -19,15 +19,15 @@ public class bGoblinAI : MonoBehaviour
     bool attack = false;
     bool facingRight = true;
 
-    float moveSpeed;
     float oldMoveSpeed;
+    float attackTimer;
 
     Vector2 pos;
 
     // Start is called before the first frame update
     void Start()
     {
-        moveSpeed = 1.0f;
+        attackTimer = 0;
         attackTriggerFront.enabled = false;
     }
 
@@ -56,17 +56,17 @@ public class bGoblinAI : MonoBehaviour
         }
         if ( !attack && playerAhead) //if player is ahead, attack
         {
+            animator.SetTrigger("Attack");
             oldMoveSpeed = moveSpeed; //save current moving direction
             moveSpeed = 0; //stop moving to start attack
             attack = true;
-            animator.SetTrigger("Attack");
             attackTimer = attackCooldown;
             attackTriggerFront.enabled = true;
         }
 
         if (attack)
         {
-            if (attackTimer < 0.3)
+            if (attackTimer < (attackCooldown-0.3))
             {
                 attackTriggerFront.enabled = false;
             }
