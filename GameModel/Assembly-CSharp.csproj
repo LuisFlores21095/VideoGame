@@ -59,9 +59,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\attackTrigger.cs" />
     <Compile Include="Assets\Scripts\bGoblinAI.cs" />
+    <Compile Include="Assets\Scripts\gGoblinAI.cs" />
     <Compile Include="Assets\Scripts\GKAI.cs" />
     <Compile Include="Assets\Scripts\jumpingGoblinAI.cs" />
     <Compile Include="Assets\Scripts\playerControls.cs" />
+    <Compile Include="Assets\Scripts\rGoblinAI.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/ariel/Github/video-game-project-ariel-luis-sujay/GameModel/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

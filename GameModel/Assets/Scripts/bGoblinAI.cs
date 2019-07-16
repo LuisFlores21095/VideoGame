@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Blue goblin most basic AI, just walks back and forth and attacks if infront
 public class bGoblinAI : MonoBehaviour
 {
     public float attackCooldown = 1.0f;

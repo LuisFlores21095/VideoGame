@@ -54,7 +54,7 @@ public class playerControls : MonoBehaviour
         float horizontal = Input.GetAxis("Horizontal"); //takes in horizontal movement inputs
         flipSprite(horizontal); //if changing directions horizontally, flip the sprite
 
-        if (isGrounded)
+        if (isGrounded) // if grounded, play grounded animations over air animations
         {
             animator.SetLayerWeight(1, 0);
         }
@@ -63,7 +63,7 @@ public class playerControls : MonoBehaviour
             animator.SetLayerWeight(1, 1);
         }
 
-        if (hurt)
+        if (hurt) // if hurt, play hurt animation over all grounded or air animations
         {
             animator.SetLayerWeight(2, 1);
         }
@@ -73,7 +73,7 @@ public class playerControls : MonoBehaviour
         }
 
         //Player Controls
-        if (!hurt)
+        if (!hurt) // if not hurt, accept input
         {
             if (Input.GetKey(KeyCode.A)) // move left
             {
@@ -104,7 +104,7 @@ public class playerControls : MonoBehaviour
             }
         }
 
-        if (attack)
+        if (attack) // if attack started
         {
             if(attackTimer < 0.3)
             {
@@ -121,7 +121,7 @@ public class playerControls : MonoBehaviour
             }
         }
 
-        if (hurt)
+        if (hurt) // count down the hurt timer
         {
             if (hurtTimer > 0)
             {
@@ -147,7 +147,7 @@ public class playerControls : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter2D(Collision2D col)
+    void OnCollisionEnter2D(Collision2D col) // hurts player if it comes in contact with enemy or enemy attack
     {
         if (col.gameObject.CompareTag("Enemy"))
         {
