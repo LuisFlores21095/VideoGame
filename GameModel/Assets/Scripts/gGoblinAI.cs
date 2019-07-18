@@ -7,7 +7,7 @@ using UnityEngine;
 //Overall the green goblin is weaker
 public class gGoblinAI : MonoBehaviour
 {
-    public float attackCooldown = 2.0f;
+    public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
     public float moveCooldown = 5.0f;
 
