@@ -128,6 +128,18 @@ TextureImporter:
   - first:
       213: -8376696175838732149
     second: goblins_41
+  - first:
+      213: 4844389059813863263
+    second: goblins_42
+  - first:
+      213: 57350539607892454
+    second: goblins_43
+  - first:
+      213: 3178157188475203582
+    second: goblins_44
+  - first:
+      213: 4372619873763477769
+    second: goblins_45
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -1142,6 +1154,90 @@ TextureImporter:
       bones: []
       spriteID: 2cf6233dc0486ee45b9fb9034a479f93
       internalID: -8376696175838732149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 219
+        width: 134
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189c3a22a18ac864b9e6b919eaca1c28
+      internalID: 4844389059813863263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 211
+        width: 134
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c7a79091bdcb48a587596d1ead0aa
+      internalID: 57350539607892454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_44
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 215
+        width: 134
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b9ca43e86f8254ab42a5491f50bc78
+      internalID: 3178157188475203582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblins_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 216
+        width: 134
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fafe20b0c71f0e47b5dc568639b0a0d
+      internalID: 4372619873763477769
       vertices: []
       indices: 
       edges: []

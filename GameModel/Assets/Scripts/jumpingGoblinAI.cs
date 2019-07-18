@@ -24,6 +24,7 @@ public class jumpingGoblinAI : MonoBehaviour
     bool playerUp = true;
     bool jump = false;
     bool move = true;
+    bool next = false;
 
     float oldMoveSpeed;
     float attackTimer;
@@ -51,22 +52,27 @@ public class jumpingGoblinAI : MonoBehaviour
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         playerUp = (player.transform.position.y >= gameObject.transform.position.y + 1.0f);
         animator.SetBool("Move", move);
-
+        
         if (playerUp && !jump)
         {
             if (move)
             {
                 if (player.transform.position.x >= gameObject.transform.position.x)// if player is to the left
                 {
+                    animator.SetTrigger("startJump");
                     rb.AddForce(new Vector2(moveSpeed, 8.0f), ForceMode2D.Impulse);
                     jump = true;
                     isGrounded = false;
+
                 }
                 else
                 {
+                    animator.SetTrigger("startJump");
+
                     rb.AddForce(new Vector2(-moveSpeed, 8.0f), ForceMode2D.Impulse);
                     jump = true;
                     isGrounded = false;
+
                 }
             }
             else
@@ -74,6 +80,8 @@ public class jumpingGoblinAI : MonoBehaviour
                 moveTimer += Time.deltaTime;
             }
         }
+
+        
 
         if (move)
         {
@@ -94,7 +102,7 @@ public class jumpingGoblinAI : MonoBehaviour
             }
             moveTimer -= Time.deltaTime;
 
-            if (!attack && playerAhead) //if player is ahead, attack
+            if (!attack && playerAhead && !jump) //if player is ahead, attack
             {
                 animator.SetTrigger("Attack");
                 oldMoveSpeed = moveSpeed; //save current moving direction
@@ -114,8 +122,21 @@ public class jumpingGoblinAI : MonoBehaviour
             if(isGrounded && jump)
             {
                 jump = false;
+                animator.SetBool("isJumping", false);
+                next = false;
+
+
             }
         }
+       
+
+        if (next)
+        {
+            animator.SetBool("isJumping", true);
+
+        }
+        
+
 
         if (attack)
         {
@@ -148,5 +169,13 @@ public class jumpingGoblinAI : MonoBehaviour
     public void Damage(int dmg) //detects attack from player (can add HP and stuff here later)
     {
         Destroy(gameObject);
+    }
+    public void AlertObservers(string message)
+    {
+        if (message.Equals("AttackAnimationEnded"))
+        {
+            next = true;
+            // Do other things based on an attack ending.
+        }
     }
 }

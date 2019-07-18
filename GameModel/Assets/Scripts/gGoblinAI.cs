@@ -23,6 +23,10 @@ public class gGoblinAI : MonoBehaviour
     bool attack = false;
     bool facingRight = true;
     bool move = true; //whether to move or not
+    bool jumping;
+    bool pause = false;
+
+
 
     float oldMoveSpeed;
     float attackTimer;
@@ -47,7 +51,43 @@ public class gGoblinAI : MonoBehaviour
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         animator.SetBool("Move", move);
 
-        if (!playerAhead)
+        if (moveTimer <= 0 && !pause) //if moving and move timer ran out
+        {
+            pause = true; // stop moving
+            jumping = true;
+        }
+ 
+        if (pause)
+        {
+            moveTimer += Time.deltaTime;
+            
+
+        }
+        if (jumping && isGrounded)
+        {
+            animator.SetTrigger("startjump");
+            GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 5), ForceMode2D.Impulse);
+
+
+        }
+        if (moveTimer >= 1f && pause) //if not moving and move cooldown reset
+        {
+            pause = false; //start moving
+            jumping = false;
+            moveTimer = 5f;
+        }
+        if (isGrounded)
+        {
+
+            animator.SetBool("isJumping", false);
+        }
+        else
+        {
+            animator.SetBool("isJumping", true);
+
+        }
+
+        if (!playerAhead && !pause)
         {
             if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
             {
@@ -56,12 +96,9 @@ public class gGoblinAI : MonoBehaviour
                     pos.x += moveSpeed * Time.deltaTime;
                     moveTimer -= Time.deltaTime;
                 }
-                else //if not able to move dont move, add to move cooldown
-                {
-                    moveTimer += Time.deltaTime;
-                }
+                
             }
-            else //else, turn around
+            else  //else, turn around
             {
                 moveSpeed *= -1;
                 facingRight = !facingRight;
@@ -70,7 +107,7 @@ public class gGoblinAI : MonoBehaviour
                 transform.localScale = charScale;
             }
         }
-        if (!attack && playerAhead) //if player is ahead, attack
+        if (!attack && playerAhead && !pause) //if player is ahead, attack
         {
             animator.SetTrigger("Attack");
             oldMoveSpeed = moveSpeed; //save current moving direction
@@ -80,7 +117,7 @@ public class gGoblinAI : MonoBehaviour
             attackTriggerFront.enabled = true;
         }
 
-        if (attack)
+        if (attack && !pause)
         {
             if (attackTimer < (attackCooldown - 0.3))
             {
@@ -96,15 +133,9 @@ public class gGoblinAI : MonoBehaviour
                 attack = false;
             }
         }
+        
 
-        if (moveTimer <= 0 && move) //if moving and move timer ran out
-        {
-            move = false; // stop moving
-        }
-        else if(moveTimer >= moveCooldown && !move) //if not moving and move cooldown reset
-        {
-            move = true; //start moving
-        }
+        
 
         transform.position = pos;
     }
