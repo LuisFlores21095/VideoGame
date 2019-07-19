@@ -25,6 +25,8 @@ public class jumpingGoblinAI : MonoBehaviour
     bool jump = false;
     bool move = true;
     bool next = false;
+    bool playerDown = false;
+    bool playerX = false;
 
     float oldMoveSpeed;
     float attackTimer;
@@ -51,6 +53,14 @@ public class jumpingGoblinAI : MonoBehaviour
         wallAhead = Physics2D.Linecast(pos, wallCheck.position, 1 << LayerMask.NameToLayer("Ground")); //sets true if detects wall ahead
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         playerUp = (player.transform.position.y >= gameObject.transform.position.y + 1.0f);
+        playerX = (player.transform.position.x -.5f <= gameObject.transform.position.x && player.transform.position.x + .5f >= gameObject.transform.position.y);
+        playerDown = (player.transform.position.y <= gameObject.transform.position.y + 1.0f);
+
+        if (playerDown && playerX) {
+            print("below");
+        }
+
+
         animator.SetBool("Move", move);
         
         if (playerUp && !jump)
@@ -89,16 +99,22 @@ public class jumpingGoblinAI : MonoBehaviour
             {
                 moveTimer -= Time.deltaTime;
                 pos.x += moveSpeed * Time.deltaTime;
-                Vector2 charScale = transform.localScale;
-                charScale.x = 1;
-                transform.localScale = charScale;
+                if (!playerX)
+                {
+                    Vector2 charScale = transform.localScale;
+                    charScale.x = 1;
+                    transform.localScale = charScale;
+                }
             }
             else
             {
                 pos.x += -moveSpeed * Time.deltaTime;
-                Vector2 charScale = transform.localScale;
-                charScale.x = -1;
-                transform.localScale = charScale;
+                if (!playerX)
+                {
+                    Vector2 charScale = transform.localScale;
+                    charScale.x = -1;
+                    transform.localScale = charScale;
+                }
             }
             moveTimer -= Time.deltaTime;
 
