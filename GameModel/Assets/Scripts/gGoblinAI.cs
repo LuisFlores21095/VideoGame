@@ -51,7 +51,7 @@ public class gGoblinAI : MonoBehaviour
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         animator.SetBool("Move", move);
 
-        if (moveTimer <= 0 && !pause) //if moving and move timer ran out
+        if (moveTimer <= 0 && !pause && !jumping) //if moving and move timer ran out
         {
             pause = true; // stop moving
             jumping = true;
@@ -63,6 +63,14 @@ public class gGoblinAI : MonoBehaviour
             
 
         }
+
+        if (moveTimer >= 1f && pause) //if not moving and move cooldown reset
+        {
+            pause = false; //start moving
+            jumping = false;
+            moveTimer = 5f;
+        }
+
         if (jumping && isGrounded)
         {
             animator.SetTrigger("startjump");
@@ -70,12 +78,8 @@ public class gGoblinAI : MonoBehaviour
 
 
         }
-        if (moveTimer >= 1f && pause) //if not moving and move cooldown reset
-        {
-            pause = false; //start moving
-            jumping = false;
-            moveTimer = 5f;
-        }
+      
+
         if (isGrounded)
         {
 
@@ -87,7 +91,8 @@ public class gGoblinAI : MonoBehaviour
 
         }
 
-        if (!playerAhead && !pause)
+
+        if (!playerAhead && !pause &&  !jumping)
         {
             if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
             {
@@ -133,9 +138,9 @@ public class gGoblinAI : MonoBehaviour
                 attack = false;
             }
         }
-        
 
         
+
 
         transform.position = pos;
     }

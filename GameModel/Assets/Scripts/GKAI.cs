@@ -19,9 +19,12 @@ public class GKAI : MonoBehaviour
     bool attack = false;
     bool facingRight = true;
     bool turning = false;
+    bool charging = false;
+    bool throwing = false;
 
     float oldMoveSpeed;
     float attackTimer;
+    int randomNext;
 
     Vector2 pos;
 
@@ -40,12 +43,14 @@ public class GKAI : MonoBehaviour
         wallAhead = Physics2D.Linecast(pos, wallCheck.position, 1 << LayerMask.NameToLayer("Ground")); //sets true if detects wall ahead
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         animator.SetBool("isAttacking",attack);
-        if (!playerAhead && !turning)
+
+
+        if (!playerAhead && !turning && !throwing)
         {
 
 
 
-            if (isGrounded && !wallAhead ) //if there is ground ahead, and no wall ahead, keep moving
+            if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
             {
                 pos.x += moveSpeed * Time.deltaTime;
             }
@@ -62,7 +67,7 @@ public class GKAI : MonoBehaviour
                 //transform.localScale = charScale;
             }
         }
-        if (!attack && playerAhead && !turning) //if player is ahead, attack
+        if (!attack && playerAhead && !turning && !charging && !throwing) //if player is ahead, attack
         {
 
             animator.SetInteger("attackNum", Random.Range(0, 3));
@@ -73,7 +78,7 @@ public class GKAI : MonoBehaviour
             attackTimer = attackCooldown;
         }
 
-        if (attack && !turning)
+        if (attack && !turning && !charging)
         {
             if (attackTimer < (attackCooldown - 0.3))
             {
@@ -100,6 +105,14 @@ public class GKAI : MonoBehaviour
 
     public void AlertObservers(string message)
     {
+        if (message.Equals("throwing"))
+        {
+            throwing = false;
+            animator.SetTrigger("isWalking");
+
+        }
+
+
         if (message.Equals("turning"))
         {
             animator.SetBool("TurnAround", false);
@@ -113,10 +126,29 @@ public class GKAI : MonoBehaviour
             charScale.x *= -1;
             transform.localScale = charScale;
             moveSpeed *= -1;
-            animator.SetTrigger("isCharging");
-          
+            randomNext = Random.Range(0, 4);
 
+            if (randomNext == 0)
+            {
+                animator.SetTrigger("isCharging");
+            }
+            else if (randomNext == 1)
+            {
+                animator.SetTrigger("isWalking");
 
-}
+            }
+            else if (randomNext == 2) {
+                animator.SetTrigger("isThrowing");
+                throwing = true;
+
+            } else if (randomNext ==3)
+            {
+                animator.SetTrigger("isRunning");
+
+            }
+
+            
+        }
+        
     }
     }
