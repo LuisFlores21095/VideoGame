@@ -83,7 +83,7 @@ public class playerControls : MonoBehaviour
             {
                 pos.x += moveSpeed * Time.deltaTime;
             }
-            if (Input.GetKey(KeyCode.W) && isGrounded) //jump only when grounded
+            if (Input.GetKeyDown(KeyCode.W) && isGrounded) //jump only when grounded
             {
                 rb.AddForce(jump, ForceMode2D.Impulse);
                 animator.SetTrigger("Jump");
