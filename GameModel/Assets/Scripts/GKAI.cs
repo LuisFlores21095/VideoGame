@@ -18,6 +18,7 @@ public class GKAI : MonoBehaviour
     bool playerAhead = false;
     bool attack = false;
     bool facingRight = true;
+    bool turning = false;
 
     float oldMoveSpeed;
     float attackTimer;
@@ -39,23 +40,29 @@ public class GKAI : MonoBehaviour
         wallAhead = Physics2D.Linecast(pos, wallCheck.position, 1 << LayerMask.NameToLayer("Ground")); //sets true if detects wall ahead
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         animator.SetBool("isAttacking",attack);
-        if (!playerAhead)
+        if (!playerAhead && !turning)
         {
 
-            if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
+
+
+            if (isGrounded && !wallAhead ) //if there is ground ahead, and no wall ahead, keep moving
             {
                 pos.x += moveSpeed * Time.deltaTime;
             }
             else //else, turn around
             {
-                moveSpeed *= -1;
-                facingRight = !facingRight;
-                Vector2 charScale = transform.localScale;
-                charScale.x *= -1;
-                transform.localScale = charScale;
+                animator.SetBool("TurnAround", true);
+                turning = true;
+                oldMoveSpeed = moveSpeed; //save current moving direction
+                moveSpeed = 0;
+                // moveSpeed *= -1;
+                //facingRight = !facingRight;
+               // Vector2 charScale = transform.localScale;
+                //charScale.x *= -1;
+                //transform.localScale = charScale;
             }
         }
-        if (!attack && playerAhead) //if player is ahead, attack
+        if (!attack && playerAhead && !turning) //if player is ahead, attack
         {
 
             animator.SetInteger("attackNum", Random.Range(0, 3));
@@ -66,7 +73,7 @@ public class GKAI : MonoBehaviour
             attackTimer = attackCooldown;
         }
 
-        if (attack)
+        if (attack && !turning)
         {
             if (attackTimer < (attackCooldown - 0.3))
             {
@@ -90,4 +97,26 @@ public class GKAI : MonoBehaviour
     {
         Destroy(gameObject);
     }
+
+    public void AlertObservers(string message)
+    {
+        if (message.Equals("turning"))
+        {
+            animator.SetBool("TurnAround", false);
+
+            moveSpeed = oldMoveSpeed;
+            turning = false;
+            // Do other things based on an attack ending.
+            
+            facingRight = !facingRight;
+            Vector2 charScale = transform.localScale;
+            charScale.x *= -1;
+            transform.localScale = charScale;
+            moveSpeed *= -1;
+            animator.SetTrigger("isCharging");
+          
+
+
 }
+    }
+    }

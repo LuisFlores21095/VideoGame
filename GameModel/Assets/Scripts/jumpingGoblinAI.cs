@@ -53,7 +53,7 @@ public class jumpingGoblinAI : MonoBehaviour
         wallAhead = Physics2D.Linecast(pos, wallCheck.position, 1 << LayerMask.NameToLayer("Ground")); //sets true if detects wall ahead
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         playerUp = (player.transform.position.y >= gameObject.transform.position.y + 1.0f);
-        playerX = (player.transform.position.x - .3f <= gameObject.transform.position.x  && player.transform.position.x + .3f >= gameObject.transform.position.x );
+        playerX = (player.transform.position.x - .1f <= gameObject.transform.position.x  && player.transform.position.x + .1f >= gameObject.transform.position.x );
         playerDown = (player.transform.position.y <= gameObject.transform.position.y + 1.0f);
 
         if (playerDown && playerX) {
