@@ -80,17 +80,7 @@ public class gGoblinAI : MonoBehaviour
         }
       
 
-        if (isGrounded)
-        {
-
-            animator.SetBool("isJumping", false);
-        }
-        else
-        {
-            animator.SetBool("isJumping", true);
-
-        }
-
+    
 
         if (!playerAhead && !pause &&  !jumping)
         {
@@ -137,9 +127,21 @@ public class gGoblinAI : MonoBehaviour
                 moveSpeed = oldMoveSpeed; //once attack has finished, start moving again
                 attack = false;
             }
+
+
+        }
+        if (isGrounded && !jumping)
+        {
+
+            animator.SetBool("isJumping", false);
+        }
+        else
+        {
+            animator.SetBool("isJumping", true);
+
         }
 
-        
+
 
 
         transform.position = pos;
