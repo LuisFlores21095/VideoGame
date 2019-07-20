@@ -55,6 +55,8 @@ public class gGoblinAI : MonoBehaviour
         {
             pause = true; // stop moving
             jumping = true;
+            animator.SetTrigger("startjump");
+            GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 5), ForceMode2D.Impulse);
         }
  
         if (pause)
@@ -71,14 +73,7 @@ public class gGoblinAI : MonoBehaviour
             moveTimer = 5f;
         }
 
-        if (jumping && isGrounded)
-        {
-            animator.SetTrigger("startjump");
-            GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 5), ForceMode2D.Impulse);
-
-
-        }
-      
+       
 
     
 

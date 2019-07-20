@@ -168,18 +168,18 @@ public class GKAI : MonoBehaviour
             charScale.x *= -1;
             transform.localScale = charScale;
             moveSpeed *= -1;
-            randomNext = 3;
+            randomNext = Random.Range(0, 4);
 
             if (randomNext == 0)
             {
                 animator.SetTrigger("isCharging");
                 if (moveSpeed >= 0)
                 {
-                    moveSpeed = 4f;
+                    moveSpeed = 6f;
                 }
                 else
                 {
-                    moveSpeed = -4f;
+                    moveSpeed = -6f;
                 }
 
                 charging = true;
@@ -210,11 +210,11 @@ public class GKAI : MonoBehaviour
 
                 if (moveSpeed >= 0)
                 {
-                    moveSpeed = 4f;
+                    moveSpeed = 6f;
                 }
                 else
                 {
-                    moveSpeed = -4f;
+                    moveSpeed = -6f;
                 }
 
 

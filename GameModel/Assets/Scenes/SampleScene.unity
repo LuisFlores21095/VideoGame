@@ -685,6 +685,7 @@ MonoBehaviour:
   animator: {fileID: 214416390}
   attackAnimator: {fileID: 417775294}
   attackTriggerFront: {fileID: 417775290}
+  facingRight: 1
 --- !u!1 &236089896
 GameObject:
   m_ObjectHideFlags: 0
@@ -810,7 +811,7 @@ GameObject:
   - component: {fileID: 417775293}
   m_Layer: 0
   m_Name: attackTriggerFront
-  m_TagString: Untagged
+  m_TagString: playerattack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3100,7 +3101,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1715558677}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.137, y: -0.255, z: 0}
+  m_LocalPosition: {x: -0.76, y: -0.28, z: 0}
   m_LocalScale: {x: 0.53596455, y: 0.50393605, z: 1}
   m_Children: []
   m_Father: {fileID: 1113037108}

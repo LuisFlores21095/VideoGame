@@ -22,7 +22,7 @@ public class playerControls : MonoBehaviour
 
     bool isGrounded = false;
     bool attack = false;
-    bool facingRight = true;
+   public bool facingRight = true;
     bool hurt = false;
 
     float hurtTimer;
