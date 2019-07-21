@@ -131,11 +131,11 @@ public class GKAI : MonoBehaviour
         Destroy(gameObject);
     }
    
-        public void AlertObservers(string message)
+    public void AlertObservers(string message)
     {
         
-            if (message.Equals("attack"))
-            {
+        if (message.Equals("attack"))
+        {
             attack = false;
             attackTriggerFront.enabled = false;
             moveSpeed = oldMoveSpeed; //once attack has finished, start moving again
@@ -152,7 +152,7 @@ public class GKAI : MonoBehaviour
 
             
 
-            if (message.Equals("throwing"))
+        if (message.Equals("throwing"))
         {
             throwing = false;
             animator.SetTrigger("isWalking");

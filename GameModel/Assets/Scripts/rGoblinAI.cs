@@ -83,6 +83,14 @@ public class rGoblinAI : MonoBehaviour
         transform.position = pos;
     }
 
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.tag == "Enemy")
+        {
+            Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
+        }
+    }
+
     public void Damage(int dmg) //detects attack from player (can add HP and stuff here later)
     {
         Destroy(gameObject);

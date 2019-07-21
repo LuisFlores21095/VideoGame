@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 //The Green goblin moves back and forth like the blue goblin
-//The only difference is that it stops and moves on a timer
-//The attack cooldown is also double
+//The only difference is that it stops and jumps on a timer
 //Overall the green goblin is weaker
 public class gGoblinAI : MonoBehaviour
 {
@@ -142,7 +141,7 @@ public class gGoblinAI : MonoBehaviour
         transform.position = pos;
     }
 
-    void OnCollisionEnter2D(Collision col)
+    void OnCollisionEnter2D(Collision2D col)
     {
         if(col.gameObject.tag == "Enemy")
         {
