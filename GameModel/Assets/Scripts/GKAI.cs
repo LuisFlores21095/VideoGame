@@ -6,6 +6,7 @@ public class GKAI : MonoBehaviour
 {
     public float attackCooldown = 1.0f;
     public float moveSpeed = -1.0f;
+    public int cEnum = 0;
 
     public Transform edgeCheck;
     public Transform wallCheck;
@@ -21,7 +22,7 @@ public class GKAI : MonoBehaviour
     bool turning = false;
     bool charging = false;
     bool throwing = false;
-
+    bool cE = false;
     float oldMoveSpeed;
     float attackTimer;
     int randomNext;
@@ -44,8 +45,23 @@ public class GKAI : MonoBehaviour
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         animator.SetBool("isAttacking", attack);
 
-       
-       
+
+        if (charging) {
+
+            if ( cEnum ==6)
+            {
+
+                attackTriggerFront.enabled = true;
+                cEnum = 0;
+            }
+            else {
+                attackTriggerFront.enabled = false;
+
+                
+                cEnum += 1;
+            }
+
+        }
 
         if (!playerAhead && !turning && !throwing && !attack)
         {
@@ -56,7 +72,7 @@ public class GKAI : MonoBehaviour
             {
                 pos.x += moveSpeed * Time.deltaTime;
             }
-            else //else, turn around
+            else  //else, turn around
             {
                 animator.SetBool("TurnAround", true);
                 turning = true;
@@ -159,6 +175,8 @@ public class GKAI : MonoBehaviour
             animator.SetBool("TurnAround", false);
 
             moveSpeed = oldMoveSpeed;
+            attackTriggerFront.enabled = false;
+
             charging = false;
             turning = false;
             // Do other things based on an attack ending.
@@ -168,10 +186,13 @@ public class GKAI : MonoBehaviour
             charScale.x *= -1;
             transform.localScale = charScale;
             moveSpeed *= -1;
-            randomNext = Random.Range(0, 4);
+            randomNext = 0;
 
             if (randomNext == 0)
             {
+                charging = true;
+                attackTriggerFront.enabled = true;
+
                 animator.SetTrigger("isCharging");
                 if (moveSpeed >= 0)
                 {

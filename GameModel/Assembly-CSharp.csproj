@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\gGoblinAI.cs" />
     <Compile Include="Assets\Scripts\GKAI.cs" />
     <Compile Include="Assets\Scripts\jumpingGoblinAI.cs" />
+    <Compile Include="Assets\Scripts\platformTran.cs" />
     <Compile Include="Assets\Scripts\playerControls.cs" />
     <Compile Include="Assets\Scripts\rGoblinAI.cs" />
     <Reference Include="Unity.Timeline.Editor">
