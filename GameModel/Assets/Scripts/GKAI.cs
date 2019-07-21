@@ -186,7 +186,7 @@ public class GKAI : MonoBehaviour
             charScale.x *= -1;
             transform.localScale = charScale;
             moveSpeed *= -1;
-            randomNext = 0;
+            randomNext = Random.Range(0, 4);
 
             if (randomNext == 0)
             {
