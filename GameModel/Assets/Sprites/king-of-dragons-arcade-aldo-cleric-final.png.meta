@@ -334,8 +334,8 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_4
       rect:
         serializedVersion: 2
-        x: 15
-        y: 789
+        x: 429
+        y: 786
         width: 52
         height: 74
       alignment: 0
@@ -355,8 +355,8 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_5
       rect:
         serializedVersion: 2
-        x: 70
-        y: 787
+        x: 378
+        y: 784
         width: 49
         height: 75
       alignment: 0
@@ -376,8 +376,8 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_6
       rect:
         serializedVersion: 2
-        x: 130
-        y: 786
+        x: 317
+        y: 783
         width: 49
         height: 76
       alignment: 0
@@ -397,10 +397,10 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_7
       rect:
         serializedVersion: 2
-        x: 186
-        y: 790
+        x: 202
+        y: 787
         width: 49
-        height: 74
+        height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_8
       rect:
         serializedVersion: 2
-        x: 245
+        x: 141
         y: 790
         width: 49
-        height: 75
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,8 +439,8 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_9
       rect:
         serializedVersion: 2
-        x: 306
-        y: 793
+        x: 261
+        y: 787
         width: 49
         height: 76
       alignment: 0
@@ -460,8 +460,8 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_10
       rect:
         serializedVersion: 2
-        x: 373
-        y: 792
+        x: 74
+        y: 789
         width: 49
         height: 76
       alignment: 0
@@ -481,8 +481,8 @@ TextureImporter:
       name: king-of-dragons-arcade-aldo-cleric-final_11
       rect:
         serializedVersion: 2
-        x: 438
-        y: 791
+        x: 9
+        y: 789
         width: 49
         height: 75
       alignment: 0
