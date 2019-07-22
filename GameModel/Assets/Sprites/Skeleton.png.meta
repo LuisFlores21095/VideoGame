@@ -119,6 +119,9 @@ TextureImporter:
   - first:
       213: 1488641315820745408
     second: Skeleton_38
+  - first:
+      213: -5286596291751946912
+    second: Skeleton_39
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -1026,6 +1029,27 @@ TextureImporter:
       bones: []
       spriteID: 064dcae5a4cbe8d4cbe31d5271496d12
       internalID: 1488641315820745408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_39
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 47
+        width: 162
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65906f68622bf04cb28dee593e9ad97
+      internalID: -5286596291751946912
       vertices: []
       indices: 
       edges: []
