@@ -68,6 +68,8 @@
     <Compile Include="Assets\Scripts\FatMon.cs" />
     <Compile Include="Assets\Scripts\gGoblinAI.cs" />
     <Compile Include="Assets\Scripts\GKAI.cs" />
+    <Compile Include="Assets\Scripts\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\HealthSystem.cs" />
     <Compile Include="Assets\Scripts\jumpingGoblinAI.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\platformTran.cs" />
