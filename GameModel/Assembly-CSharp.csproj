@@ -72,8 +72,10 @@
     <Compile Include="Assets\Scripts\GoldKnight.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\HealthSystem.cs" />
+    <Compile Include="Assets\Scripts\HugeKnight.cs" />
     <Compile Include="Assets\Scripts\jumpingGoblinAI.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\Min.cs" />
     <Compile Include="Assets\Scripts\platformTran.cs" />
     <Compile Include="Assets\Scripts\playerControls.cs" />
     <Compile Include="Assets\Scripts\rGoblinAI.cs" />
