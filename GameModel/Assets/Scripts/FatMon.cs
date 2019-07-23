@@ -7,12 +7,15 @@ public class FatMon : MonoBehaviour
     public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
     int random;
+    public Transform player;
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
     public Animator animator;
+    public int cEnum = 0;
 
+    bool hurt = false;
     bool isGrounded = true;
     bool wallAhead = false;
     bool playerAhead = false;
@@ -39,64 +42,86 @@ public class FatMon : MonoBehaviour
         wallAhead = Physics2D.Linecast(pos, wallCheck.position, 1 << LayerMask.NameToLayer("Ground")); //sets true if detects wall ahead
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
 
-        if (!playerAhead)
+        if (!hurt)
         {
-            if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
+            if (charging)
             {
-                pos.x += moveSpeed * Time.deltaTime;
-            }
-            else //else, turn around
-            {
-                attackTriggerFront.enabled = false;
-                charging = false;
-                random = Random.Range(0, 2);
 
-                if (random == 0)
+                if (cEnum == 6)
                 {
-                    animator.SetTrigger("isWalking");
-                    if (moveSpeed < 0)
-                    {
-                        moveSpeed = 1f;
-                    }
-                    else {
-                        moveSpeed = -1f;
 
-                    }
-                }
-
-               if (random == 1)
-                {
-                    animator.SetTrigger("isCharging");
-                    charging = true;
                     attackTriggerFront.enabled = true;
-
-                    if (moveSpeed < 0)
-                    {
-                        moveSpeed = 3f;
-                    }
-                    else
-                    {
-                        moveSpeed = -3f;
-
-                    }
+                    cEnum = 0;
                 }
-                facingRight = !facingRight;
-                Vector2 charScale = transform.localScale;
-                charScale.x *= -1;
-                transform.localScale = charScale;
+                else
+                {
+                    attackTriggerFront.enabled = false;
+
+
+                    cEnum += 1;
+                }
+
+            }
+
+            if (!playerAhead)
+            {
+                if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
+                {
+                    pos.x += moveSpeed * Time.deltaTime;
+                }
+                else //else, turn around
+                {
+                    attackTriggerFront.enabled = false;
+                    charging = false;
+                    random = Random.Range(0, 2);
+
+                    if (random == 0)
+                    {
+                        animator.SetTrigger("isWalking");
+                        if (moveSpeed < 0)
+                        {
+                            moveSpeed = 1f;
+                        }
+                        else
+                        {
+                            moveSpeed = -1f;
+
+                        }
+                    }
+
+                    if (random == 1)
+                    {
+                        animator.SetTrigger("isCharging");
+                        charging = true;
+                        attackTriggerFront.enabled = true;
+
+                        if (moveSpeed < 0)
+                        {
+                            moveSpeed = 3f;
+                        }
+                        else
+                        {
+                            moveSpeed = -3f;
+
+                        }
+                    }
+                    facingRight = !facingRight;
+                    Vector2 charScale = transform.localScale;
+                    charScale.x *= -1;
+                    transform.localScale = charScale;
+                }
+            }
+            if (!attack && playerAhead && !charging) //if player is ahead, attack
+            {
+                animator.SetTrigger("isAttacking");
+                attack = true;
+
+
+
+                oldMoveSpeed = moveSpeed; //save current moving direction
+                moveSpeed = 0; //stop moving to start attack
             }
         }
-        if (!attack && playerAhead && !charging) //if player is ahead, attack
-        {
-            animator.SetTrigger("isAttacking");
-            attack = true;
-
-           
-
-            oldMoveSpeed = moveSpeed; //save current moving direction
-            moveSpeed = 0; //stop moving to start attack
-        }
-
 
         transform.position = pos;
     }
@@ -111,11 +136,51 @@ public class FatMon : MonoBehaviour
 
     public void Damage(int dmg) //detects attack from player (can add HP and stuff here later)
     {
-        Destroy(gameObject);
+        if (!hurt && !attack && !charging)
+        {
+            animator.SetTrigger("hurt");
+
+            hurt = true;
+            if (player.transform.position.x >= gameObject.transform.position.x)
+            {
+
+                if (!facingRight)
+                {
+                    moveSpeed *= -1;
+                    facingRight = !facingRight;
+                    Vector2 charScale = transform.localScale;
+                    charScale.x *= -1;
+                    transform.localScale = charScale;
+                }
+
+            }
+            else
+            {
+
+                if (facingRight)
+                {
+
+                    moveSpeed *= -1;
+                    facingRight = !facingRight;
+                    Vector2 charScale = transform.localScale;
+                    charScale.x *= -1;
+                    transform.localScale = charScale;
+                }
+
+
+            }
+        }
     }
 
     public void AlertObservers(string message)
     {
+
+        if (message.Equals("hurtEnd"))
+        {
+
+            hurt = false;
+        }
+
         if (message.Equals("attack"))
         {
 

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/castle.unity
+- path: Assets/Scenes/Spooky.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
