@@ -13,7 +13,6 @@ public class gGoblinAI : MonoBehaviour
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
-    public Transform player;
     public Collider2D attackTriggerFront;
     public Animator animator;
 
@@ -34,6 +33,7 @@ public class gGoblinAI : MonoBehaviour
     float moveTimer;
 
     Vector2 pos;
+    GameObject player;
 
     // Start is called before the first frame update
     void Start()
@@ -41,6 +41,7 @@ public class gGoblinAI : MonoBehaviour
         attackTimer = 0;
         moveTimer = moveCooldown;
         attackTriggerFront.enabled = false;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame

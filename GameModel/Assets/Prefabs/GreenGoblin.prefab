@@ -385,7 +385,6 @@ MonoBehaviour:
   edgeCheck: {fileID: 7171891620529403298}
   wallCheck: {fileID: 7171891621209054179}
   playerCheck: {fileID: 7171891619658648558}
-  player: {fileID: 0}
   attackTriggerFront: {fileID: 7171891620300048639}
   animator: {fileID: 7171891621629908374}
 --- !u!70 &7171891621629908370
@@ -424,4 +423,4 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 5
+  m_Constraints: 4

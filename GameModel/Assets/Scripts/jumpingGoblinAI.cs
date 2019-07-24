@@ -13,7 +13,6 @@ public class jumpingGoblinAI : MonoBehaviour
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
-    public Transform player;
     public Collider2D attackTriggerFront;
     public Animator animator;
 
@@ -34,6 +33,7 @@ public class jumpingGoblinAI : MonoBehaviour
 
     Vector2 pos;
     Rigidbody2D rb;
+    GameObject player;
 
     // Start is called before the first frame update
     void Start()
@@ -43,6 +43,7 @@ public class jumpingGoblinAI : MonoBehaviour
         moveTimer = moveCooldown;
 
         rb = GetComponent<Rigidbody2D>();
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
