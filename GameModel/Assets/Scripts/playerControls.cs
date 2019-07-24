@@ -6,6 +6,7 @@ using UnityEngine;
 //i can clean up the code and make it easily customizable.
 public class playerControls : MonoBehaviour
 {
+    public Transform prefabHealthBar;
     Rigidbody2D rb;
     Vector2 jump;
     Collider2D coll;
@@ -40,6 +41,17 @@ public class playerControls : MonoBehaviour
 
         hurtTimer = 1.0f;
         attackTimer = 0.5f;
+
+        // Instantiating health bar 
+        HealthSystem healthSystem = new HealthSystem(100);
+        Transform healthBarTransform = Instantiate(prefabHealthBar, new Vector2(0,10), Quaternion.identity);
+        HealthBar healthBar = healthBarTransform.GetComponent<HealthBar>();
+        healthBar.Setup(healthSystem);
+        // Test 
+        Debug.Log("Health: " + healthSystem.GetHealthPercent());
+        healthSystem.Damage(10);
+        Debug.Log("Health: " + healthSystem.GetHealthPercent());
+
     }
 
     // Update is called once per frame
