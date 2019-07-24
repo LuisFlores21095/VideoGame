@@ -153,13 +153,16 @@ public class GKAI : MonoBehaviour
 
         }
 
-            
+        if (message.Equals("startThrowing"))
+        {
+            ThrowRock(1);
+
+        }
 
         if (message.Equals("throwing"))
         {
             throwing = false;
             animator.SetTrigger("isWalking");
-            ThrowRock(1);
             if (moveSpeed >= 0)
             {
                 moveSpeed = 1f;

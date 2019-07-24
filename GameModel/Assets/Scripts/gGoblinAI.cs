@@ -106,6 +106,7 @@ public class gGoblinAI : MonoBehaviour
             {
                 attack = true;
 
+                animator.SetTrigger("Attack");
 
                 oldMoveSpeed = moveSpeed; //save current moving direction
                 moveSpeed = 0; //stop moving to start attack
