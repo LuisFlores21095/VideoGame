@@ -29,6 +29,9 @@ public class GKAI : MonoBehaviour
 
     Vector2 pos;
 
+    [SerializeField]
+    GameObject rockPrefab;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -156,6 +159,7 @@ public class GKAI : MonoBehaviour
         {
             throwing = false;
             animator.SetTrigger("isWalking");
+            ThrowRock(1);
             if (moveSpeed >= 0)
             {
                 moveSpeed = 1f;
@@ -240,6 +244,19 @@ public class GKAI : MonoBehaviour
 
 
             }
+        }
+    }
+
+    public void ThrowRock(int val)
+    {
+        GameObject tmp = (GameObject)Instantiate(rockPrefab, transform.position, transform.rotation);
+        if (facingRight)
+        {
+            tmp.GetComponent<thrownRock>().Initialize(Vector2.left);
+        }
+        else
+        {
+            tmp.GetComponent<thrownRock>().Initialize(Vector2.right);
         }
     }
 }
