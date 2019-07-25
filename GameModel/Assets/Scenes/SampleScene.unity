@@ -1535,6 +1535,7 @@ MonoBehaviour:
   moveSpeed: -1
   cEnum: 0
   edgeCheck: {fileID: 573424454}
+  player: {fileID: 214416392}
   wallCheck: {fileID: 1715558678}
   playerCheck: {fileID: 1543749518}
   attackTriggerFront: {fileID: 1402372021}
