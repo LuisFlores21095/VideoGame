@@ -329,8 +329,8 @@ GameObject:
   m_Component:
   - component: {fileID: 203468122}
   - component: {fileID: 203468121}
-  - component: {fileID: 203468124}
   - component: {fileID: 203468120}
+  - component: {fileID: 203468124}
   - component: {fileID: 203468123}
   m_Layer: 10
   m_Name: wizard1_0
@@ -439,11 +439,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCooldown: 1
   moveSpeed: 1
+  health: 2
   edgeCheck: {fileID: 710879848}
   wallCheck: {fileID: 1854890434}
   playerCheck: {fileID: 1283606011}
   player: {fileID: 1903663479}
   attackTriggerFront: {fileID: 1726818387}
+  charCollider: {fileID: 203468124}
   animator: {fileID: 203468120}
 --- !u!70 &203468124
 CapsuleCollider2D:
@@ -1076,11 +1078,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCooldown: 1
   moveSpeed: 1
+  health: 2
   edgeCheck: {fileID: 121035405}
   wallCheck: {fileID: 94237848}
   playerCheck: {fileID: 839234040}
   player: {fileID: 1903663479}
   attackTriggerFront: {fileID: 33720888}
+  charCollider: {fileID: 707080078}
   animator: {fileID: 707080074}
 --- !u!70 &707080078
 CapsuleCollider2D:
@@ -1427,8 +1431,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1183963104}
   - component: {fileID: 1183963103}
-  - component: {fileID: 1183963101}
   - component: {fileID: 1183963102}
+  - component: {fileID: 1183963101}
   - component: {fileID: 1183963105}
   m_Layer: 10
   m_Name: KingKnight
@@ -1553,11 +1557,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCooldown: 1
   moveSpeed: -1
+  health: 2
   edgeCheck: {fileID: 1399575860}
   wallCheck: {fileID: 591646000}
   playerCheck: {fileID: 813641957}
   player: {fileID: 1903663479}
   attackTriggerFront: {fileID: 1447746626}
+  charCollider: {fileID: 1183963101}
   animator: {fileID: 1183963102}
 --- !u!1 &1283606010
 GameObject:
@@ -1709,11 +1715,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCooldown: 1
   moveSpeed: 1
+  health: 2
   edgeCheck: {fileID: 1972244324}
   wallCheck: {fileID: 1552293701}
   playerCheck: {fileID: 1807044857}
   player: {fileID: 1903663479}
   attackTriggerFront: {fileID: 366979810}
+  charCollider: {fileID: 1324954721}
   animator: {fileID: 1324954717}
 --- !u!70 &1324954721
 CapsuleCollider2D:
@@ -1983,7 +1991,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6.7951517
+  orthographic size: 7.2006636
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -2007,7 +2015,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1539921123}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.05, y: 0.13, z: -10}
+  m_LocalPosition: {x: 1.05, y: -0.19, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2657,11 +2665,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCooldown: 1
   moveSpeed: 1
+  health: 2
   player: {fileID: 1903663479}
   edgeCheck: {fileID: 846875578}
   wallCheck: {fileID: 890544329}
   playerCheck: {fileID: 1332710233}
   attackTriggerFront: {fileID: 262413617}
+  charCollider: {fileID: 2005870716}
   animator: {fileID: 2005870712}
   cEnum: 0
 --- !u!70 &2005870716

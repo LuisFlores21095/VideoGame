@@ -6,12 +6,16 @@ public class GoldKnight : MonoBehaviour
 {
     public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
+    public int health; 
+
 
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
     public Transform player;
     public Collider2D attackTriggerFront;
+    public Collider2D charCollider;
+
     public Animator animator;
     bool hurt = false;
     bool isGrounded = true;
@@ -82,9 +86,16 @@ public class GoldKnight : MonoBehaviour
     {
         if (!hurt && !attack)
         {
-            animator.SetTrigger("hurt");
-
             hurt = true;
+            health -= dmg;
+            if (health <= 0) {
+                animator.SetTrigger("dead");
+                charCollider.enabled = false;
+            }
+            else {
+                animator.SetTrigger("hurt");
+            }
+            
             if (player.transform.position.x >= gameObject.transform.position.x)
             {
 
@@ -118,7 +129,11 @@ public class GoldKnight : MonoBehaviour
 
     public void AlertObservers(string message)
     {
-        if (message.Equals("hurtEnd")) {
+        if (message.Equals("deadEnd"))
+        {
+            Destroy(gameObject);
+        }
+            if (message.Equals("hurtEnd")) {
             hurt = false;
         }
 

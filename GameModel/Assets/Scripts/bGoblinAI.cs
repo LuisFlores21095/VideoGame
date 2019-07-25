@@ -12,6 +12,10 @@ public class bGoblinAI : MonoBehaviour
     public Transform wallCheck;
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
+    public Collider2D charCollider;
+    public Rigidbody2D rb;
+
+
     public Animator animator;
     bool hurt = false;
     bool isGrounded = true;
@@ -85,7 +89,8 @@ public class bGoblinAI : MonoBehaviour
         if (!hurt && !attack)
         {
             animator.SetTrigger("hurt");
-
+            charCollider.enabled = false;
+            rb.isKinematic = true;
             hurt = true;
             if (player.transform.position.x >= gameObject.transform.position.x)
             {

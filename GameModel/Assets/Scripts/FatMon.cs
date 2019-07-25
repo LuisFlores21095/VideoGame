@@ -6,12 +6,15 @@ public class FatMon : MonoBehaviour
 {
     public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
+    public float health; 
     int random;
     public Transform player;
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
+    public Collider2D charCollider;
+
     public Animator animator;
     public int cEnum = 0;
 
@@ -138,9 +141,19 @@ public class FatMon : MonoBehaviour
     {
         if (!hurt && !attack && !charging)
         {
-            animator.SetTrigger("hurt");
 
             hurt = true;
+            health -= dmg;
+            if (health <= 0)
+            {
+                animator.SetTrigger("dead");
+                charCollider.enabled = false;
+            }
+            else
+            {
+                animator.SetTrigger("hurt");
+            }
+
             if (player.transform.position.x >= gameObject.transform.position.x)
             {
 
@@ -174,8 +187,11 @@ public class FatMon : MonoBehaviour
 
     public void AlertObservers(string message)
     {
+        if (message.Equals("deadEnd")) {
+            Destroy(gameObject);
+        }
 
-        if (message.Equals("hurtEnd"))
+            if (message.Equals("hurtEnd"))
         {
 
             hurt = false;

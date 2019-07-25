@@ -6,12 +6,14 @@ public class Skeleton : MonoBehaviour
 {
     public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
-
+    public int health;
     public Transform player;
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
+    public Collider2D charCollider;
+
     public Animator animator;
 
     bool hurt = false;
@@ -83,9 +85,18 @@ public class Skeleton : MonoBehaviour
     {
         if (!hurt && !attack)
         {
-            animator.SetTrigger("hurt");
-
             hurt = true;
+            health -= dmg;
+            if (health <= 0)
+            {
+                animator.SetTrigger("dead");
+                charCollider.enabled = false;
+            }
+            else
+            {
+                animator.SetTrigger("hurt");
+            }
+
             if (player.transform.position.x >= gameObject.transform.position.x)
             {
 
@@ -119,31 +130,36 @@ public class Skeleton : MonoBehaviour
 
     public void AlertObservers(string message)
     {
-
-        if (message.Equals("hurtEnd"))
+        if (message.Equals("deadEnd"))
         {
-            hurt = false;
+            Destroy(gameObject);
         }
-        if (message.Equals("attack"))
         {
+            if (message.Equals("hurtEnd"))
+            {
+                hurt = false;
+            }
+            if (message.Equals("attack"))
+            {
 
-            attackTriggerFront.enabled = true;
+                attackTriggerFront.enabled = true;
+
+            }
+
+            if (message.Equals("attackEnd"))
+            {
+                attackTriggerFront.enabled = false;
+                attack = false;
+
+
+                moveSpeed = oldMoveSpeed; //once attack has finished, start moving again
+
+            }
+            if (message.Equals("spawnEnd"))
+            {
+                spawnFinish = true;
+            }
 
         }
-
-        if (message.Equals("attackEnd"))
-        {
-            attackTriggerFront.enabled = false;
-            attack = false;
-
-
-            moveSpeed = oldMoveSpeed; //once attack has finished, start moving again
-
-        }
-        if (message.Equals("spawnEnd"))
-        {
-            spawnFinish = true;
-        }
-
     }
 }

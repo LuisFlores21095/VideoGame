@@ -14,6 +14,10 @@ public class GKAI : MonoBehaviour
     public Transform wallCheck;
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
+    public Collider2D charCollider;
+    public Rigidbody2D rb;
+
+
     public Animator animator;
 
     bool hurt = false;
@@ -146,6 +150,8 @@ public class GKAI : MonoBehaviour
             if (Health <= 0)
             {
                 animator.SetTrigger("dead");
+                charCollider.enabled = false;
+                rb.isKinematic = true;
 
             }
             else

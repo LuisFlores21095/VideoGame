@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 422629293039483028}
   - component: {fileID: 422629293039483029}
   - component: {fileID: 422629293039482986}
-  - component: {fileID: 3048567039048455894}
+  - component: {fileID: 5288267186354963884}
   m_Layer: 10
   m_Name: BlueGoblin
   m_TagString: Enemy
@@ -155,6 +155,8 @@ MonoBehaviour:
   wallCheck: {fileID: 422629293176333931}
   playerCheck: {fileID: 422629292365477526}
   attackTriggerFront: {fileID: 422629293478900323}
+  charCollider: {fileID: 422629293039482986}
+  rb: {fileID: 5288267186354963884}
   animator: {fileID: 422629293039483028}
 --- !u!70 &422629293039482986
 CapsuleCollider2D:
@@ -172,7 +174,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 1, y: 1}
   m_Direction: 0
---- !u!50 &3048567039048455894
+--- !u!50 &5288267186354963884
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -192,7 +194,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 5
 --- !u!1 &422629293176333928
 GameObject:
   m_ObjectHideFlags: 0

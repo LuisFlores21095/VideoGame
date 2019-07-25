@@ -612,11 +612,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCooldown: 1
   moveSpeed: 1
+  health: 3
   player: {fileID: 778803362}
   edgeCheck: {fileID: 692450884}
   wallCheck: {fileID: 1806083182}
   playerCheck: {fileID: 1192098823}
   attackTriggerFront: {fileID: 1644192870}
+  charCollider: {fileID: 283354358}
   animator: {fileID: 283354354}
 --- !u!70 &283354358
 CapsuleCollider2D:
@@ -924,11 +926,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCooldown: 1
   moveSpeed: 1
+  health: 2
   edgeCheck: {fileID: 1434204515}
   wallCheck: {fileID: 1074128103}
   playerCheck: {fileID: 785430042}
   player: {fileID: 778803362}
   attackTriggerFront: {fileID: 1756279976}
+  charCollider: {fileID: 477948667}
   animator: {fileID: 477948663}
 --- !u!70 &477948667
 CapsuleCollider2D:
@@ -1673,8 +1677,8 @@ GameObject:
   - component: {fileID: 811411195}
   - component: {fileID: 811411194}
   - component: {fileID: 811411197}
-  - component: {fileID: 811411193}
   - component: {fileID: 811411196}
+  - component: {fileID: 811411193}
   m_Layer: 10
   m_Name: zombie_magic2_1
   m_TagString: Enemy
@@ -1787,6 +1791,7 @@ MonoBehaviour:
   playerCheck: {fileID: 1483243918}
   player: {fileID: 778803362}
   attackTriggerFront: {fileID: 671756332}
+  charCollider: {fileID: 811411197}
   animator: {fileID: 811411193}
 --- !u!70 &811411197
 CapsuleCollider2D:
@@ -2173,11 +2178,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackCooldown: 1
   moveSpeed: 1
+  health: 2
   player: {fileID: 778803362}
   edgeCheck: {fileID: 355534985}
   wallCheck: {fileID: 165108348}
   playerCheck: {fileID: 492879754}
   attackTriggerFront: {fileID: 1347657130}
+  charCollider: {fileID: 1254551273}
   animator: {fileID: 1254551269}
   cEnum: 0
 --- !u!70 &1254551273
