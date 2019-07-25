@@ -2,26 +2,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Min : MonoBehaviour
+public class ZombieMagic : MonoBehaviour
 {
     public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
-    int random;
-    public Transform player;
+
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
+    public Transform player;
     public Collider2D attackTriggerFront;
     public Animator animator;
-    public int cEnum = 0;
-
     bool hurt = false;
     bool isGrounded = true;
     bool wallAhead = false;
     bool playerAhead = false;
     bool attack = false;
     bool facingRight = true;
-    bool charging = false;
     float oldMoveSpeed;
     float attackTimer;
 
@@ -41,28 +38,8 @@ public class Min : MonoBehaviour
         isGrounded = Physics2D.Linecast(pos, edgeCheck.position, 1 << LayerMask.NameToLayer("Ground")); //check directly infront of feet for edge
         wallAhead = Physics2D.Linecast(pos, wallCheck.position, 1 << LayerMask.NameToLayer("Ground")); //sets true if detects wall ahead
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
-
         if (!hurt)
         {
-            if (charging)
-            {
-
-                if (cEnum == 6)
-                {
-
-                    attackTriggerFront.enabled = true;
-                    cEnum = 0;
-                }
-                else
-                {
-                    attackTriggerFront.enabled = false;
-
-
-                    cEnum += 1;
-                }
-
-            }
-
             if (!playerAhead)
             {
                 if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
@@ -71,57 +48,24 @@ public class Min : MonoBehaviour
                 }
                 else //else, turn around
                 {
-                    attackTriggerFront.enabled = false;
-                    charging = false;
-                    random = Random.Range(0, 2);
-
-                    if (random == 0)
-                    {
-                        animator.SetTrigger("isWalking");
-                        if (moveSpeed < 0)
-                        {
-                            moveSpeed = 1f;
-                        }
-                        else
-                        {
-                            moveSpeed = -1f;
-
-                        }
-                    }
-
-                    if (random == 1)
-                    {
-                        animator.SetTrigger("isCharging");
-                        charging = true;
-                        attackTriggerFront.enabled = true;
-
-                        if (moveSpeed < 0)
-                        {
-                            moveSpeed = 6f;
-                        }
-                        else
-                        {
-                            moveSpeed = -6f;
-
-                        }
-                    }
+                    moveSpeed *= -1;
                     facingRight = !facingRight;
                     Vector2 charScale = transform.localScale;
                     charScale.x *= -1;
                     transform.localScale = charScale;
                 }
             }
-            if (!attack && playerAhead && !charging) //if player is ahead, attack
+            if (!attack && playerAhead) //if player is ahead, attack
             {
-                animator.SetTrigger("isAttacking");
+                animator.SetTrigger("attack");
                 attack = true;
-
 
 
                 oldMoveSpeed = moveSpeed; //save current moving direction
                 moveSpeed = 0; //stop moving to start attack
             }
         }
+
 
         transform.position = pos;
     }
@@ -136,7 +80,7 @@ public class Min : MonoBehaviour
 
     public void Damage(int dmg) //detects attack from player (can add HP and stuff here later)
     {
-        if(!hurt && !attack)
+        if (!hurt && !attack)
         {
             animator.SetTrigger("hurt");
 
@@ -172,32 +116,20 @@ public class Min : MonoBehaviour
         }
     }
 
+
+
     public void AlertObservers(string message)
     {
-
         if (message.Equals("hurtEnd"))
         {
-
-            hurt = false;
-            animator.SetTrigger("isCharging");
-            charging = true;
-            attackTriggerFront.enabled = true;
-
-            if (moveSpeed > 0)
-            {
-                moveSpeed = 6f;
-            }
-            else
-            {
-                moveSpeed = -6f;
-
-            }
-        }
+            Destroy(gameObject); 
+                
+                }
 
         if (message.Equals("attack"))
         {
 
-            attackTriggerFront.enabled = true;
+            attackTriggerFront.enabled = false;
 
         }
 
@@ -210,5 +142,7 @@ public class Min : MonoBehaviour
             moveSpeed = oldMoveSpeed; //once attack has finished, start moving again
 
         }
+
+
     }
 }
