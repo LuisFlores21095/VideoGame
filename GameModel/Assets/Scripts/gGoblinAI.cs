@@ -8,7 +8,7 @@ public class gGoblinAI : MonoBehaviour
 {
     public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
-    public float moveCooldown = 5.0f;
+    public float moveCooldown = 6.0f;
 
     public Transform edgeCheck;
     public Transform wallCheck;
@@ -54,7 +54,7 @@ public class gGoblinAI : MonoBehaviour
         animator.SetBool("Move", move);
         if (!hurt)
         {
-            if (moveTimer <= 0 && !pause && !jumping) //if moving and move timer ran out
+            if (moveTimer <= 0 && !pause && !jumping && !attack) //if moving and move timer ran out
             {
                 pause = true; // stop moving
                 jumping = true;
@@ -73,7 +73,7 @@ public class gGoblinAI : MonoBehaviour
             {
                 pause = false; //start moving
                 jumping = false;
-                moveTimer = 5f;
+                moveTimer = 6f;
             }
 
 
@@ -102,7 +102,7 @@ public class gGoblinAI : MonoBehaviour
             }
 
 
-            if (!attack && playerAhead) //if player is ahead, attack
+            if (!attack && playerAhead &&!jumping) //if player is ahead, attack
             {
                 attack = true;
 
