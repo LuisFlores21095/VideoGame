@@ -7,6 +7,7 @@ public class GKAI : MonoBehaviour
     public float attackCooldown = 1.0f;
     public float moveSpeed = -1.0f;
     public int cEnum = 0;
+    public int Health = 2;
 
     public Transform edgeCheck;
     public Transform player;
@@ -136,10 +137,22 @@ public class GKAI : MonoBehaviour
 
     public void Damage(int dmg) //detects attack from player (can add HP and stuff here later)
     {
+       
+
         if (!hurt && !attack && !charging)
         {
-            animator.SetTrigger("hurt");
+            Health -= dmg;
 
+            if (Health <= 0)
+            {
+                animator.SetTrigger("dead");
+
+            }
+            else
+            {
+                animator.SetTrigger("hurt");
+            }
+            
             hurt = true;
             if (player.transform.position.x >= gameObject.transform.position.x)
             {
@@ -174,7 +187,13 @@ public class GKAI : MonoBehaviour
 
     public void AlertObservers(string message)
     {
-        if (message.Equals("screamEnd"))
+
+        if (message.Equals("deadEnd"))
+        {
+
+            Destroy(gameObject);
+        }
+            if (message.Equals("screamEnd"))
         {
             hurt = false;
             charging = true;
