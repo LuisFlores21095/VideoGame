@@ -148,6 +148,7 @@ public class gGoblinAI : MonoBehaviour
             charCollider.enabled = false;
             rb.isKinematic = true;
 
+
             hurt = true;
             if (player.transform.position.x >= gameObject.transform.position.x)
             {

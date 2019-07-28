@@ -41,17 +41,6 @@ public class playerControls : MonoBehaviour
 
         hurtTimer = 1.0f;
         attackTimer = 0.5f;
-
-        // Instantiating health bar 
-        HealthSystem healthSystem = new HealthSystem(100);
-        Transform healthBarTransform = Instantiate(prefabHealthBar, new Vector2(0,10), Quaternion.identity);
-        HealthBar healthBar = healthBarTransform.GetComponent<HealthBar>();
-        healthBar.Setup(healthSystem);
-        // Test 
-        Debug.Log("Health: " + healthSystem.GetHealthPercent());
-        healthSystem.Damage(10);
-        Debug.Log("Health: " + healthSystem.GetHealthPercent());
-
     }
 
     // Update is called once per frame
@@ -171,6 +160,7 @@ public class playerControls : MonoBehaviour
         }
         if (col.gameObject.CompareTag("Enemy") || col.gameObject.CompareTag("Hazard"))
         {
+            GetComponent<PlayerHealth>().TakeDamage(5);
             hurt = true;
             if (facingRight)
             {
