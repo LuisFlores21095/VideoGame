@@ -26,6 +26,7 @@ public class jumpingGoblinAI : MonoBehaviour
     bool next = false;
     bool playerDown = false;
     bool playerX = false;
+    bool facingRight = true;
 
     float oldMoveSpeed;
     float attackTimer;
@@ -56,6 +57,8 @@ public class jumpingGoblinAI : MonoBehaviour
         playerUp = (player.transform.position.y >= gameObject.transform.position.y + 1.0f);
         playerX = (player.transform.position.x - .1f <= gameObject.transform.position.x  && player.transform.position.x + .1f >= gameObject.transform.position.x );
         playerDown = (player.transform.position.y <= gameObject.transform.position.y + 1.0f);
+
+        Debug.Log("facing right? : " + facingRight);
 
 
         animator.SetBool("Move", move);
@@ -114,6 +117,11 @@ public class jumpingGoblinAI : MonoBehaviour
                 }
             }
             moveTimer -= Time.deltaTime;
+            //facing right boolean: only chnages when walking
+            facingRight = (player.transform.position.x >= gameObject.transform.position.x); //if player is on the right of monster, facingRight=true
+            //if player is on the left of monster, facingRight=false
+            //if the monster is screaming, he doesn't turn around, regardless of where player is
+            Debug.Log("facing right? : " + facingRight);
 
             if (!attack && playerAhead && !jump) //if player is ahead, attack
             {
