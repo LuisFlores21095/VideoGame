@@ -66,7 +66,6 @@ public class Wizard : MonoBehaviour
             {
                 animator.SetTrigger("attack");
                 attack = true;
-                ThrowMagic(1);
 
 
                 oldMoveSpeed = moveSpeed; //save current moving direction
@@ -149,6 +148,7 @@ public class Wizard : MonoBehaviour
 
         if (message.Equals("attack"))
         {
+            ThrowMagic(1);
 
             attackTriggerFront.enabled = false;
 

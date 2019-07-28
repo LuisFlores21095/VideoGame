@@ -1100,8 +1100,8 @@ TextureImporter:
       name: DnDTOD_TrollLeader (1)_40
       rect:
         serializedVersion: 2
-        x: 334
-        y: 284
+        x: 1084
+        y: 285
         width: 218
         height: 131
       alignment: 0
@@ -1142,8 +1142,8 @@ TextureImporter:
       name: DnDTOD_TrollLeader (1)_42
       rect:
         serializedVersion: 2
-        x: 4
-        y: 275
+        x: 1409
+        y: 276
         width: 219
         height: 131
       alignment: 0
@@ -1184,8 +1184,8 @@ TextureImporter:
       name: DnDTOD_TrollLeader (1)_44
       rect:
         serializedVersion: 2
-        x: 666
-        y: 261
+        x: 739
+        y: 262
         width: 219
         height: 131
       alignment: 0
@@ -1205,8 +1205,8 @@ TextureImporter:
       name: DnDTOD_TrollLeader (1)_45
       rect:
         serializedVersion: 2
-        x: 936
-        y: 273
+        x: 456
+        y: 276
         width: 219
         height: 131
       alignment: 0
@@ -1247,8 +1247,8 @@ TextureImporter:
       name: DnDTOD_TrollLeader (1)_47
       rect:
         serializedVersion: 2
-        x: 1278
-        y: 284
+        x: 119
+        y: 286
         width: 219
         height: 131
       alignment: 0
@@ -1331,8 +1331,8 @@ TextureImporter:
       name: DnDTOD_TrollLeader (1)_51
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 128
+        x: 136
+        y: 132
         width: 218
         height: 131
       alignment: 0

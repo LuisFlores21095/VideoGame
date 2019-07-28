@@ -64,7 +64,6 @@ public class ZombieMagic : MonoBehaviour
             {
                 animator.SetTrigger("attack");
                 attack = true;
-                ThrowMagic(1);
 
 
                 oldMoveSpeed = moveSpeed; //save current moving direction
@@ -133,10 +132,9 @@ public class ZombieMagic : MonoBehaviour
                 
                 }
 
-        if (message.Equals("attack"))
+        if (message.Equals("throwStart"))
         {
             ThrowMagic(1);
-            Debug.Log("throwing magic");
 
         }
 
