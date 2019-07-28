@@ -11,7 +11,6 @@ public class ZombieMagic : MonoBehaviour
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
-    public Transform player;
     public Collider2D charCollider;
 
     public Animator animator;
@@ -25,6 +24,7 @@ public class ZombieMagic : MonoBehaviour
     float attackTimer;
 
     Vector2 pos;
+    GameObject player;
 
     [SerializeField]
     GameObject magicPrefab;
@@ -33,6 +33,7 @@ public class ZombieMagic : MonoBehaviour
     void Start()
     {
         attackTimer = 0;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame

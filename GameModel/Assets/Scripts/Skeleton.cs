@@ -7,7 +7,6 @@ public class Skeleton : MonoBehaviour
     public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
     public int health;
-    public Transform player;
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
@@ -27,12 +26,14 @@ public class Skeleton : MonoBehaviour
     float attackTimer;
 
     Vector2 pos;
+    GameObject player;
 
     // Start is called before the first frame update
     void Start()
     {
         attackTimer = 0;
         attackTriggerFront.enabled = false;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame

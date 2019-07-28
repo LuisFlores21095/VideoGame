@@ -10,7 +10,6 @@ public class DogCreature : MonoBehaviour
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
-    public Transform player;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
 
@@ -27,12 +26,14 @@ public class DogCreature : MonoBehaviour
     float attackTimer;
 
     Vector2 pos;
+    GameObject player;
 
     // Start is called before the first frame update
     void Start()
     {
         attackTimer = 0;
         attackTriggerFront.enabled = false;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame

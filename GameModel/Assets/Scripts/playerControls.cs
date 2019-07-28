@@ -162,7 +162,14 @@ public class playerControls : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col) // hurts player if it comes in contact with enemy or enemy attack
     {
-        if (col.gameObject.CompareTag("Enemy"))
+        if (hurt)
+        {
+            if(col.gameObject.CompareTag("Enemy") || col.gameObject.CompareTag("Hazard"))
+            {
+                Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
+            }
+        }
+        if (col.gameObject.CompareTag("Enemy") || col.gameObject.CompareTag("Hazard"))
         {
             hurt = true;
             if (facingRight)

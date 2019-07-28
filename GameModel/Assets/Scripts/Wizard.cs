@@ -16,6 +16,7 @@ public class Wizard : MonoBehaviour
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
     public Animator animator;
+
     bool hurt = false;
     bool isGrounded = true;
     bool wallAhead = false;
@@ -26,6 +27,9 @@ public class Wizard : MonoBehaviour
     float attackTimer;
 
     Vector2 pos;
+
+    [SerializeField]
+    GameObject spellPrefab;
 
     // Start is called before the first frame update
     void Start()
@@ -62,6 +66,7 @@ public class Wizard : MonoBehaviour
             {
                 animator.SetTrigger("attack");
                 attack = true;
+                ThrowMagic(1);
 
 
                 oldMoveSpeed = moveSpeed; //save current moving direction
@@ -160,5 +165,18 @@ public class Wizard : MonoBehaviour
         }
 
 
+    }
+
+    public void ThrowMagic(int val)
+    {
+        GameObject tmp = (GameObject)Instantiate(spellPrefab, transform.position, transform.rotation);
+        if (facingRight)
+        {
+            tmp.GetComponent<thrown>().Initialize(Vector2.right);
+        }
+        else
+        {
+            tmp.GetComponent<thrown>().Initialize(Vector2.left);
+        }
     }
 }

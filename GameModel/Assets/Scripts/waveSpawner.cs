@@ -22,6 +22,7 @@ public class waveSpawner : MonoBehaviour
     public Transform[] spawnPoints;
     public Transform bossSpawnPoint;
     public Transform bossEnemy;
+    public GameObject nextArrow;
 
     int nextWave = 0;
     float waveCountdown;
@@ -30,6 +31,7 @@ public class waveSpawner : MonoBehaviour
     void Start()
     {
         waveCountdown = timeBetween;
+        nextArrow.SetActive(false);
     }
 
 
@@ -39,7 +41,7 @@ public class waveSpawner : MonoBehaviour
         {
             if (!EnemyIsAlive())
             {
-                //go to next level
+                nextArrow.SetActive(true);
             }
             else
             {

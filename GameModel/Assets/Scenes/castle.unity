@@ -447,6 +447,8 @@ MonoBehaviour:
   attackTriggerFront: {fileID: 1726818387}
   charCollider: {fileID: 203468124}
   animator: {fileID: 203468120}
+  spellPrefab: {fileID: 4360513418900221479, guid: 2bd7cdf48e3bf3347a7c023ff54fbda2,
+    type: 3}
 --- !u!70 &203468124
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

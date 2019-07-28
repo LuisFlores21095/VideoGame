@@ -8,7 +8,6 @@ public class FatMon : MonoBehaviour
     public float moveSpeed = 1.0f;
     public float health; 
     int random;
-    public Transform player;
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
@@ -29,12 +28,14 @@ public class FatMon : MonoBehaviour
     float attackTimer;
 
     Vector2 pos;
+    GameObject player;
 
     // Start is called before the first frame update
     void Start()
     {
         attackTimer = 0;
         attackTriggerFront.enabled = false;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
