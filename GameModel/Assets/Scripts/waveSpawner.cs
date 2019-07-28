@@ -15,11 +15,13 @@ public class waveSpawner : MonoBehaviour
 
     }
 
-    public enum SpawnState { spawning, waiting, counting };
+    public enum SpawnState { spawning, waiting, counting, boss, end };
     public Wave[] waves;
     public float timeBetween = 5f;
     public SpawnState state = SpawnState.counting;
     public Transform[] spawnPoints;
+    public Transform bossSpawnPoint;
+    public Transform bossEnemy;
 
     int nextWave = 0;
     float waveCountdown;
@@ -33,6 +35,17 @@ public class waveSpawner : MonoBehaviour
 
     void Update()
     {
+        if (state == SpawnState.boss)
+        {
+            if (!EnemyIsAlive())
+            {
+                //go to next level
+            }
+            else
+            {
+                return;
+            }
+        }
         if (state == SpawnState.waiting)// waiting for player to kill enemies
         {
             if (!EnemyIsAlive()) //if no enemies alive
@@ -40,10 +53,11 @@ public class waveSpawner : MonoBehaviour
                 Debug.Log("Wave Complete.");
                 state = SpawnState.counting;
                 waveCountdown = timeBetween;
-                if (nextWave + 1 > waves.Length - 1)// waves ended, spawn boss here later
+                if (nextWave + 1 > waves.Length - 1)// waves ended, spawn boss
                 {
+                    SpawnBoss(bossEnemy);
+                    state = SpawnState.boss;
                     nextWave = 0;
-                    Debug.Log("RESETTING WAVES");
                 }
                 else
                 {
@@ -89,6 +103,13 @@ public class waveSpawner : MonoBehaviour
         Debug.Log("Spawning Enemy: " + enemy.name);
         Transform sp = spawnPoints[Random.Range(0, spawnPoints.Length)];
         Instantiate(enemy, sp.position, sp.rotation);
+    }
+
+    void SpawnBoss(Transform boss)
+    {
+        Debug.Log("Spawning Enemy: " + boss.name);
+        Transform sp = bossSpawnPoint;
+        Instantiate(boss, sp.position, sp.rotation);
     }
 
     bool EnemyIsAlive()

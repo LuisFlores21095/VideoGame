@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class thrownRock : MonoBehaviour
+public class thrown : MonoBehaviour
 {
     [SerializeField]
     float speed;

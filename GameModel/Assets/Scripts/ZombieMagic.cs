@@ -12,7 +12,6 @@ public class ZombieMagic : MonoBehaviour
     public Transform wallCheck;
     public Transform playerCheck;
     public Transform player;
-    public Collider2D attackTriggerFront;
     public Collider2D charCollider;
 
     public Animator animator;
@@ -27,11 +26,13 @@ public class ZombieMagic : MonoBehaviour
 
     Vector2 pos;
 
+    [SerializeField]
+    GameObject magicPrefab;
+
     // Start is called before the first frame update
     void Start()
     {
         attackTimer = 0;
-        attackTriggerFront.enabled = false;
     }
 
     // Update is called once per frame
@@ -62,6 +63,7 @@ public class ZombieMagic : MonoBehaviour
             {
                 animator.SetTrigger("attack");
                 attack = true;
+                ThrowMagic(1);
 
 
                 oldMoveSpeed = moveSpeed; //save current moving direction
@@ -132,14 +134,13 @@ public class ZombieMagic : MonoBehaviour
 
         if (message.Equals("attack"))
         {
-
-            attackTriggerFront.enabled = false;
+            ThrowMagic(1);
+            Debug.Log("throwing magic");
 
         }
 
         if (message.Equals("attackEnd"))
         {
-            attackTriggerFront.enabled = false;
             attack = false;
 
 
@@ -148,5 +149,18 @@ public class ZombieMagic : MonoBehaviour
         }
 
 
+    }
+
+    public void ThrowMagic(int val)
+    {
+        GameObject tmp = (GameObject)Instantiate(magicPrefab, transform.position, transform.rotation);
+        if (facingRight)
+        {
+            tmp.GetComponent<thrown>().Initialize(Vector2.right);
+        }
+        else
+        {
+            tmp.GetComponent<thrown>().Initialize(Vector2.left);
+        }
     }
 }

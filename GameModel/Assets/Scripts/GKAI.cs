@@ -10,7 +10,6 @@ public class GKAI : MonoBehaviour
     public int Health = 2;
 
     public Transform edgeCheck;
-    public Transform player;
     public Transform wallCheck;
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
@@ -35,6 +34,7 @@ public class GKAI : MonoBehaviour
     int randomNext;
 
     Vector2 pos;
+    GameObject player;
 
     [SerializeField]
     GameObject rockPrefab;
@@ -44,6 +44,7 @@ public class GKAI : MonoBehaviour
     {
         attackTimer = 0;
         attackTriggerFront.enabled = false;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -338,11 +339,11 @@ public class GKAI : MonoBehaviour
         GameObject tmp = (GameObject)Instantiate(rockPrefab, transform.position, transform.rotation);
         if (facingRight)
         {
-            tmp.GetComponent<thrownRock>().Initialize(Vector2.left);
+            tmp.GetComponent<thrown>().Initialize(Vector2.left);
         }
         else
         {
-            tmp.GetComponent<thrownRock>().Initialize(Vector2.right);
+            tmp.GetComponent<thrown>().Initialize(Vector2.right);
         }
     }
 }
