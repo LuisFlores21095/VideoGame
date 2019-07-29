@@ -12,6 +12,7 @@ public class ZombieMagic : MonoBehaviour
     public Transform wallCheck;
     public Transform playerCheck;
     public Collider2D charCollider;
+    public Rigidbody2D charRigid;
 
     public Animator animator;
     bool hurt = false;
@@ -20,6 +21,8 @@ public class ZombieMagic : MonoBehaviour
     bool playerAhead = false;
     bool attack = false;
     bool facingRight = true;
+    bool isGround = false;
+
     float oldMoveSpeed;
     float attackTimer;
 
