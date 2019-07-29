@@ -1498,7 +1498,7 @@ GameObject:
   - component: {fileID: 1049106137}
   m_Layer: 8
   m_Name: ground
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1604,7 +1604,7 @@ GameObject:
   - component: {fileID: 1119256679}
   m_Layer: 8
   m_Name: block24 (2)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3158,7 +3158,7 @@ GameObject:
   - component: {fileID: 2006137549}
   m_Layer: 8
   m_Name: block24 (1)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3404,7 +3404,7 @@ GameObject:
   - component: {fileID: 2063674547}
   m_Layer: 8
   m_Name: block24
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

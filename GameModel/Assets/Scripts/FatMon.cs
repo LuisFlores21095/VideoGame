@@ -13,6 +13,8 @@ public class FatMon : MonoBehaviour
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
+    public Rigidbody2D charRigid;
+
 
     public Animator animator;
     public int cEnum = 0;
@@ -24,6 +26,8 @@ public class FatMon : MonoBehaviour
     bool attack = false;
     bool facingRight = true;
     bool charging = false;
+    bool onGround = false;
+
     float oldMoveSpeed;
     float attackTimer;
 
@@ -67,7 +71,7 @@ public class FatMon : MonoBehaviour
 
             }
 
-            if (!playerAhead)
+            if (!playerAhead && onGround)
             {
                 if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
                 {
@@ -132,7 +136,12 @@ public class FatMon : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "Enemy")
+        if (col.gameObject.tag == "ground")
+        {
+            charRigid.isKinematic = true;
+            onGround = true;
+        }
+            if (col.gameObject.tag == "Enemy")
         {
             Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
         }

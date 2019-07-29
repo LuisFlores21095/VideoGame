@@ -21,7 +21,7 @@ public class ZombieMagic : MonoBehaviour
     bool playerAhead = false;
     bool attack = false;
     bool facingRight = true;
-    bool isGround = false;
+    bool onGround = false;
 
     float oldMoveSpeed;
     float attackTimer;
@@ -80,7 +80,13 @@ public class ZombieMagic : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "Enemy")
+
+        if (col.gameObject.tag == "ground") {
+            charRigid.isKinematic = true;
+            onGround = true;
+        }
+        
+            if (col.gameObject.tag == "Enemy")
         {
             Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
         }

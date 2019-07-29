@@ -304,7 +304,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 6
   m_Sprite: {fileID: 6349706753131628107, guid: a2d5e509f7b7124429084032a12f7315,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -351,12 +351,12 @@ MonoBehaviour:
   attackCooldown: 1
   moveSpeed: 1
   health: 2
-  player: {fileID: 0}
   edgeCheck: {fileID: 8223589131733066848}
   wallCheck: {fileID: 8223589131793479317}
   playerCheck: {fileID: 8223589131602088803}
   attackTriggerFront: {fileID: 8223589132724924739}
   charCollider: {fileID: 8223589132815925760}
+  charRigid: {fileID: 1250457706089444940}
   animator: {fileID: 8223589132815925772}
   cEnum: 0
 --- !u!70 &8223589132815925760

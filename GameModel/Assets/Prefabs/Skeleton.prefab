@@ -122,12 +122,12 @@ MonoBehaviour:
   attackCooldown: 1
   moveSpeed: 1
   health: 3
-  player: {fileID: 0}
   edgeCheck: {fileID: 1522744985638599465}
   wallCheck: {fileID: 1522744986747906307}
   playerCheck: {fileID: 1522744986405630314}
   attackTriggerFront: {fileID: 1522744986892462347}
   charCollider: {fileID: 1522744985527036315}
+  charRigid: {fileID: 7150011474840924459}
   animator: {fileID: 1522744985527036319}
 --- !u!70 &1522744985527036315
 CapsuleCollider2D:

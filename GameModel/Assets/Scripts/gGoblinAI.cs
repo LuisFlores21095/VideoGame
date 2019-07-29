@@ -28,6 +28,7 @@ public class gGoblinAI : MonoBehaviour
     bool move = true; //whether to move or not
     bool jumping;
     bool pause = false;
+    bool onGround = false;
 
 
 
@@ -83,7 +84,7 @@ public class gGoblinAI : MonoBehaviour
 
 
 
-            if (!playerAhead && !pause && !jumping)
+            if (!playerAhead && !pause && !jumping && onGround)
             {
                 if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
                 {
@@ -134,7 +135,12 @@ public class gGoblinAI : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if(col.gameObject.tag == "Enemy")
+        if (col.gameObject.tag == "ground") {
+            onGround = true;
+        }
+        
+
+            if (col.gameObject.tag == "Enemy")
         {
             Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
         }
