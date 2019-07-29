@@ -29,6 +29,7 @@ public class playerControls : MonoBehaviour
     float hurtTimer;
     float attackTimer;
 
+
     Vector2 pos;
 
     // Start is called before the first frame update
@@ -160,7 +161,11 @@ public class playerControls : MonoBehaviour
         }
         if (col.gameObject.CompareTag("Enemy") || col.gameObject.CompareTag("Hazard"))
         {
-            GetComponent<PlayerHealth>().TakeDamage(5);
+
+            GetComponent<PlayerHealth>().TakeDamage(8);
+            
+
+
             hurt = true;
             if (facingRight)
             {
