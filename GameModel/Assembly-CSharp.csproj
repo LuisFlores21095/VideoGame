@@ -62,8 +62,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PauseMenu.cs" />
-    <Compile Include="Assets\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\attackTrigger.cs" />
     <Compile Include="Assets\Scripts\bGoblinAI.cs" />
     <Compile Include="Assets\Scripts\DogCreature.cs" />
@@ -73,12 +71,15 @@
     <Compile Include="Assets\Scripts\GKAI.cs" />
     <Compile Include="Assets\Scripts\GoldKnight.cs" />
     <Compile Include="Assets\Scripts\HugeKnight.cs" />
+    <Compile Include="Assets\Scripts\InstructionsMenu.cs" />
     <Compile Include="Assets\Scripts\jumpingGoblinAI.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Min.cs" />
     <Compile Include="Assets\Scripts\nextArrow.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\platformTran.cs" />
     <Compile Include="Assets\Scripts\playerControls.cs" />
+    <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\rGoblinAI.cs" />
     <Compile Include="Assets\Scripts\Skeleton.cs" />
     <Compile Include="Assets\Scripts\thrown.cs" />
