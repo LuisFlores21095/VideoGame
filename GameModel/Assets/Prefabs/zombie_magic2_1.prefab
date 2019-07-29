@@ -211,6 +211,7 @@ MonoBehaviour:
   wallCheck: {fileID: 8356136120253070351}
   playerCheck: {fileID: 1196846733009700123}
   charCollider: {fileID: 229906715592075760}
+  charRigid: {fileID: 3031702818942153633}
   animator: {fileID: 4374721905551283242}
   magicPrefab: {fileID: 1406672418171569043, guid: 5a71c806d4b5a914c83adc377d3455b4,
     type: 3}

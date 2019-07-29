@@ -12,6 +12,8 @@ public class Skeleton : MonoBehaviour
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
+    public Rigidbody2D charRigid;
+
 
     public Animator animator;
 
@@ -22,6 +24,9 @@ public class Skeleton : MonoBehaviour
     bool attack = false;
     bool facingRight = true;
     bool spawnFinish = false;
+    bool onGround = false;
+
+
     float oldMoveSpeed;
     float attackTimer;
 
@@ -76,7 +81,14 @@ public class Skeleton : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "Enemy")
+        if (col.gameObject.tag == "ground")
+        {
+
+            charRigid.isKinematic = true;
+            onGround = true;
+        }
+
+            if (col.gameObject.tag == "Enemy")
         {
             Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
         }

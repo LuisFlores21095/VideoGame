@@ -244,7 +244,7 @@ public class jumpingGoblinAI : MonoBehaviour
             attackTriggerFront.enabled = false;
             attack = false;
 
-            animator.SetBool("attack", attack);
+           
 
             moveSpeed = oldMoveSpeed; //once attack has finished, start moving again
 
