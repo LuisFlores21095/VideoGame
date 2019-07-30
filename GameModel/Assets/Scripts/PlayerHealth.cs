@@ -20,7 +20,7 @@ public class PlayerHealth : MonoBehaviour
     {
         currentHealth -= Damage;
         HealthBar.value = currentHealth;
-        if(currentHealth == 0)
+        if(currentHealth <= 0)
         {
             SceneManager.LoadScene("mainMenu");
         }
