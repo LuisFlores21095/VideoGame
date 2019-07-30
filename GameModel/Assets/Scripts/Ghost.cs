@@ -11,7 +11,6 @@ public class Ghost : MonoBehaviour
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
-    public Transform player;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
     public Animator animator;
@@ -26,10 +25,12 @@ public class Ghost : MonoBehaviour
     float attackTimer;
 
     Vector2 pos;
+    GameObject player;
 
     // Start is called before the first frame update
     void Start()
     {
+        player = GameObject.FindGameObjectWithTag("Player");
         attackTimer = 0;
         attackTriggerFront.enabled = false;
     }

@@ -12,8 +12,6 @@ public class Wizard : MonoBehaviour
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
-    public Transform player;
-    public Collider2D attackTriggerFront;
     public Collider2D charCollider;
     public Animator animator;
 
@@ -27,6 +25,7 @@ public class Wizard : MonoBehaviour
     float attackTimer;
 
     Vector2 pos;
+    GameObject player;
 
     [SerializeField]
     GameObject spellPrefab;
@@ -35,7 +34,7 @@ public class Wizard : MonoBehaviour
     void Start()
     {
         attackTimer = 0;
-        attackTriggerFront.enabled = false;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -150,13 +149,10 @@ public class Wizard : MonoBehaviour
         {
             ThrowMagic(1);
 
-            attackTriggerFront.enabled = false;
-
         }
 
         if (message.Equals("attackEnd"))
         {
-            attackTriggerFront.enabled = false;
             attack = false;
 
 

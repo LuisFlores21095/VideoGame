@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class waveSpawner : MonoBehaviour
 {
@@ -23,10 +24,12 @@ public class waveSpawner : MonoBehaviour
     public Transform bossSpawnPoint;
     public Transform bossEnemy;
     public GameObject nextArrow;
+    public GameObject textBox;
 
     int nextWave = 0;
     float waveCountdown;
     float searchCountdown = 1f;
+    float textBoxCountdown = 5f;
 
     void Start()
     {
@@ -37,6 +40,15 @@ public class waveSpawner : MonoBehaviour
 
     void Update()
     {
+        if (textBoxCountdown > 0)
+        {
+            textBoxCountdown -= Time.deltaTime;
+        }
+        else
+        {
+            textBox.SetActive(false);
+        }
+
         if (state == SpawnState.boss)
         {
             if (!EnemyIsAlive())
@@ -109,6 +121,7 @@ public class waveSpawner : MonoBehaviour
 
     void SpawnBoss(Transform boss)
     {
+        
         Debug.Log("Spawning Enemy: " + boss.name);
         Transform sp = bossSpawnPoint;
         Instantiate(boss, sp.position, sp.rotation);

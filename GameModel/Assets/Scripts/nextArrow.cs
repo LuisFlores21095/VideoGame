@@ -26,9 +26,13 @@ public class nextArrow : MonoBehaviour
             {
                 SceneManager.LoadScene("Spooky");
             }
-            else
+            else if(SceneManager.GetActiveScene().name == "Spooky")
             {
                 SceneManager.LoadScene("castle");
+            }
+            else
+            {
+                SceneManager.LoadScene("mainMenu");
             }
         }
     }

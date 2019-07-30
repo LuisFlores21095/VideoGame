@@ -6,12 +6,11 @@ public class HugeKnight : MonoBehaviour
 {
     public float attackCooldown = 1.0f;
     public float moveSpeed = 1.0f;
-    public int health;
+    public int health = 4;
 
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
-    public Transform player;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
 
@@ -27,12 +26,14 @@ public class HugeKnight : MonoBehaviour
     float attackTimer;
 
     Vector2 pos;
+    GameObject player;
 
     // Start is called before the first frame update
     void Start()
     {
         attackTimer = 0;
         attackTriggerFront.enabled = false;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
