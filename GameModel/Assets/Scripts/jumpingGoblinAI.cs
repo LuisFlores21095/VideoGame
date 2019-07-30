@@ -67,7 +67,7 @@ public class jumpingGoblinAI : MonoBehaviour
 
             animator.SetBool("Move", move);
 
-            if (playerUp && !jump)
+            if (playerUp && !jump && !attack)
             {
                 if (move)
                 {

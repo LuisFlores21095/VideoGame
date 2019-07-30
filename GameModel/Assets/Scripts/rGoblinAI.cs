@@ -83,7 +83,7 @@ public class rGoblinAI : MonoBehaviour
     {
         if (col.gameObject.tag == "ground")
         {
-            onGround = false;
+            onGround = true;
         }
 
             if (col.gameObject.tag == "Enemy")
