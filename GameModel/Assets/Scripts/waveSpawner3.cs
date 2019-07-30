@@ -21,9 +21,11 @@ public class waveSpawner3 : MonoBehaviour
     public SpawnState state = SpawnState.counting;
     public Transform[] spawnPoints;
     public Transform bossSpawnPoint;
-
-    [SerializeField]
+    public Transform miniBossSP1;
+    public Transform miniBossSP2;
     public Transform bossEnemy;
+    public Transform miniBEnemy1;
+    public Transform miniBEnemy2;
 
     public GameObject nextArrow;
     public GameObject textBox;
@@ -79,7 +81,7 @@ public class waveSpawner3 : MonoBehaviour
                     textBoxCountdown = 10f;
                     textBox.SetActive(true);
                     animator.SetTrigger("Switch");
-                    SpawnBoss(bossEnemy);
+                    SpawnBoss(bossEnemy, miniBEnemy1, miniBEnemy2);
                     state = SpawnState.boss;
                     nextWave = 0;
                 }
@@ -129,11 +131,19 @@ public class waveSpawner3 : MonoBehaviour
         Instantiate(enemy, sp.position, sp.rotation);
     }
 
-    void SpawnBoss(Transform boss)
+    void SpawnBoss(Transform boss, Transform minib1, Transform minib2)
     {
         Debug.Log("Spawning Enemy: " + boss.name);
         Transform sp = bossSpawnPoint;
         Instantiate(boss, sp.position, sp.rotation);
+
+        Debug.Log("Spawning Enemy: " + minib1.name);
+        Transform sp2 = miniBossSP1;
+        Instantiate(minib1, sp2.position, sp2.rotation);
+
+        Debug.Log("Spawning Enemy: " + minib2.name);
+        Transform sp3 = miniBossSP2;
+        Instantiate(minib2, sp3.position, sp3.rotation);
     }
 
     bool EnemyIsAlive()
