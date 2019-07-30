@@ -13,6 +13,7 @@ public class HugeKnight : MonoBehaviour
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
+    public Rigidbody2D charRigid; 
 
     public Animator animator;
 
@@ -93,6 +94,7 @@ public class HugeKnight : MonoBehaviour
             {
                 animator.SetTrigger("dead");
                 charCollider.enabled = false;
+                charRigid.isKinematic = true;
             }
             else
             {

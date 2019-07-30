@@ -141,6 +141,7 @@ MonoBehaviour:
   wallCheck: {fileID: 2504156891621048578}
   playerCheck: {fileID: 2504156891050304827}
   charCollider: {fileID: 2504156889965956508}
+  charRigid: {fileID: -5577353155025045122}
   animator: {fileID: 2504156889965956504}
   spellPrefab: {fileID: 4360513418900221479, guid: 2bd7cdf48e3bf3347a7c023ff54fbda2,
     type: 3}

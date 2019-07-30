@@ -14,6 +14,7 @@ public class GoldKnight : MonoBehaviour
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
+    public Rigidbody2D charRigid;
 
     public Animator animator;
     bool hurt = false;
@@ -22,6 +23,8 @@ public class GoldKnight : MonoBehaviour
     bool playerAhead = false;
     bool attack = false;
     bool facingRight = true;
+    bool onGround = false;
+
     float oldMoveSpeed;
     float attackTimer;
 
@@ -45,7 +48,7 @@ public class GoldKnight : MonoBehaviour
         playerAhead = Physics2D.Linecast(pos, playerCheck.position, 1 << LayerMask.NameToLayer("Player")); //sets true if player is ahead
         if (!hurt)
         {
-            if (!playerAhead)
+            if (!playerAhead && onGround)
             {
                 if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
                 {
@@ -77,7 +80,12 @@ public class GoldKnight : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "Enemy")
+        if (col.gameObject.tag == "ground")
+        {
+            onGround = true;
+        }
+
+            if (col.gameObject.tag == "Enemy")
         {
             Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
         }
@@ -92,6 +100,7 @@ public class GoldKnight : MonoBehaviour
             if (health <= 0) {
                 animator.SetTrigger("dead");
                 charCollider.enabled = false;
+                charRigid.isKinematic = true;
             }
             else {
                 animator.SetTrigger("hurt");

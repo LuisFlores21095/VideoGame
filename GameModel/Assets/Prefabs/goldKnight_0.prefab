@@ -326,6 +326,7 @@ MonoBehaviour:
   playerCheck: {fileID: 5380971088255876480}
   attackTriggerFront: {fileID: 5380971087450621504}
   charCollider: {fileID: 5380971088119587830}
+  charRigid: {fileID: -2647749411815348304}
   animator: {fileID: 5380971088119587826}
 --- !u!70 &5380971088119587830
 CapsuleCollider2D:

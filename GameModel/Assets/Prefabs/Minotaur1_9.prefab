@@ -128,6 +128,7 @@ MonoBehaviour:
   playerCheck: {fileID: 4980474908448662342}
   attackTriggerFront: {fileID: 4980474909510579502}
   charCollider: {fileID: 4980474908303982691}
+  charRigid: {fileID: 1961008074254510374}
   animator: {fileID: 4980474908303982695}
   cEnum: 0
 --- !u!70 &4980474908303982691

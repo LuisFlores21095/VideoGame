@@ -13,6 +13,7 @@ public class Ghost : MonoBehaviour
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
+    public Rigidbody2D charRigid;
     public Animator animator;
 
     bool hurt = false;
@@ -21,6 +22,7 @@ public class Ghost : MonoBehaviour
     bool playerAhead = false;
     bool attack = false;
     bool facingRight = true;
+    bool onGround = false;
     float oldMoveSpeed;
     float attackTimer;
 
@@ -45,7 +47,7 @@ public class Ghost : MonoBehaviour
 
         if (!hurt)
         {
-            if (!playerAhead)
+            if (!playerAhead && onGround)
             {
                 if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
                 {
@@ -76,7 +78,11 @@ public class Ghost : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "Enemy")
+        if (col.gameObject.tag == "ground")
+        {
+            onGround = true;
+        }
+            if (col.gameObject.tag == "Enemy")
         {
             Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
         }
@@ -92,6 +98,7 @@ public class Ghost : MonoBehaviour
             {
                 animator.SetTrigger("dead");
                 charCollider.enabled = false;
+                charRigid.isKinematic = true;
             }
             else
             {

@@ -9,12 +9,13 @@ public class Min : MonoBehaviour
     int random;
     public int health;
 
-    public Transform player;
     public Transform edgeCheck;
     public Transform wallCheck;
     public Transform playerCheck;
     public Collider2D attackTriggerFront;
     public Collider2D charCollider;
+    public Rigidbody2D charRigid;
+
     public Animator animator;
     public int cEnum = 0;
 
@@ -25,16 +26,20 @@ public class Min : MonoBehaviour
     bool attack = false;
     bool facingRight = true;
     bool charging = false;
+    bool onGround = false;
+
     float oldMoveSpeed;
     float attackTimer;
 
     Vector2 pos;
+    GameObject player;
 
     // Start is called before the first frame update
     void Start()
     {
         attackTimer = 0;
         attackTriggerFront.enabled = false;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -66,7 +71,7 @@ public class Min : MonoBehaviour
 
             }
 
-            if (!playerAhead)
+            if (!playerAhead && onGround)
             {
                 if (isGrounded && !wallAhead) //if there is ground ahead, and no wall ahead, keep moving
                 {
@@ -131,7 +136,12 @@ public class Min : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "Enemy")
+        if (col.gameObject.tag == "ground")
+        {
+            onGround = true;
+        }
+
+            if (col.gameObject.tag == "Enemy")
         {
             Physics2D.IgnoreCollision(col.gameObject.GetComponent<Collider2D>(), gameObject.GetComponent<Collider2D>());
         }
@@ -147,6 +157,7 @@ public class Min : MonoBehaviour
             {
                 animator.SetTrigger("dead");
                 charCollider.enabled = false;
+                charRigid.isKinematic = true;
             }
             else
             {
